@@ -1,0 +1,489 @@
+;title;author;filename;genre;sources
+0;Armut, Reichtum, Schuld und Buße der Gräfin Dolores;Achim von Arnim;Arnim_Armut,Reichtum,SchuldundBußederGräfinDolores_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Arnim,+Ludwig+Achim+von/Romane/Armut,+Reichtum,+Schuld+und+Bu%C3%9Fe+der+Gr%C3%A4fin+Dolores
+1;Die Kronenwächter;Achim von Arnim;Arnim_DieKronenwächter_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Arnim,+Ludwig+Achim+von/Romane/Die+Kronenw%C3%A4chter
+2;Der Wintergarten;Achim von Arnim;Arnim_DerWintergarten_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Arnim,+Ludwig+Achim+von/Erz%C3%A4hlungen/Der+Wintergarten
+3;Isabella von Ägypten;Achim von Arnim;Arnim_IsabellavonÄgypten_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Arnim,+Ludwig+Achim+von/Erz%C3%A4hlungen/Isabella+von+%C3%84gypten
+4;Die drei liebreichen Schwestern und der glückliche Färber;Achim von Arnim;Arnim_DiedreiliebreichenSchwesternundderglücklicheFärber_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Arnim,+Ludwig+Achim+von/Erz%C3%A4hlungen/Die+drei+liebreichen+Schwestern+und+der+gl%C3%BCckliche+F%C3%A4rber
+5;Der tolle Invalide auf dem Fort Ratonneau;Achim von Arnim;Arnim_DertolleInvalideaufdemFortRatonneau_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Arnim,+Ludwig+Achim+von/Erz%C3%A4hlungen/Der+tolle+Invalide+auf+dem+Fort+Ratonneau
+6;Die Majoratsherren;Achim von Arnim;Arnim_DieMajoratsherren_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Arnim,+Ludwig+Achim+von/Erz%C3%A4hlungen/Die+Majoratsherren
+7;Jungfer Mutter;Ada Christen, eigentlich Christiane von Breden;Breden_JungferMutter_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Christen,+Ada/Roman/Jungfer+Mutter
+8;Käthes Federhut;Ada Christen, eigentlich Christiane von Breden;Breden_KäthesFederhut_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Christen,+Ada/Erz%C3%A4hlungen/K%C3%A4thes+Federhut
+9;Rahel;Ada Christen, eigentlich Christiane von Breden;Breden_Rahel_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Christen,+Ada/Erz%C3%A4hlungen/Rahel
+10;Der einsame Spatz;Ada Christen, eigentlich Christiane von Breden;Breden_DereinsameSpatz_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Christen,+Ada/Erz%C3%A4hlungen/Der+einsame+Spatz
+11;Nachbar Krippelmacher;Ada Christen, eigentlich Christiane von Breden;Breden_NachbarKrippelmacher_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Christen,+Ada/Erz%C3%A4hlungen/Nachbar+Krippelmacher
+12;Als er heimkehrte;Ada Christen, eigentlich Christiane von Breden;Breden_Alserheimkehrte_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Christen,+Ada/Erz%C3%A4hlungen/Als+er+heimkehrte
+13;Der Nachsommer;Adalbert Stifter;Stifter_DerNachsommer_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Stifter,+Adalbert/Romane/Der+Nachsommer
+14;Witiko;Adalbert Stifter;Stifter_Witiko_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Stifter,+Adalbert/Romane/Witiko
+15;Studien;Adalbert Stifter;Stifter_Studien_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Stifter,+Adalbert/Erz%C3%A4hlungen/Studien
+16;Bunte Steine;Adalbert Stifter;Stifter_BunteSteine_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Stifter,+Adalbert/Erz%C3%A4hlungen/Bunte+Steine
+17;Nachkommenschaften;Adalbert Stifter;Stifter_Nachkommenschaften_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Stifter,+Adalbert/Erz%C3%A4hlungen/Nachkommenschaften
+18;Der Waldbrunnen;Adalbert Stifter;Stifter_DerWaldbrunnen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Stifter,+Adalbert/Erz%C3%A4hlungen/Der+Waldbrunnen
+19;Der Kuß von Sentze;Adalbert Stifter;Stifter_DerKußvonSentze_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Stifter,+Adalbert/Erz%C3%A4hlungen/Der+Ku%C3%9F+von+Sentze
+20;Der fromme Spruch;Adalbert Stifter;Stifter_DerfrommeSpruch_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Stifter,+Adalbert/Erz%C3%A4hlungen/Der+fromme+Spruch
+21;Adelberts Fabel;Adelbert von Chamisso;Chamisso_AdelbertsFabel_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Chamisso,+Adelbert+von/Erz%C3%A4hlungen/Adelberts+Fabel
+22;Peter Schlemihls wundersame Geschichte;Adelbert von Chamisso;Chamisso_PeterSchlemihlswundersameGeschichte_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Chamisso,+Adelbert+von/Erz%C3%A4hlungen/Peter+Schlemihls+wundersame+Geschichte
+23;Anna;Adele Schopenhauer;Schopenhauer_Anna_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Schopenhauer,+Adele/Roman/Anna
+24;Benjamin Noldmanns Geschichte der Aufklärung in Abyssinien;Adolph Freiherr Knigge;Knigge_BenjaminNoldmannsGeschichtederAufklärunginAbyssinien_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Knigge,+Adolph+Freiherr+von/Romane/Benjamin+Noldmanns+Geschichte+der+Aufkl%C3%A4rung+in+Abyssinien
+25;Josephs von Wurmbrands ... politisches Glaubensbekenntnis;Adolph Freiherr Knigge;Knigge_JosephsvonWurmbrandspolitischesGlaubensbekenntnis_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Knigge,+Adolph+Freiherr+von/Romane/Josephs+von+Wurmbrands+...+politisches+Glaubensbekenntnis
+26;Die Reise nach Braunschweig;Adolph Freiherr Knigge;Knigge_DieReisenachBraunschweig_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Knigge,+Adolph+Freiherr+von/Romane/Die+Reise+nach+Braunschweig
+27;Die Zerissenen;Alexander von Ungern-Sternberg;Ungern-Sternberg_DieZerissenen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ungern-Sternberg,+Alexander+von/Roman/Die+Zerissenen
+28;Ledwina;Annette von Droste-Hülshoff;Droste-Hülshoff_Ledwina_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Droste-H%C3%BClshoff,+Annette+von/Erz%C3%A4hlungen/Ledwina
+29;Die Judenbuche;Annette von Droste-Hülshoff;Droste-Hülshoff_DieJudenbuche_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Droste-H%C3%BClshoff,+Annette+von/Erz%C3%A4hlungen/Die+Judenbuche
+30;Westfälische Schilderungen;Annette von Droste-Hülshoff;Droste-Hülshoff_WestfälischeSchilderungen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Droste-H%C3%BClshoff,+Annette+von/Erz%C3%A4hlungen/Westf%C3%A4lische+Schilderungen
+31;Bei uns zulande auf dem Lande;Annette von Droste-Hülshoff;Droste-Hülshoff_BeiunszulandeaufdemLande_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Droste-H%C3%BClshoff,+Annette+von/Erz%C3%A4hlungen/Bei+uns+zulande+auf+dem+Lande
+32;Der Weg ins Freie;Arthur Schnitzler;Schnitzler_DerWeginsFreie_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Romane/Der+Weg+ins+Freie
+33;Therese;Arthur Schnitzler;Schnitzler_Therese_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Romane/Therese
+34;Welch eine Melodie;Arthur Schnitzler;Schnitzler_WelcheineMelodie_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Welch+eine+Melodie
+35;Er wartet auf den vazierenden Gott;Arthur Schnitzler;Schnitzler_ErwartetaufdenvazierendenGott_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Er+wartet+auf+den+vazierenden+Gott
+36;Amerika;Arthur Schnitzler;Schnitzler_Amerika_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Amerika
+37;Erbschaft;Arthur Schnitzler;Schnitzler_Erbschaft_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Erbschaft
+38;Der Fürst ist im Hause;Arthur Schnitzler;Schnitzler_DerFürstistimHause_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Der+F%C3%BCrst+ist+im+Hause
+39;Mein Freund Ypsilon;Arthur Schnitzler;Schnitzler_MeinFreundYpsilon_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Mein+Freund+Ypsilon
+40;Der Andere;Arthur Schnitzler;Schnitzler_DerAndere_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Der+Andere
+41;Reichtum;Arthur Schnitzler;Schnitzler_Reichtum_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Reichtum
+42;Die drei Elixire;Arthur Schnitzler;Schnitzler_DiedreiElixire_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+drei+Elixire
+43;Die Braut;Arthur Schnitzler;Schnitzler_DieBraut_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+Braut
+44;Der Sohn;Arthur Schnitzler;Schnitzler_DerSohn_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Der+Sohn
+45;Sterben;Arthur Schnitzler;Schnitzler_Sterben_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Sterben
+46;Die kleine Komödie;Arthur Schnitzler;Schnitzler_DiekleineKomödie_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+kleine+Kom%C3%B6die
+47;Komödiantinnen;Arthur Schnitzler;Schnitzler_Komödiantinnen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Kom%C3%B6diantinnen
+48;Blumen;Arthur Schnitzler;Schnitzler_Blumen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Blumen
+49;Der Witwer;Arthur Schnitzler;Schnitzler_DerWitwer_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Der+Witwer
+50;Ein Abschied;Arthur Schnitzler;Schnitzler_EinAbschied_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Ein+Abschied
+51;Der Empfindsame;Arthur Schnitzler;Schnitzler_DerEmpfindsame_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Der+Empfindsame
+52;Die Frau des Weisen;Arthur Schnitzler;Schnitzler_DieFraudesWeisen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+Frau+des+Weisen
+53;Der Ehrentag;Arthur Schnitzler;Schnitzler_DerEhrentag_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Der+Ehrentag
+54;Die Toten schweigen;Arthur Schnitzler;Schnitzler_DieTotenschweigen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+Toten+schweigen
+55;Um eine Stunde;Arthur Schnitzler;Schnitzler_UmeineStunde_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Um+eine+Stunde
+56;Die Nächste;Arthur Schnitzler;Schnitzler_DieNächste_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+N%C3%A4chste
+57;Leutnant Gustl;Arthur Schnitzler;Schnitzler_LeutnantGustl_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Leutnant+Gustl
+58;Der blinde Geronimo und sein Bruder;Arthur Schnitzler;Schnitzler_DerblindeGeronimoundseinBruder_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Der+blinde+Geronimo+und+sein+Bruder
+59;Frau Berta Garlan;Arthur Schnitzler;Schnitzler_FrauBertaGarlan_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Frau+Berta+Garlan
+60;Andreas Thameyers letzter Brief;Arthur Schnitzler;Schnitzler_AndreasThameyersletzterBrief_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Andreas+Thameyers+letzter+Brief
+61;Wohltaten Still und Rein gegeben;Arthur Schnitzler;Schnitzler_WohltatenStillundReingegeben_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Wohltaten+Still+und+Rein+gegeben
+62;Ein Erfolg;Arthur Schnitzler;Schnitzler_EinErfolg_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Ein+Erfolg
+63;Die grüne Krawatte;Arthur Schnitzler;Schnitzler_DiegrüneKrawatte_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+gr%C3%BCne+Krawatte
+64;Die Fremde;Arthur Schnitzler;Schnitzler_DieFremde_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+Fremde
+65;Exzentrik;Arthur Schnitzler;Schnitzler_Exzentrik_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Exzentrik
+66;Die griechische Tänzerin;Arthur Schnitzler;Schnitzler_DiegriechischeTänzerin_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+griechische+T%C3%A4nzerin
+67;Das Schicksal des Freiherrn von Leisenbohg;Arthur Schnitzler;Schnitzler_DasSchicksaldesFreiherrnvonLeisenbohg_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Das+Schicksal+des+Freiherrn+von+Leisenbohg
+68;Die Weissagung;Arthur Schnitzler;Schnitzler_DieWeissagung_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+Weissagung
+69;Das neue Lied;Arthur Schnitzler;Schnitzler_DasneueLied_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Das+neue+Lied
+70;Geschichte eines Genies;Arthur Schnitzler;Schnitzler_GeschichteeinesGenies_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Geschichte+eines+Genies
+71;Der Tod des Junggesellen;Arthur Schnitzler;Schnitzler_DerToddesJunggesellen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Der+Tod+des+Junggesellen
+72;Der tote Gabriel;Arthur Schnitzler;Schnitzler_DertoteGabriel_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Der+tote+Gabriel
+73;Das Tagebuch der Redegonda;Arthur Schnitzler;Schnitzler_DasTagebuchderRedegonda_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Das+Tagebuch+der+Redegonda
+74;Der Mörder;Arthur Schnitzler;Schnitzler_DerMörder_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Der+M%C3%B6rder
+75;Die dreifache Warnung;Arthur Schnitzler;Schnitzler_DiedreifacheWarnung_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+dreifache+Warnung
+76;Die Hirtenflöte;Arthur Schnitzler;Schnitzler_DieHirtenflöte_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+Hirtenfl%C3%B6te
+77;Frau Beate und ihr Sohn;Arthur Schnitzler;Schnitzler_FrauBeateundihrSohn_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Frau+Beate+und+ihr+Sohn
+78;Doktor Gräsler, Badearzt;Arthur Schnitzler;Schnitzler_DoktorGräsler,Badearzt_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Doktor+Gr%C3%A4sler,+Badearzt
+79;Der letzte Brief eines Literaten;Arthur Schnitzler;Schnitzler_DerletzteBriefeinesLiteraten_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Der+letzte+Brief+eines+Literaten
+80;Casanovas Heimfahrt;Arthur Schnitzler;Schnitzler_CasanovasHeimfahrt_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Casanovas+Heimfahrt
+81;Fräulein Else;Arthur Schnitzler;Schnitzler_FräuleinElse_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Fr%C3%A4ulein+Else
+82;Die Frau des Richters;Arthur Schnitzler;Schnitzler_DieFraudesRichters_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Die+Frau+des+Richters
+83;Traumnovelle;Arthur Schnitzler;Schnitzler_Traumnovelle_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Traumnovelle
+84;Spiel im Morgengrauen;Arthur Schnitzler;Schnitzler_SpielimMorgengrauen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Spiel+im+Morgengrauen
+85;Der Sekundant;Arthur Schnitzler;Schnitzler_DerSekundant_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Der+Sekundant
+86;Flucht in die Finsternis;Arthur Schnitzler;Schnitzler_FluchtindieFinsternis_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schnitzler,+Arthur/Erz%C3%A4hlungen/Flucht+in+die+Finsternis
+87;Die Amtmannin von Hohenweiler;Benedikte Naubert;Naubert_DieAmtmanninvonHohenweiler_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Naubert,+Benedikte/Romane/Die+Amtmannin+von+Hohenweiler
+88;Herrmann von Unna;Benedikte Naubert;Naubert_HerrmannvonUnna_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Naubert,+Benedikte/Romane/Herrmann+von+Unna
+89;Alf von Dülmen;Benedikte Naubert;Naubert_AlfvonDülmen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Naubert,+Benedikte/Romane/Alf+von+D%C3%BClmen
+90;Die Waffen nieder!;Bertha von Suttner;Suttner_DieWaffennieder!_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Suttner,+Bertha+von/Romane/Die+Waffen+nieder!
+91;Martha's Kinder;Bertha von Suttner;Suttner_Martha'sKinder_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Suttner,+Bertha+von/Romane/Martha%27s+Kinder
+92;Barfüßele;Berthold Auerbach;Auerbach_Barfüßele_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Auerbach,+Berthold/Roman/Barf%C3%BC%C3%9Fele
+93;Schwarzwälder Dorfgeschichten;Berthold Auerbach;Auerbach_SchwarzwälderDorfgeschichten_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Auerbach,+Berthold/Erz%C3%A4hlungen/Schwarzw%C3%A4lder+Dorfgeschichten
+94;Goethes Briefwechsel mit einem Kinde;Bettina von Arnim;Arnim_GoethesBriefwechselmiteinemKinde_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Arnim,+Bettina+von/Romane/Goethes+Briefwechsel+mit+einem+Kinde
+95;Die Günderode;Bettina von Arnim;Arnim_DieGünderode_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Arnim,+Bettina+von/Romane/Die+G%C3%BCnderode
+96;Clemens Brentanos Frühlingskranz;Bettina von Arnim;Arnim_ClemensBrentanosFrühlingskranz_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Arnim,+Bettina+von/Romane/Clemens+Brentanos+Fr%C3%BChlingskranz
+97;Einhart der Lächler;Carl Hauptmann;Hauptmann_EinhartderLächler_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Hauptmann,+Carl/Roman/Einhart+der+L%C3%A4chler
+98;Die Epigonen;Carl Leberecht Immermann;Immermann_DieEpigonen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Immermann,+Karl/Romane/Die+Epigonen
+99;Münchhausen;Carl Leberecht Immermann;Immermann_Münchhausen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Immermann,+Karl/Romane/M%C3%BCnchhausen
+100;Conrad der Leutnant;Carl Spitteler;Spitteler_ConradderLeutnant_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Spitteler,+Carl/Romane/Conrad+der+Leutnant
+101;Imago;Carl Spitteler;Spitteler_Imago_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Spitteler,+Carl/Romane/Imago
+102;Die Mädchenfeinde;Carl Spitteler;Spitteler_DieMädchenfeinde_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Spitteler,+Carl/Romane/Die+M%C3%A4dchenfeinde
+103;Gustavs Verirrungen;Caroline Auguste Fischer;Fischer_GustavsVerirrungen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fischer,+Caroline+Auguste/Romane/Gustavs+Verirrungen
+104;Vierzehn Tage in Paris;Caroline Auguste Fischer;Fischer_VierzehnTageinParis_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fischer,+Caroline+Auguste/Romane/Vierzehn+Tage+in+Paris
+105;Die Honigmonathe;Caroline Auguste Fischer;Fischer_DieHonigmonathe_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fischer,+Caroline+Auguste/Romane/Die+Honigmonathe
+106;Der Günstling;Caroline Auguste Fischer;Fischer_DerGünstling_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fischer,+Caroline+Auguste/Romane/Der+G%C3%BCnstling
+107;Margarethe;Caroline Auguste Fischer;Fischer_Margarethe_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fischer,+Caroline+Auguste/Romane/Margarethe
+108;Agathocles;Caroline Pichler;Pichler_Agathocles_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Pichler,+Karoline/Roman/Agathocles
+109;Agnes von Lilien;Caroline von Wolzogen;Wolzogen_AgnesvonLilien_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Wolzogen,+Caroline+von/Roman/Agnes+von+Lilien
+110;Erzählungen;Caroline von Wolzogen;Wolzogen_Erzählungen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Wolzogen,+Caroline+von/Erz%C3%A4hlungen/Erz%C3%A4hlungen
+111;Das Kajütenbuch oder Nationale Charakteristiken;Charles Sealsfield, eigentlich Karl Anton Postl;Postl_DasKajütenbuchoderNationaleCharakteristiken_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Sealsfield,+Charles/Erz%C3%A4hlungen/Das+Kaj%C3%BCtenbuch+oder+Nationale+Charakteristiken
+112;Marie Müller;Charlotte von Ahlefeld;Ahlefeld_MarieMüller_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ahlefeld,+Charlotte+von/Romane/Marie+M%C3%BCller
+113;Erna;Charlotte von Ahlefeld;Ahlefeld_Erna_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ahlefeld,+Charlotte+von/Romane/Erna
+114;Gesammelte Erzählungen;Charlotte von Ahlefeld;Ahlefeld_GesammelteErzählungen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ahlefeld,+Charlotte+von/Erz%C3%A4hlungen/Gesammelte+Erz%C3%A4hlungen
+115;Hannchens Hin- und Herzüge;Christian August Fischer;Fischer_HannchensHin-undHerzüge_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fischer,+Christian+August/Roman/Hannchens+Hin-+und+Herz%C3%BCge
+116;Dosenstücke;Christian August Fischer;Fischer_Dosenstücke_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fischer,+Christian+August/Erz%C3%A4hlungen/Dosenst%C3%BCcke
+117;Rinaldo Rinaldini, der Räuberhauptmann;Christian August Vulpius;Vulpius_RinaldoRinaldini,derRäuberhauptmann_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Vulpius,+Christian+August/Roman/Rinaldo+Rinaldini,+der+R%C3%A4uberhauptmann
+118;Geschichte des Agathon;Christoph Martin Wieland;Wieland_GeschichtedesAgathon_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Wieland,+Christoph+Martin/Romane/Geschichte+des+Agathon
+119;Der goldene Spiegel;Christoph Martin Wieland;Wieland_DergoldeneSpiegel_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Wieland,+Christoph+Martin/Romane/Der+goldene+Spiegel
+120;Die Abenteuer des Don Sylvio von Rosalva;Christoph Martin Wieland;Wieland_DieAbenteuerdesDonSylviovonRosalva_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Wieland,+Christoph+Martin/Romane/Die+Abenteuer+des+Don+Sylvio+von+Rosalva
+121;Geschichte der Abderiten;Christoph Martin Wieland;Wieland_GeschichtederAbderiten_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Wieland,+Christoph+Martin/Romane/Geschichte+der+Abderiten
+122;Peregrinus Proteus;Christoph Martin Wieland;Wieland_PeregrinusProteus_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Wieland,+Christoph+Martin/Romane/Peregrinus+Proteus
+123;Aristipp und einige seiner Zeitgenossen;Christoph Martin Wieland;Wieland_AristippundeinigeseinerZeitgenossen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Wieland,+Christoph+Martin/Romane/Aristipp+und+einige+seiner+Zeitgenossen
+124;Godwi oder Das steinerne Bild der Mutter;Clemens Brentano;Brentano_GodwioderDassteinerneBildderMutter_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Brentano,+Clemens/Roman/Godwi+oder+Das+steinerne+Bild+der+Mutter
+125;Aus der Chronika eines fahrenden Schülers;Clemens Brentano;Brentano_AusderChronikaeinesfahrendenSchülers_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Brentano,+Clemens/Erz%C3%A4hlungen/Aus+der+Chronika+eines+fahrenden+Sch%C3%BClers
+126;Die mehreren Wehmüller und ungarischen Nationalgesichter;Clemens Brentano;Brentano_DiemehrerenWehmüllerundungarischenNationalgesichter_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Brentano,+Clemens/Erz%C3%A4hlungen/Die+mehreren+Wehm%C3%BCller+und+ungarischen+Nationalgesichter
+127;Die drei Nüsse;Clemens Brentano;Brentano_DiedreiNüsse_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Brentano,+Clemens/Erz%C3%A4hlungen/Die+drei+N%C3%BCsse
+128;Geschichte vom braven Kasperl und dem schönen Annerl;Clemens Brentano;Brentano_GeschichtevombravenKasperlunddemschönenAnnerl_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Brentano,+Clemens/Erz%C3%A4hlungen/Geschichte+vom+braven+Kasperl+und+dem+sch%C3%B6nen+Annerl
+129;Das Amulett;Conrad Ferdinand Meyer;Meyer_DasAmulett_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meyer,+Conrad+Ferdinand/Erz%C3%A4hlungen/Das+Amulett
+130;Jürg Jenatsch;Conrad Ferdinand Meyer;Meyer_JürgJenatsch_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meyer,+Conrad+Ferdinand/Erz%C3%A4hlungen/J%C3%BCrg+Jenatsch
+131;Der Schuß von der Kanzel;Conrad Ferdinand Meyer;Meyer_DerSchußvonderKanzel_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meyer,+Conrad+Ferdinand/Erz%C3%A4hlungen/Der+Schu%C3%9F+von+der+Kanzel
+132;Der Heilige;Conrad Ferdinand Meyer;Meyer_DerHeilige_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meyer,+Conrad+Ferdinand/Erz%C3%A4hlungen/Der+Heilige
+133;Gustav Adolfs Page;Conrad Ferdinand Meyer;Meyer_GustavAdolfsPage_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meyer,+Conrad+Ferdinand/Erz%C3%A4hlungen/Gustav+Adolfs+Page
+134;Das Leiden eines Knaben;Conrad Ferdinand Meyer;Meyer_DasLeideneinesKnaben_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meyer,+Conrad+Ferdinand/Erz%C3%A4hlungen/Das+Leiden+eines+Knaben
+135;Die Hochzeit des Mönchs;Conrad Ferdinand Meyer;Meyer_DieHochzeitdesMönchs_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meyer,+Conrad+Ferdinand/Erz%C3%A4hlungen/Die+Hochzeit+des+M%C3%B6nchs
+136;Die Richterin;Conrad Ferdinand Meyer;Meyer_DieRichterin_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meyer,+Conrad+Ferdinand/Erz%C3%A4hlungen/Die+Richterin
+137;Die Versuchung des Pescara;Conrad Ferdinand Meyer;Meyer_DieVersuchungdesPescara_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meyer,+Conrad+Ferdinand/Erz%C3%A4hlungen/Die+Versuchung+des+Pescara
+138;Angela Borgia;Conrad Ferdinand Meyer;Meyer_AngelaBorgia_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meyer,+Conrad+Ferdinand/Erz%C3%A4hlungen/Angela+Borgia
+139;Plautus im Nonnenkloster;Conrad Ferdinand Meyer;Meyer_PlautusimNonnenkloster_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meyer,+Conrad+Ferdinand/Erz%C3%A4hlungen/Plautus+im+Nonnenkloster
+140;Eine Sommerschlacht;Detlev von Liliencron;Liliencron_EineSommerschlacht_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Liliencron,+Detlev+von/Erz%C3%A4hlungen/Eine+Sommerschlacht
+141;Unter flatternden Fahnen;Detlev von Liliencron;Liliencron_UnterflatterndenFahnen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Liliencron,+Detlev+von/Erz%C3%A4hlungen/Unter+flatternden+Fahnen
+142;Großstadt;Dora Duncker;Duncker_Großstadt_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Duncker,+Dora/Roman/Gro%C3%9Fstadt
+143;Mütter;Dora Duncker;Duncker_Mütter_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Duncker,+Dora/Erz%C3%A4hlungen/M%C3%BCtter
+144;Jugend;Dora Duncker;Duncker_Jugend_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Duncker,+Dora/Erz%C3%A4hlungen/Jugend
+145;Florentin;Dorothea Schlegel;Schlegel_Florentin_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Schlegel,+Dorothea/Roman/Florentin
+146;Goldelse;E. Marlitt;Marlitt_Goldelse_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Marlitt,+Eugenie/Romane/Goldelse
+147;Das Geheimnis der alten Mamsell;E. Marlitt;Marlitt_DasGeheimnisderaltenMamsell_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Marlitt,+Eugenie/Romane/Das+Geheimnis+der+alten+Mamsell
+148;Das Heideprinzeßchen;E. Marlitt;Marlitt_DasHeideprinzeßchen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Marlitt,+Eugenie/Romane/Das+Heideprinze%C3%9Fchen
+149;Die Frau mit den Karfunkelsteinen;E. Marlitt;Marlitt_DieFraumitdenKarfunkelsteinen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Marlitt,+Eugenie/Romane/Die+Frau+mit+den+Karfunkelsteinen
+150;Thüringer Erzählungen;E. Marlitt;Marlitt_ThüringerErzählungen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Marlitt,+Eugenie/Erz%C3%A4hlungen/Th%C3%BCringer+Erz%C3%A4hlungen
+151;Maler Nolten;Eduard Mörike;Mörike_MalerNolten_zeno.txt;Roman;http://www.zeno.org/Literatur/M/M%C3%B6rike,+Eduard/Roman/Maler+Nolten
+152;Lucie Gelmeroth;Eduard Mörike;Mörike_LucieGelmeroth_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/M%C3%B6rike,+Eduard/Erz%C3%A4hlungen/Lucie+Gelmeroth
+153;Der Schatz;Eduard Mörike;Mörike_DerSchatz_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/M%C3%B6rike,+Eduard/Erz%C3%A4hlungen/Der+Schatz
+154;Mozart auf der Reise nach Prag;Eduard Mörike;Mörike_MozartaufderReisenachPrag_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/M%C3%B6rike,+Eduard/Erz%C3%A4hlungen/Mozart+auf+der+Reise+nach+Prag
+155;Dumala;Eduard von Keyserling;Keyserling_Dumala_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Keyserling,+Eduard+von/Romane/Dumala
+156;Wellen;Eduard von Keyserling;Keyserling_Wellen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Keyserling,+Eduard+von/Romane/Wellen
+157;Abendliche Häuser;Eduard von Keyserling;Keyserling_AbendlicheHäuser_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Keyserling,+Eduard+von/Romane/Abendliche+H%C3%A4user
+158;Beate und Mareile;Eduard von Keyserling;Keyserling_BeateundMareile_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Keyserling,+Eduard+von/Erz%C3%A4hlungen/Beate+und+Mareile
+159;Schwüle Tage;Eduard von Keyserling;Keyserling_SchwüleTage_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Keyserling,+Eduard+von/Erz%C3%A4hlungen/Schw%C3%BCle+Tage
+160;Harmonie;Eduard von Keyserling;Keyserling_Harmonie_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Keyserling,+Eduard+von/Erz%C3%A4hlungen/Harmonie
+161;Briefe, die ihn nicht erreichten;Elisabeth von Heyking;Heyking_Briefe,dieihnnichterreichten_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Heyking,+Elisabeth+von/Romane/Briefe,+die+ihn+nicht+erreichten
+162;Tschun;Elisabeth von Heyking;Heyking_Tschun_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Heyking,+Elisabeth+von/Romane/Tschun
+163;Der Tag Anderer;Elisabeth von Heyking;Heyking_DerTagAnderer_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Heyking,+Elisabeth+von/Erz%C3%A4hlungen/Der+Tag+Anderer
+164;Die Europamüden;Ernst Adolf Willkomm;Willkomm_DieEuropamüden_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Willkomm,+Ernst+Adolf/Romane/Die+Europam%C3%BCden
+165;Weisse Sclaven oder die Leiden des Volkes;Ernst Adolf Willkomm;Willkomm_WeisseSclavenoderdieLeidendesVolkes_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Willkomm,+Ernst+Adolf/Romane/Weisse+Sclaven+oder+die+Leiden+des+Volkes
+166;Die Nachtwachen des Bonaventura;Ernst August Friedrich Klingemann;Klingemann_DieNachtwachendesBonaventura_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Klingemann,+August/Roman/Die+Nachtwachen+des+Bonaventura
+167;Die Elixiere des Teufels;Ernst Theodor Amadeus Hoffmann;Hoffmann_DieElixieredesTeufels_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Hoffmann,+E.+T.+A./Romane/Die+Elixiere+des+Teufels
+168;Lebensansichten des Katers Murr;Ernst Theodor Amadeus Hoffmann;Hoffmann_LebensansichtendesKatersMurr_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Hoffmann,+E.+T.+A./Romane/Lebensansichten+des+Katers+Murr
+169;Clementine;Fanny Lewald;Lewald_Clementine_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Lewald,+Fanny/Romane/Clementine
+170;Jenny;Fanny Lewald;Lewald_Jenny_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Lewald,+Fanny/Romane/Jenny
+171;Eine Lebensfrage;Fanny Lewald;Lewald_EineLebensfrage_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Lewald,+Fanny/Romane/Eine+Lebensfrage
+172;Diogena;Fanny Lewald;Lewald_Diogena_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Lewald,+Fanny/Romane/Diogena
+173;Von Geschlecht zu Geschlecht;Fanny Lewald;Lewald_VonGeschlechtzuGeschlecht_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Lewald,+Fanny/Romane/Von+Geschlecht+zu+Geschlecht
+174;Kampf um Rom;Felix Dahn;Dahn_KampfumRom_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Dahn,+Felix/Roman/Kampf+um+Rom
+175;Novellen aus Österreich;Ferdinand von Saar;Saar_NovellenausÖsterreich_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Saar,+Ferdinand+von/Erz%C3%A4hlungen/Novellen+aus+%C3%96sterreich
+176;Tragik des Lebens;Ferdinand von Saar;Saar_TragikdesLebens_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Saar,+Ferdinand+von/Erz%C3%A4hlungen/Tragik+des+Lebens
+177;Reich und arm;Franz Michael Felder;Felder_Reichundarm_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Felder,+Franz+Michael/Roman/Reich+und+arm
+178;Julchen Grünthal;Friederike Helene Unger;Unger_JulchenGrünthal_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Unger,+Friederike+Helene/Romane/Julchen+Gr%C3%BCnthal
+179;Albert und Albertine;Friederike Helene Unger;Unger_AlbertundAlbertine_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Unger,+Friederike+Helene/Romane/Albert+und+Albertine
+180;Bekenntnisse einer schönen Seele;Friederike Helene Unger;Unger_BekenntnisseeinerschönenSeele_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Unger,+Friederike+Helene/Romane/Bekenntnisse+einer+sch%C3%B6nen+Seele
+181;Mittheilungen aus den geheimen Memoiren einer deutschen Sängerin;Friedrich Bruckbräu;Bruckbräu_MittheilungenausdengeheimenMemoireneinerdeutschenSängerin_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Bruckbr%C3%A4u,+Friedrich+Wilhelm/Roman/Mittheilungen+aus+den+geheimen+Memoiren+einer+deutschen+S%C3%A4ngerin
+182;Eine Geschichte vom Galgenmännlein;Friedrich de la Motte Fouqué;Fouqué_EineGeschichtevomGalgenmännlein_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fouqu%C3%A9,+Friedrich+de+la+Motte/Erz%C3%A4hlungen/Eine+Geschichte+vom+Galgenm%C3%A4nnlein
+183;Undine;Friedrich de la Motte Fouqué;Fouqué_Undine_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fouqu%C3%A9,+Friedrich+de+la+Motte/Erz%C3%A4hlungen/Undine
+184;Die Regulatoren in Arkansas. Aus dem Waldleben Amerikas;Friedrich Gerstäcker;Gerstäcker_DieRegulatoreninArkansasAusdemWaldlebenAmerikas_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Gerst%C3%A4cker,+Friedrich/Romane/Die+Regulatoren+in+Arkansas.+Aus+dem+Waldleben+Amerikas
+185;Die Flußpiraten des Mississippi. Aus dem Waldleben Amerikas.;Friedrich Gerstäcker;Gerstäcker_DieFlußpiratendesMississippiAusdemWaldlebenAmerikas_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Gerst%C3%A4cker,+Friedrich/Romane/Die+Flu%C3%9Fpiraten+des+Mississippi.+Aus+dem+Waldleben+Amerikas.
+186;Anna;Friedrich Hebbel;Hebbel_Anna_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hebbel,+Friedrich/Erz%C3%A4hlungen/Anna
+187;Schnock;Friedrich Hebbel;Hebbel_Schnock_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hebbel,+Friedrich/Erz%C3%A4hlungen/Schnock
+188;Matteo;Friedrich Hebbel;Hebbel_Matteo_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hebbel,+Friedrich/Erz%C3%A4hlungen/Matteo
+189;Die Kuh;Friedrich Hebbel;Hebbel_DieKuh_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hebbel,+Friedrich/Erz%C3%A4hlungen/Die+Kuh
+190;Fragment von Hyperion;Friedrich Hölderlin;Hölderlin_FragmentvonHyperion_zeno.txt;Roman;http://www.zeno.org/Literatur/M/H%C3%B6lderlin,+Friedrich/Roman/Fragment+von+Hyperion
+191;Hyperions Jugend;Friedrich Hölderlin;Hölderlin_HyperionsJugend_zeno.txt;Roman;http://www.zeno.org/Literatur/M/H%C3%B6lderlin,+Friedrich/Roman/Hyperions+Jugend
+192;Hyperion oder der Eremit in Griechenland;Friedrich Hölderlin;Hölderlin_HyperionoderderEremitinGriechenland_zeno.txt;Roman;http://www.zeno.org/Literatur/M/H%C3%B6lderlin,+Friedrich/Roman/Hyperion+oder+der+Eremit+in+Griechenland
+193;Fausts Leben, Taten und Höllenfahrt;Friedrich Maximilian Klinger;Klinger_FaustsLeben,TatenundHöllenfahrt_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Klinger,+Friedrich+Maximilian/Romane/Fausts+Leben,+Taten+und+H%C3%B6llenfahrt
+194;Geschichte eines Teutschen der neusten Zeit;Friedrich Maximilian Klinger;Klinger_GeschichteeinesTeutschenderneustenZeit_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Klinger,+Friedrich+Maximilian/Romane/Geschichte+eines+Teutschen+der+neusten+Zeit
+195;Das Leben und die Meinungen des Herrn Magister Sebaldus Nothanker;Friedrich Nicolai;Nicolai_DasLebenunddieMeinungendesHerrnMagisterSebaldusNothanker_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Nicolai,+Friedrich/Roman/Das+Leben+und+die+Meinungen+des+Herrn+Magister+Sebaldus+Nothanker
+196;Der Verbrecher aus verlorener Ehre;Friedrich Schiller;Schiller_DerVerbrecherausverlorenerEhre_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schiller,+Friedrich/Erz%C3%A4hlungen/Der+Verbrecher+aus+verlorener+Ehre
+197;Der Geisterseher;Friedrich Schiller;Schiller_DerGeisterseher_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schiller,+Friedrich/Erz%C3%A4hlungen/Der+Geisterseher
+198;[Das philosophische Gespräch aus dem Geisterseher];Friedrich Schiller;Schiller_[DasphilosophischeGesprächausdemGeisterseher]_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schiller,+Friedrich/Erz%C3%A4hlungen/%5BDas+philosophische+Gespr%C3%A4ch+aus+dem+Geisterseher%5D
+199;Merkwürdiges Beispiel einer weiblichen Rache;Friedrich Schiller;Schiller_MerkwürdigesBeispieleinerweiblichenRache_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Schiller,+Friedrich/Erz%C3%A4hlungen/Merkw%C3%BCrdiges+Beispiel+einer+weiblichen+Rache
+200;Lucinde;Friedrich Schlegel;Schlegel_Lucinde_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Schlegel,+Friedrich/Roman/Lucinde
+201;Problematische Naturen. Erste Abtheilung;Friedrich Spielhagen;Spielhagen_ProblematischeNaturenErsteAbtheilung_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Spielhagen,+Friedrich/Romane/Problematische+Naturen.+Erste+Abtheilung
+202;Problematische Naturen. Zweite Abtheilung (Durch Nacht zum Licht);Friedrich Spielhagen;Spielhagen_ProblematischeNaturenZweiteAbtheilung(DurchNachtzumLicht)_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Spielhagen,+Friedrich/Romane/Problematische+Naturen.+Zweite+Abtheilung+(Durch+Nacht+zum+Licht)
+203;Hammer und Amboß;Friedrich Spielhagen;Spielhagen_HammerundAmboß_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Spielhagen,+Friedrich/Romane/Hammer+und+Ambo%C3%9F
+204;Zum Zeitvertreib;Friedrich Spielhagen;Spielhagen_ZumZeitvertreib_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Spielhagen,+Friedrich/Romane/Zum+Zeitvertreib
+205;Faustulus;Friedrich Spielhagen;Spielhagen_Faustulus_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Spielhagen,+Friedrich/Romane/Faustulus
+206;Europäisches Sklavenleben;Friedrich Wilhelm Hackländer;Hackländer_EuropäischesSklavenleben_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Hackl%C3%A4nder,+Friedrich+Wilhelm+von/Roman/Europ%C3%A4isches+Sklavenleben
+207;Der Dieb;Georg Heym;Heym_DerDieb_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Heym,+Georg/Erz%C3%A4hlungen/Der+Dieb
+208;Faust und Don Juan;Georg Ludwig Hesekiel;Hesekiel_FaustundDonJuan_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Hesekiel,+George/Roman/Faust+und+Don+Juan
+209;Fragment eines Romans;Georg Weerth;Weerth_FragmenteinesRomans_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Weerth,+Georg/Romane/Fragment+eines+Romans
+210;Leben und Taten des berühmten Ritters Schnapphahnski;Georg Weerth;Weerth_LebenundTatendesberühmtenRittersSchnapphahnski_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Weerth,+Georg/Romane/Leben+und+Taten+des+ber%C3%BChmten+Ritters+Schnapphahnski
+211;Seefahrt ist not!;Gorch Fock, eigentlich Johann Kinau;Kinau_Seefahrtistnot!_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fock,+Gorch/Roman/Seefahrt+ist+not!
+212;Der grüne Heinrich [Erste Fassung];Gottfried Keller;Keller_DergrüneHeinrich[ErsteFassung]_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Keller,+Gottfried/Romane/Der+gr%C3%BCne+Heinrich+%5BErste+Fassung%5D
+213;Der grüne Heinrich [Zweite Fassung];Gottfried Keller;Keller_DergrüneHeinrich[ZweiteFassung]_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Keller,+Gottfried/Romane/Der+gr%C3%BCne+Heinrich+%5BZweite+Fassung%5D
+214;Martin Salander;Gottfried Keller;Keller_MartinSalander_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Keller,+Gottfried/Romane/Martin+Salander
+215;Die Leute von Seldwyla;Gottfried Keller;Keller_DieLeutevonSeldwyla_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Keller,+Gottfried/Erz%C3%A4hlungen/Die+Leute+von+Seldwyla
+216;Züricher Novellen;Gottfried Keller;Keller_ZüricherNovellen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Keller,+Gottfried/Erz%C3%A4hlungen/Z%C3%BCricher+Novellen
+217;Das Sinngedicht;Gottfried Keller;Keller_DasSinngedicht_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Keller,+Gottfried/Erz%C3%A4hlungen/Das+Sinngedicht
+218;Sieben Legenden;Gottfried Keller;Keller_SiebenLegenden_zeno.txt;Legenden;http://www.zeno.org/Literatur/M/Keller,+Gottfried/Legenden/Sieben+Legenden
+219;Die Intellektuellen;Grete Meisel-Heß;Meisel-Heß_DieIntellektuellen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Meisel-Hess,+Grete/Roman/Die+Intellektuellen
+220;Soll und Haben;Gustav Freytag;Freytag_SollundHaben_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Freytag,+Gustav/Romane/Soll+und+Haben
+221;Die verlorene Handschrift;Gustav Freytag;Freytag_DieverloreneHandschrift_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Freytag,+Gustav/Romane/Die+verlorene+Handschrift
+222;Die Ahnen;Gustav Freytag;Freytag_DieAhnen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Freytag,+Gustav/Romane/Die+Ahnen
+223;Der Golem;Gustav Meyrink, eigentlich Gustav Meyer;Meyer_DerGolem_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Meyrink,+Gustav/Roman/Der+Golem
+224;Des Deutschen Spiessers Wunderhorn;Gustav Meyrink, eigentlich Gustav Meyer;Meyer_DesDeutschenSpiessersWunderhorn_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meyrink,+Gustav/Erz%C3%A4hlungen/Des+Deutschen+Spiessers+Wunderhorn
+225;Ein Namenloser;Gustav Sack;Sack_EinNamenloser_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Sack,+Gustav/Romane/Ein+Namenloser
+226;Ein verbummelter Student;Gustav Sack;Sack_EinverbummelterStudent_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Sack,+Gustav/Romane/Ein+verbummelter+Student
+227;Sibilla Dalmar;Hedwig Dohm;Dohm_SibillaDalmar_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Dohm,+Hedwig/Romane/Sibilla+Dalmar
+228;Schicksale einer Seele;Hedwig Dohm;Dohm_SchicksaleeinerSeele_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Dohm,+Hedwig/Romane/Schicksale+einer+Seele
+229;Christa Ruland;Hedwig Dohm;Dohm_ChristaRuland_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Dohm,+Hedwig/Romane/Christa+Ruland
+230;Wie Frauen werden;Hedwig Dohm;Dohm_WieFrauenwerden_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Dohm,+Hedwig/Erz%C3%A4hlungen/Wie+Frauen+werden
+231;Werde, die Du bist!;Hedwig Dohm;Dohm_Werde,dieDubist!_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Dohm,+Hedwig/Erz%C3%A4hlungen/Werde,+die+Du+bist!
+232;Lachweiler Geschichten;Heinrich Federer;Federer_LachweilerGeschichten_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Federer,+Heinrich/Erz%C3%A4hlungen/Lachweiler+Geschichten
+233;Das junge Europa;Heinrich Laube;Laube_DasjungeEuropa_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Laube,+Heinrich/Roman/Das+junge+Europa
+234;Das Goldmacherdorf;Heinrich Zschokke;Zschokke_DasGoldmacherdorf_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Zschokke,+Heinrich/Roman/Das+Goldmacherdorf
+235;Die Walpurgisnacht;Heinrich Zschokke;Zschokke_DieWalpurgisnacht_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Zschokke,+Heinrich/Erz%C3%A4hlungen/Die+Walpurgisnacht
+236;Hans Dampf in allen Gassen;Heinrich Zschokke;Zschokke_HansDampfinallenGassen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Zschokke,+Heinrich/Erz%C3%A4hlungen/Hans+Dampf+in+allen+Gassen
+237;Das Abenteuer der Neujahrsnacht;Heinrich Zschokke;Zschokke_DasAbenteuerderNeujahrsnacht_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Zschokke,+Heinrich/Erz%C3%A4hlungen/Das+Abenteuer+der+Neujahrsnacht
+238;Ein Narr des Neunzehnten Jahrhunderts;Heinrich Zschokke;Zschokke_EinNarrdesNeunzehntenJahrhunderts_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Zschokke,+Heinrich/Erz%C3%A4hlungen/Ein+Narr+des+Neunzehnten+Jahrhunderts
+239;Godwie-Castle;Henriette von Paalzow;Paalzow_Godwie-Castle_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Paalzow,+Henriette+von/Romane/Godwie-Castle
+240;Ste. Roche;Henriette von Paalzow;Paalzow_SteRoche_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Paalzow,+Henriette+von/Romane/Ste.+Roche
+241;Der Begleiter;Henry von Heiseler;Heiseler_DerBegleiter_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Heiseler,+Henry+von/Erz%C3%A4hlungen/Der+Begleiter
+242;Wawas Ende;Henry von Heiseler;Heiseler_WawasEnde_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Heiseler,+Henry+von/Erz%C3%A4hlungen/Wawas+Ende
+243;Die gute Schule;Hermann Bahr;Bahr_DieguteSchule_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Bahr,+Hermann/Roman/Die+gute+Schule
+244;Adam Mensch;Hermann Conradi;Conradi_AdamMensch_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Conradi,+Hermann/Roman/Adam+Mensch
+245;Der Taifun;Hermann Essig;Essig_DerTaifun_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Essig,+Hermann/Roman/Der+Taifun
+246;Der Sonnenwirt;Hermann Kurz;Kurz_DerSonnenwirt_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Kurz,+Hermann/Roman/Der+Sonnenwirt
+247;Frau Sorge;Hermann Sudermann;Sudermann_FrauSorge_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Sudermann,+Hermann/Roman/Frau+Sorge
+248;Litauische Geschichten;Hermann Sudermann;Sudermann_LitauischeGeschichten_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Sudermann,+Hermann/Erz%C3%A4hlungen/Litauische+Geschichten
+249;Das Märchen der 672. Nacht;Hugo von Hofmannsthal;Hofmannsthal_DasMärchender672Nacht_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hofmannsthal,+Hugo+von/Erz%C3%A4hlungen/Das+M%C3%A4rchen+der+672.+Nacht
+250;Reitergeschichte;Hugo von Hofmannsthal;Hofmannsthal_Reitergeschichte_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hofmannsthal,+Hugo+von/Erz%C3%A4hlungen/Reitergeschichte
+251;Erlebnis des Marschalls von Bassompierre;Hugo von Hofmannsthal;Hofmannsthal_ErlebnisdesMarschallsvonBassompierre_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hofmannsthal,+Hugo+von/Erz%C3%A4hlungen/Erlebnis+des+Marschalls+von+Bassompierre
+252;Lucidor;Hugo von Hofmannsthal;Hofmannsthal_Lucidor_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hofmannsthal,+Hugo+von/Erz%C3%A4hlungen/Lucidor
+253;Die Frau ohne Schatten;Hugo von Hofmannsthal;Hofmannsthal_DieFrauohneSchatten_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hofmannsthal,+Hugo+von/Erz%C3%A4hlungen/Die+Frau+ohne+Schatten
+254;Fanny Förster;Ida Boy-Ed;Boy-Ed_FannyFörster_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Boy-Ed,+Ida/Romane/Fanny+F%C3%B6rster
+255;Vor der Ehe;Ida Boy-Ed;Boy-Ed_VorderEhe_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Boy-Ed,+Ida/Romane/Vor+der+Ehe
+256;Gräfin Faustine;Ida Hahn-Hahn;Hahn-Hahn_GräfinFaustine_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Hahn-Hahn,+Ida+Gr%C3%A4fin+von/Romane/Gr%C3%A4fin+Faustine
+257;Sibylle;Ida Hahn-Hahn;Hahn-Hahn_Sibylle_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Hahn-Hahn,+Ida+Gr%C3%A4fin+von/Romane/Sibylle
+258;Maria Regina;Ida Hahn-Hahn;Hahn-Hahn_MariaRegina_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Hahn-Hahn,+Ida+Gr%C3%A4fin+von/Romane/Maria+Regina
+259;Wir Frauen haben kein Vaterland;Ilse Frapan;Frapan_WirFrauenhabenkeinVaterland_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Frapan,+Ilse/Romane/Wir+Frauen+haben+kein+Vaterland
+260;Arbeit;Ilse Frapan;Frapan_Arbeit_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Frapan,+Ilse/Romane/Arbeit
+261;Zwischen Elbe und Alster;Ilse Frapan;Frapan_ZwischenElbeundAlster_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Frapan,+Ilse/Erz%C3%A4hlungen/Zwischen+Elbe+und+Alster
+262;Deutsche Sagen;Jacob Grimm;Grimm_DeutscheSagen_zeno.txt;Sagen;http://www.zeno.org/Literatur/M/Grimm,+Jacob+und+Wilhelm/Sagen/Deutsche+Sagen
+263;Die Juden von Zirndorf;Jakob Wassermann;Wassermann_DieJudenvonZirndorf_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Wassermann,+Jakob/Romane/Die+Juden+von+Zirndorf
+264;Caspar Hauser oder Die Trägheit des Herzens;Jakob Wassermann;Wassermann_CasparHauseroderDieTrägheitdesHerzens_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Wassermann,+Jakob/Romane/Caspar+Hauser+oder+Die+Tr%C3%A4gheit+des+Herzens
+265;Das Gänsemännchen;Jakob Wassermann;Wassermann_DasGänsemännchen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Wassermann,+Jakob/Romane/Das+G%C3%A4nsem%C3%A4nnchen
+266;Christian Wahnschaffe;Jakob Wassermann;Wassermann_ChristianWahnschaffe_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Wassermann,+Jakob/Romane/Christian+Wahnschaffe
+267;Mein Weg als Deutscher und Jude;Jakob Wassermann;Wassermann_MeinWegalsDeutscherundJude_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Wassermann,+Jakob/Romane/Mein+Weg+als+Deutscher+und+Jude
+268;Wie Uli der Knecht glücklich wird;Jeremias Gotthelf, eigentlich Albert Bitzius;Bitzius_WieUliderKnechtglücklichwird_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Gotthelf,+Jeremias/Romane/Wie+Uli+der+Knecht+gl%C3%BCcklich+wird
+269;Uli der Pächter;Jeremias Gotthelf, eigentlich Albert Bitzius;Bitzius_UliderPächter_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Gotthelf,+Jeremias/Romane/Uli+der+P%C3%A4chter
+270;Geld und Geist;Jeremias Gotthelf, eigentlich Albert Bitzius;Bitzius_GeldundGeist_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Gotthelf,+Jeremias/Romane/Geld+und+Geist
+271;Die schwarze Spinne;Jeremias Gotthelf, eigentlich Albert Bitzius;Bitzius_DieschwarzeSpinne_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Gotthelf,+Jeremias/Erz%C3%A4hlungen/Die+schwarze+Spinne
+272;Elsi, die seltsame Magd;Jeremias Gotthelf, eigentlich Albert Bitzius;Bitzius_Elsi,dieseltsameMagd_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Gotthelf,+Jeremias/Erz%C3%A4hlungen/Elsi,+die+seltsame+Magd
+273;Das Erdbeerimareili;Jeremias Gotthelf, eigentlich Albert Bitzius;Bitzius_DasErdbeerimareili_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Gotthelf,+Jeremias/Erz%C3%A4hlungen/Das+Erdbeerimareili
+274;Barthli der Korber;Jeremias Gotthelf, eigentlich Albert Bitzius;Bitzius_BarthliderKorber_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Gotthelf,+Jeremias/Erz%C3%A4hlungen/Barthli+der+Korber
+275;Die Volkssagen der Altmark;Jodocus Temme;Temme_DieVolkssagenderAltmark_zeno.txt;Sagen;http://www.zeno.org/Literatur/M/Temme,+Jodocus+Deodatus+Hubertus/Sagen/Die+Volkssagen+der+Altmark
+276;Die Volkssagen von Pommern und Rügen;Jodocus Temme;Temme_DieVolkssagenvonPommernundRügen_zeno.txt;Sagen;http://www.zeno.org/Literatur/M/Temme,+Jodocus+Deodatus+Hubertus/Sagen/Die+Volkssagen+von+Pommern+und+R%C3%BCgen
+277;Siegfried von Lindenberg;Johann Gottwerth Müller;Müller_SiegfriedvonLindenberg_zeno.txt;Roman;http://www.zeno.org/Literatur/M/M%C3%BCller,+Johann+Gottwerth/Roman/Siegfried+von+Lindenberg
+278;Herr Lorenz Stark;Johann Jakob Engel;Engel_HerrLorenzStark_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Engel,+Johann+Jakob/Roman/Herr+Lorenz+Stark
+279;Ardinghello und die glückseligen Inseln;Johann Jakob Wilhelm Heinse;Heinse_ArdinghellounddieglückseligenInseln_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Heinse,+Wilhelm/Roman/Ardinghello+und+die+gl%C3%BCckseligen+Inseln
+280;Hildegard von Hohenthal;Johann Jakob Wilhelm Heinse;Heinse_HildegardvonHohenthal_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Heinse,+Wilhelm/Roman/Hildegard+von+Hohenthal
+281;Erzählungen für junge Damen und Dichter;Johann Jakob Wilhelm Heinse;Heinse_ErzählungenfürjungeDamenundDichter_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Heinse,+Wilhelm/Erz%C3%A4hlungen/Erz%C3%A4hlungen+f%C3%BCr+junge+Damen+und+Dichter
+282;Siegwart. Eine Klostergeschichte;Johann Martin Miller;Miller_SiegwartEineKlostergeschichte_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Miller,+Johann+Martin/Roman/Siegwart.+Eine+Klostergeschichte
+283;Gabriele;Johanna Schopenhauer;Schopenhauer_Gabriele_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Schopenhauer,+Johanna/Romane/Gabriele
+284;Die Tante;Johanna Schopenhauer;Schopenhauer_DieTante_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Schopenhauer,+Johanna/Romane/Die+Tante
+285;Richard Wood;Johanna Schopenhauer;Schopenhauer_RichardWood_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Schopenhauer,+Johanna/Romane/Richard+Wood
+286;Heidis Lehr- und Wanderjahre;Johanna Spyri;Spyri_HeidisLehr-undWanderjahre_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Spyri,+Johanna/Romane/Heidis+Lehr-+und+Wanderjahre
+287;Heidi kann brauchen, was es gelernt hat;Johanna Spyri;Spyri_Heidikannbrauchen,wasesgelernthat_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Spyri,+Johanna/Romane/Heidi+kann+brauchen,+was+es+gelernt+hat
+288;Ahnung und Gegenwart;Joseph Freiherr von Eichendorff;Eichendorff_AhnungundGegenwart_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Eichendorff,+Joseph+von/Romane/Ahnung+und+Gegenwart
+289;Die Zauberei im Herbste;Joseph Freiherr von Eichendorff;Eichendorff_DieZaubereiimHerbste_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Eichendorff,+Joseph+von/Erz%C3%A4hlungen/Die+Zauberei+im+Herbste
+290;Das Marmorbild;Joseph Freiherr von Eichendorff;Eichendorff_DasMarmorbild_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Eichendorff,+Joseph+von/Erz%C3%A4hlungen/Das+Marmorbild
+291;Aus dem Leben eines Taugenichts;Joseph Freiherr von Eichendorff;Eichendorff_AusdemLebeneinesTaugenichts_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Eichendorff,+Joseph+von/Erz%C3%A4hlungen/Aus+dem+Leben+eines+Taugenichts
+292;Viel Lärmen um Nichts;Joseph Freiherr von Eichendorff;Eichendorff_VielLärmenumNichts_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Eichendorff,+Joseph+von/Erz%C3%A4hlungen/Viel+L%C3%A4rmen+um+Nichts
+293;Auch ich war in Arkadien;Joseph Freiherr von Eichendorff;Eichendorff_AuchichwarinArkadien_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Eichendorff,+Joseph+von/Erz%C3%A4hlungen/Auch+ich+war+in+Arkadien
+294;Das Schloß Dürande;Joseph Freiherr von Eichendorff;Eichendorff_DasSchloßDürande_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Eichendorff,+Joseph+von/Erz%C3%A4hlungen/Das+Schlo%C3%9F+D%C3%BCrande
+295;Die Glücksritter;Joseph Freiherr von Eichendorff;Eichendorff_DieGlücksritter_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Eichendorff,+Joseph+von/Erz%C3%A4hlungen/Die+Gl%C3%BCcksritter
+296;Ekkehard;Joseph Victor von Scheffel;Scheffel_Ekkehard_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Scheffel,+Joseph+Viktor+von/Roman/Ekkehard
+297;Größenwahn;Karl Bleibtreu;Bleibtreu_Größenwahn_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Bleibtreu,+Karl/Roman/Gr%C3%B6%C3%9Fenwahn
+298;Der Pojaz;Karl Emil Franzos;Franzos_DerPojaz_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Franzos,+Karl+Emil/Roman/Der+Pojaz
+299;Die Juden von Barnow;Karl Emil Franzos;Franzos_DieJudenvonBarnow_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Franzos,+Karl+Emil/Erz%C3%A4hlungen/Die+Juden+von+Barnow
+300;Leib Weihnachtskuchen und sein Kind;Karl Emil Franzos;Franzos_LeibWeihnachtskuchenundseinKind_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Franzos,+Karl+Emil/Erz%C3%A4hlungen/Leib+Weihnachtskuchen+und+sein+Kind
+301;Moschko von Parma;Karl Emil Franzos;Franzos_MoschkovonParma_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Franzos,+Karl+Emil/Erz%C3%A4hlungen/Moschko+von+Parma
+302;Judith Trachtenberg;Karl Emil Franzos;Franzos_JudithTrachtenberg_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Franzos,+Karl+Emil/Erz%C3%A4hlungen/Judith+Trachtenberg
+303;Wally, die Zweiflerin;Karl Gutzkow;Gutzkow_Wally,dieZweiflerin_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Gutzkow,+Karl/Romane/Wally,+die+Zweiflerin
+304;Die Ritter vom Geiste;Karl Gutzkow;Gutzkow_DieRittervomGeiste_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Gutzkow,+Karl/Romane/Die+Ritter+vom+Geiste
+305;Der Zauberer von Rom;Karl Gutzkow;Gutzkow_DerZauberervonRom_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Gutzkow,+Karl/Romane/Der+Zauberer+von+Rom
+306;Anton Reiser;Karl Philipp Moritz;Moritz_AntonReiser_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Moritz,+Karl+Philipp/Romane/Anton+Reiser
+307;Andreas Hartknopf. Eine Allegorie;Karl Philipp Moritz;Moritz_AndreasHartknopfEineAllegorie_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Moritz,+Karl+Philipp/Romane/Andreas+Hartknopf.+Eine+Allegorie
+308;Andreas Hartknopfs Predigerjahre;Karl Philipp Moritz;Moritz_AndreasHartknopfsPredigerjahre_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Moritz,+Karl+Philipp/Romane/Andreas+Hartknopfs+Predigerjahre
+309;Der Jude;Karl Spindler;Spindler_DerJude_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Spindler,+Carl/Roman/Der+Jude
+310;Mathias Bichler;Lena Christ;Christ_MathiasBichler_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Christ,+Lena/Romane/Mathias+Bichler
+311;Die Rumplhanni;Lena Christ;Christ_DieRumplhanni_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Christ,+Lena/Romane/Die+Rumplhanni
+312;Madam Bäurin;Lena Christ;Christ_MadamBäurin_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Christ,+Lena/Romane/Madam+B%C3%A4urin
+313;Don Juan von Kolomea;Leopold von Sacher-Masoch;Sacher-Masoch_DonJuanvonKolomea_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Sacher-Masoch,+Leopold+von/Erz%C3%A4hlungen/Don+Juan+von+Kolomea
+314;Venus im Pelz;Leopold von Sacher-Masoch;Sacher-Masoch_VenusimPelz_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Sacher-Masoch,+Leopold+von/Erz%C3%A4hlungen/Venus+im+Pelz
+315;Lebenssucher;Lily Braun;Braun_Lebenssucher_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Braun,+Lily/Roman/Lebenssucher
+316;Aus dem Leben einer Frau;Louise Aston;Aston_AusdemLebeneinerFrau_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Aston,+Louise/Romane/Aus+dem+Leben+einer+Frau
+317;Lydia;Louise Aston;Aston_Lydia_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Aston,+Louise/Romane/Lydia
+318;Revolution und Contrerevolution;Louise Aston;Aston_RevolutionundContrerevolution_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Aston,+Louise/Romane/Revolution+und+Contrerevolution
+319;Schloß und Fabrik;Louise Otto-Peters;Otto-Peters_SchloßundFabrik_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Otto,+Louise/Romane/Schlo%C3%9F+und+Fabrik
+320;Nürnberg;Louise Otto-Peters;Otto-Peters_Nürnberg_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Otto,+Louise/Romane/N%C3%BCrnberg
+321;Die letzte Reckenburgerin;Louise von François;François_DieletzteReckenburgerin_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fran%C3%A7ois,+Louise+von/Romane/Die+letzte+Reckenburgerin
+322;Stufenjahre eines Glücklichen;Louise von François;François_StufenjahreeinesGlücklichen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fran%C3%A7ois,+Louise+von/Romane/Stufenjahre+eines+Gl%C3%BCcklichen
+323;Die Geschichte meines Urgroßvaters;Louise von François;François_DieGeschichtemeinesUrgroßvaters_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fran%C3%A7ois,+Louise+von/Erz%C3%A4hlungen/Die+Geschichte+meines+Urgro%C3%9Fvaters
+324;Der Posten der Frau;Louise von François;François_DerPostenderFrau_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fran%C3%A7ois,+Louise+von/Erz%C3%A4hlungen/Der+Posten+der+Frau
+325;Phosphorus Hollunder;Louise von François;François_PhosphorusHollunder_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fran%C3%A7ois,+Louise+von/Erz%C3%A4hlungen/Phosphorus+Hollunder
+326;Judith, die Kluswirtin;Louise von François;François_Judith,dieKluswirtin_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fran%C3%A7ois,+Louise+von/Erz%C3%A4hlungen/Judith,+die+Kluswirtin
+327;Der Katzenjunker;Louise von François;François_DerKatzenjunker_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fran%C3%A7ois,+Louise+von/Erz%C3%A4hlungen/Der+Katzenjunker
+328;Die Märchen des Steinklopferhanns;Ludwig Anzengruber;Anzengruber_DieMärchendesSteinklopferhanns_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Anzengruber,+Ludwig/Erz%C3%A4hlungen/Die+M%C3%A4rchen+des+Steinklopferhanns
+329;Der Einsam;Ludwig Anzengruber;Anzengruber_DerEinsam_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Anzengruber,+Ludwig/Erz%C3%A4hlungen/Der+Einsam
+330;Der Sternsteinhof;Ludwig Anzengruber;Anzengruber_DerSternsteinhof_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Anzengruber,+Ludwig/Roman/Der+Sternsteinhof
+331;Deutsches Sagenbuch;Ludwig Bechstein;Bechstein_DeutschesSagenbuch_zeno.txt;Sagen;http://www.zeno.org/Literatur/M/Bechstein,+Ludwig/Sagen/Deutsches+Sagenbuch
+332;Schloß Hubertus;Ludwig Ganghofer;Ganghofer_SchloßHubertus_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ganghofer,+Ludwig/Romane/Schlo%C3%9F+Hubertus
+333;Der Ochsenkrieg;Ludwig Ganghofer;Ganghofer_DerOchsenkrieg_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ganghofer,+Ludwig/Romane/Der+Ochsenkrieg
+334;Andreas Vöst;Ludwig Thoma;Thoma_AndreasVöst_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Thoma,+Ludwig/Romane/Andreas+V%C3%B6st
+335;Der Wittiber;Ludwig Thoma;Thoma_DerWittiber_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Thoma,+Ludwig/Romane/Der+Wittiber
+336;Der Ruepp;Ludwig Thoma;Thoma_DerRuepp_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Thoma,+Ludwig/Romane/Der+Ruepp
+337;Geschichte des Herrn William Lovell;Ludwig Tieck;Tieck_GeschichtedesHerrnWilliamLovell_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Tieck,+Ludwig/Romane/Geschichte+des+Herrn+William+Lovell
+338;Franz Sternbalds Wanderungen;Ludwig Tieck;Tieck_FranzSternbaldsWanderungen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Tieck,+Ludwig/Romane/Franz+Sternbalds+Wanderungen
+339;Der junge Tischlermeister;Ludwig Tieck;Tieck_DerjungeTischlermeister_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Tieck,+Ludwig/Romane/Der+junge+Tischlermeister
+340;Vittoria Accorombona;Ludwig Tieck;Tieck_VittoriaAccorombona_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Tieck,+Ludwig/Romane/Vittoria+Accorombona
+341;Himmlische und irdische Liebe;Malwida von Meysenbug;Meysenbug_HimmlischeundirdischeLiebe_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Meysenbug,+Malwida+Freiin+von/Roman/Himmlische+und+irdische+Liebe
+342;Der heilige Michael;Malwida von Meysenbug;Meysenbug_DerheiligeMichael_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meysenbug,+Malwida+Freiin+von/Erz%C3%A4hlungen/Der+heilige+Michael
+343;Unerfüllt;Malwida von Meysenbug;Meysenbug_Unerfüllt_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meysenbug,+Malwida+Freiin+von/Erz%C3%A4hlungen/Unerf%C3%BCllt
+344;Der Pfad der Äbtissin;Malwida von Meysenbug;Meysenbug_DerPfadderÄbtissin_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meysenbug,+Malwida+Freiin+von/Erz%C3%A4hlungen/Der+Pfad+der+%C3%84btissin
+345;Zu spät;Malwida von Meysenbug;Meysenbug_Zuspät_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Meysenbug,+Malwida+Freiin+von/Erz%C3%A4hlungen/Zu+sp%C3%A4t
+346;Ninive;Maria Janitschek;Janitschek_Ninive_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Janitschek,+Maria/Romane/Ninive
+347;Die Amazonenschlacht;Maria Janitschek;Janitschek_DieAmazonenschlacht_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Janitschek,+Maria/Romane/Die+Amazonenschlacht
+348;Lilienzauber;Maria Janitschek;Janitschek_Lilienzauber_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Janitschek,+Maria/Erz%C3%A4hlungen/Lilienzauber
+349;Kreuzfahrer;Maria Janitschek;Janitschek_Kreuzfahrer_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Janitschek,+Maria/Erz%C3%A4hlungen/Kreuzfahrer
+350;Frauenkraft;Maria Janitschek;Janitschek_Frauenkraft_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Janitschek,+Maria/Erz%C3%A4hlungen/Frauenkraft
+351;Die neue Eva;Maria Janitschek;Janitschek_DieneueEva_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Janitschek,+Maria/Erz%C3%A4hlungen/Die+neue+Eva
+352;Bozena;Marie von Ebner-Eschenbach;Ebner-Eschenbach_Bozena_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Romane/Bozena
+353;Lotti, die Uhrmacherin;Marie von Ebner-Eschenbach;Ebner-Eschenbach_Lotti,dieUhrmacherin_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Romane/Lotti,+die+Uhrmacherin
+354;Ein kleiner Roman;Marie von Ebner-Eschenbach;Ebner-Eschenbach_EinkleinerRoman_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Romane/Ein+kleiner+Roman
+355;Das Gemeindekind;Marie von Ebner-Eschenbach;Ebner-Eschenbach_DasGemeindekind_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Romane/Das+Gemeindekind
+356;Unsühnbar;Marie von Ebner-Eschenbach;Ebner-Eschenbach_Unsühnbar_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Romane/Uns%C3%BChnbar
+357;Ein Spätgeborner;Marie von Ebner-Eschenbach;Ebner-Eschenbach_EinSpätgeborner_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Ein+Sp%C3%A4tgeborner
+358;Die Freiherren von Gemperlein;Marie von Ebner-Eschenbach;Ebner-Eschenbach_DieFreiherrenvonGemperlein_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Die+Freiherren+von+Gemperlein
+359;Nach dem Tode;Marie von Ebner-Eschenbach;Ebner-Eschenbach_NachdemTode_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Nach+dem+Tode
+360;Die Poesie des Unbewussten;Marie von Ebner-Eschenbach;Ebner-Eschenbach_DiePoesiedesUnbewussten_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Die+Poesie+des+Unbewussten
+361;Krambambuli;Marie von Ebner-Eschenbach;Ebner-Eschenbach_Krambambuli_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Krambambuli
+362;Der Kreisphysikus;Marie von Ebner-Eschenbach;Ebner-Eschenbach_DerKreisphysikus_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Der+Kreisphysikus
+363;Der gute Mond;Marie von Ebner-Eschenbach;Ebner-Eschenbach_DerguteMond_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Der+gute+Mond
+364;Er laßt die Hand küssen;Marie von Ebner-Eschenbach;Ebner-Eschenbach_ErlaßtdieHandküssen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Er+la%C3%9Ft+die+Hand+k%C3%BCssen
+365;Ihr Traum;Marie von Ebner-Eschenbach;Ebner-Eschenbach_IhrTraum_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Ihr+Traum
+366;Das Schädliche;Marie von Ebner-Eschenbach;Ebner-Eschenbach_DasSchädliche_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Das+Sch%C3%A4dliche
+367;Maslans Frau;Marie von Ebner-Eschenbach;Ebner-Eschenbach_MaslansFrau_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Maslans+Frau
+368;Der Vorzugsschüler;Marie von Ebner-Eschenbach;Ebner-Eschenbach_DerVorzugsschüler_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Der+Vorzugssch%C3%BCler
+369;Agave;Marie von Ebner-Eschenbach;Ebner-Eschenbach_Agave_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Agave
+370;Der Herr Hofrat;Marie von Ebner-Eschenbach;Ebner-Eschenbach_DerHerrHofrat_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ebner-Eschenbach,+Marie+von/Erz%C3%A4hlungen/Der+Herr+Hofrat
+371;Lingam;Max Dauthendey;Dauthendey_Lingam_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Dauthendey,+Max/Roman/Lingam
+372;Was die Isar rauscht;Michael Georg Conrad;Conrad_WasdieIsarrauscht_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Conrad,+Michael+Georg/Roman/Was+die+Isar+rauscht
+373;Reise in die mittäglichen Provinzen von Frankreich im Jahre 1785-1786;Moritz August von Thümmel;Thümmel_ReiseindiemittäglichenProvinzenvonFrankreichimJahre1785-1786_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Th%C3%BCmmel,+Moritz+August+von/Roman/Reise+in+die+mitt%C3%A4glichen+Provinzen+von+Frankreich+im+Jahre+1785-1786
+374;Die Lehrlinge zu Sais;Novalis, eigentlich Friedrich von Hardenberg;Hardenberg_DieLehrlingezuSais_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Novalis/Romane/Die+Lehrlinge+zu+Sais
+375;Heinrich von Ofterdingen;Novalis, eigentlich Friedrich von Hardenberg;Hardenberg_HeinrichvonOfterdingen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Novalis/Romane/Heinrich+von+Ofterdingen
+376;Dämmrungsstücke;Oskar Panizza;Panizza_Dämmrungsstücke_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Panizza,+Oskar/Erz%C3%A4hlungen/D%C3%A4mmrungsst%C3%BCcke
+377;Das Verbrechen in Tavistock-Square;Oskar Panizza;Panizza_DasVerbrecheninTavistock-Square_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Panizza,+Oskar/Erz%C3%A4hlungen/Das+Verbrechen+in+Tavistock-Square
+378;Aus dem Tagebuch eines Hundes;Oskar Panizza;Panizza_AusdemTagebucheinesHundes_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Panizza,+Oskar/Erz%C3%A4hlungen/Aus+dem+Tagebuch+eines+Hundes
+379;Visionen;Oskar Panizza;Panizza_Visionen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Panizza,+Oskar/Erz%C3%A4hlungen/Visionen
+380;Bilder und Geschichten aus Schwaben;Ottilie Wildermuth;Wildermuth_BilderundGeschichtenausSchwaben_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Wildermuth,+Ottilie/Erz%C3%A4hlungen/Bilder+und+Geschichten+aus+Schwaben
+381;Aus dem Frauenleben;Ottilie Wildermuth;Wildermuth_AusdemFrauenleben_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Wildermuth,+Ottilie/Erz%C3%A4hlungen/Aus+dem+Frauenleben
+382;Die Geschichte vom abgerissenen Knopfe;Otto Erich Hartleben;Hartleben_DieGeschichtevomabgerissenenKnopfe_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hartleben,+Otto+Erich/Erz%C3%A4hlungen/Die+Geschichte+vom+abgerissenen+Knopfe
+383;Vom Gastfreien Pastor;Otto Erich Hartleben;Hartleben_VomGastfreienPastor_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hartleben,+Otto+Erich/Erz%C3%A4hlungen/Vom+Gastfreien+Pastor
+384;Stilpe. Ein Roman aus der Froschperspektive;Otto Julius Bierbaum;Bierbaum_StilpeEinRomanausderFroschperspektive_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Bierbaum,+Otto+Julius/Roman/Stilpe.+Ein+Roman+aus+der+Froschperspektive
+385;Zwischen Himmel und Erde;Otto Ludwig;Ludwig_ZwischenHimmelundErde_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ludwig,+Otto/Erz%C3%A4hlungen/Zwischen+Himmel+und+Erde
+386;Die Heiteretei und ihr Widerspiel;Otto Ludwig;Ludwig_DieHeitereteiundihrWiderspiel_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ludwig,+Otto/Erz%C3%A4hlungen/Die+Heiteretei+und+ihr+Widerspiel
+387;Der Pedlar;Otto Ruppius;Ruppius_DerPedlar_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ruppius,+Otto/Romane/Der+Pedlar
+388;Das Vermächtnis des Pedlars;Otto Ruppius;Ruppius_DasVermächtnisdesPedlars_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ruppius,+Otto/Romane/Das+Verm%C3%A4chtnis+des+Pedlars
+389;Der schmale Weg zum Glück;Paul Ernst;Ernst_DerschmaleWegzumGlück_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Ernst,+Paul/Roman/Der+schmale+Weg+zum+Gl%C3%BCck
+390;Komödianten- und Spitzbubengeschichten;Paul Ernst;Ernst_Komödianten-undSpitzbubengeschichten_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Ernst,+Paul/Erz%C3%A4hlungen/Kom%C3%B6dianten-+und+Spitzbubengeschichten
+391;L' Arrabbiata;Paul Heyse;Heyse_L'Arrabbiata_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Heyse,+Paul/Erz%C3%A4hlungen/L%27+Arrabbiata
+392;Andrea Delfin;Paul Heyse;Heyse_AndreaDelfin_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Heyse,+Paul/Erz%C3%A4hlungen/Andrea+Delfin
+393;Tarub, Bagdads berühmte Köchin;Paul Scheerbart;Scheerbart_Tarub,BagdadsberühmteKöchin_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Scheerbart,+Paul/Romane/Tarub,+Bagdads+ber%C3%BChmte+K%C3%B6chin
+394;Immer mutig!;Paul Scheerbart;Scheerbart_Immermutig!_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Scheerbart,+Paul/Romane/Immer+mutig!
+395;Liwûna und Kaidôh. Ein Seelenroman;Paul Scheerbart;Scheerbart_LiwûnaundKaidôhEinSeelenroman_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Scheerbart,+Paul/Romane/Liw%C3%BBna+und+Kaid%C3%B4h.+Ein+Seelenroman
+396;Lesabéndio. Ein Asteroiden-Roman;Paul Scheerbart;Scheerbart_LesabéndioEinAsteroiden-Roman_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Scheerbart,+Paul/Romane/Lesab%C3%A9ndio.+Ein+Asteroiden-Roman
+397;Die Schriften des Waldschulmeisters;Peter Rosegger, eigentlich Roßegger;Roßegger_DieSchriftendesWaldschulmeisters_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Rosegger,+Peter/Roman/Die+Schriften+des+Waldschulmeisters
+398;Waldheimat. Erzählungen aus der Jugendzeit;Peter Rosegger, eigentlich Roßegger;Roßegger_WaldheimatErzählungenausderJugendzeit_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Rosegger,+Peter/Erz%C3%A4hlungen/Waldheimat.+Erz%C3%A4hlungen+aus+der+Jugendzeit
+399;Sebastopol;Sir John Retcliffe, eigentlich Hermann Goedsche;Goedsche_Sebastopol_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Goedsche,+Herrmann/Roman/Sebastopol
+400;Das Blüthenalter der Empfindung;Sophie Mereau;Mereau_DasBlüthenalterderEmpfindung_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Mereau,+Sophie/Romane/Das+Bl%C3%BCthenalter+der+Empfindung
+401;Amanda und Eduard;Sophie Mereau;Mereau_AmandaundEduard_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Mereau,+Sophie/Romane/Amanda+und+Eduard
+402;Evremont;Sophie Tieck;Tieck_Evremont_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Bernhardi,+Sophie/Roman/Evremont
+403;Wunderbilder und Träume;Sophie Tieck;Tieck_WunderbilderundTräume_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Bernhardi,+Sophie/Erz%C3%A4hlungen/Wunderbilder+und+Tr%C3%A4ume
+404;Geschichte des Fräuleins von Sternheim;Sophie von La Roche;Roche_GeschichtedesFräuleinsvonSternheim_zeno.txt;Roman;http://www.zeno.org/Literatur/M/La+Roche,+Sophie+von/Romane/Geschichte+des+Fr%C3%A4uleins+von+Sternheim
+405;Rosaliens Briefe an ihre Freundin Mariane von St**;Sophie von La Roche;Roche_RosaliensBriefeanihreFreundinMarianevonSt_zeno.txt;Roman;http://www.zeno.org/Literatur/M/La+Roche,+Sophie+von/Romane/Rosaliens+Briefe+an+ihre+Freundin+Mariane+von+St%2A%2A
+406;Erscheinungen am See Oneida;Sophie von La Roche;Roche_ErscheinungenamSeeOneida_zeno.txt;Roman;http://www.zeno.org/Literatur/M/La+Roche,+Sophie+von/Romane/Erscheinungen+am+See+Oneida
+407;Moralische Erzählungen;Sophie von La Roche;Roche_MoralischeErzählungen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/La+Roche,+Sophie+von/Erz%C3%A4hlungen/Moralische+Erz%C3%A4hlungen
+408;Robert der Schiffsjunge;Sophie Wörishöffer;Wörishöffer_RobertderSchiffsjunge_zeno.txt;Roman;http://www.zeno.org/Literatur/M/W%C3%B6rish%C3%B6ffer,+Sophie/Roman/Robert+der+Schiffsjunge
+409;Vor dem Sturm;Theodor Fontane;Fontane_VordemSturm_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Romane/Vor+dem+Sturm
+410;L'Adultera;Theodor Fontane;Fontane_L'Adultera_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Romane/L%27Adultera
+411;Graf Petöfy;Theodor Fontane;Fontane_GrafPetöfy_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Romane/Graf+Pet%C3%B6fy
+412;Cécile;Theodor Fontane;Fontane_Cécile_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Romane/C%C3%A9cile
+413;Irrungen, Wirrungen;Theodor Fontane;Fontane_Irrungen,Wirrungen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Romane/Irrungen,+Wirrungen
+414;Stine;Theodor Fontane;Fontane_Stine_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Romane/Stine
+415;Quitt;Theodor Fontane;Fontane_Quitt_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Romane/Quitt
+416;Unwiederbringlich;Theodor Fontane;Fontane_Unwiederbringlich_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Romane/Unwiederbringlich
+417;Frau Jenny Treibel;Theodor Fontane;Fontane_FrauJennyTreibel_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Romane/Frau+Jenny+Treibel
+418;Effi Briest;Theodor Fontane;Fontane_EffiBriest_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Romane/Effi+Briest
+419;Die Poggenpuhls;Theodor Fontane;Fontane_DiePoggenpuhls_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Romane/Die+Poggenpuhls
+420;Der Stechlin;Theodor Fontane;Fontane_DerStechlin_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Romane/Der+Stechlin
+421;Grete Minde;Theodor Fontane;Fontane_GreteMinde_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Erz%C3%A4hlungen/Grete+Minde
+422;Ellernklipp;Theodor Fontane;Fontane_Ellernklipp_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Erz%C3%A4hlungen/Ellernklipp
+423;Schach von Wuthenow;Theodor Fontane;Fontane_SchachvonWuthenow_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Erz%C3%A4hlungen/Schach+von+Wuthenow
+424;Unterm Birnbaum;Theodor Fontane;Fontane_UntermBirnbaum_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Erz%C3%A4hlungen/Unterm+Birnbaum
+425;Mathilde Möhring;Theodor Fontane;Fontane_MathildeMöhring_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Fontane,+Theodor/Erz%C3%A4hlungen/Mathilde+M%C3%B6hring
+426;Madonna. Unterhaltungen mit einer Heiligen;Theodor Mundt;Mundt_MadonnaUnterhaltungenmiteinerHeiligen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Mundt,+Theodor/Roman/Madonna.+Unterhaltungen+mit+einer+Heiligen
+427;Marthe und ihre Uhr;Theodor Storm;Storm_MartheundihreUhr_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Marthe+und+ihre+Uhr
+428;Im Saal;Theodor Storm;Storm_ImSaal_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Im+Saal
+429;Immensee;Theodor Storm;Storm_Immensee_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Immensee
+430;Auf dem Staatshof;Theodor Storm;Storm_AufdemStaatshof_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Auf+dem+Staatshof
+431;Veronika;Theodor Storm;Storm_Veronika_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Veronika
+432;Im Schloß;Theodor Storm;Storm_ImSchloß_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Im+Schlo%C3%9F
+433;Auf der Universität;Theodor Storm;Storm_AufderUniversität_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Auf+der+Universit%C3%A4t
+434;Eine Malerarbeit;Theodor Storm;Storm_EineMalerarbeit_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Eine+Malerarbeit
+435;In St. Jürgen;Theodor Storm;Storm_InStJürgen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/In+St.+J%C3%BCrgen
+436;Eine Halligfahrt;Theodor Storm;Storm_EineHalligfahrt_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Eine+Halligfahrt
+437;Draußen im Heidedorf;Theodor Storm;Storm_DraußenimHeidedorf_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Drau%C3%9Fen+im+Heidedorf
+438;Viola tricolor;Theodor Storm;Storm_Violatricolor_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Viola+tricolor
+439;Pole Poppenspäler;Theodor Storm;Storm_PolePoppenspäler_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Pole+Poppensp%C3%A4ler
+440;Waldwinkel;Theodor Storm;Storm_Waldwinkel_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Waldwinkel
+441;Beim Vetter Christian;Theodor Storm;Storm_BeimVetterChristian_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Beim+Vetter+Christian
+442;Ein stiller Musikant;Theodor Storm;Storm_EinstillerMusikant_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Ein+stiller+Musikant
+443;Psyche;Theodor Storm;Storm_Psyche_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Psyche
+444;Im Nachbarhause links;Theodor Storm;Storm_ImNachbarhauselinks_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Im+Nachbarhause+links
+445;Aquis Submersus;Theodor Storm;Storm_AquisSubmersus_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Aquis+Submersus
+446;Carsten Curator;Theodor Storm;Storm_CarstenCurator_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Carsten+Curator
+447;Renate;Theodor Storm;Storm_Renate_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Renate
+448;Zur Wald- und Wasserfreude;Theodor Storm;Storm_ZurWald-undWasserfreude_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Zur+Wald-+und+Wasserfreude
+449;Eekenhof;Theodor Storm;Storm_Eekenhof_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Eekenhof
+450;Im Brauerhause;Theodor Storm;Storm_ImBrauerhause_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Im+Brauerhause
+451;Die Söhne des Senators;Theodor Storm;Storm_DieSöhnedesSenators_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Die+S%C3%B6hne+des+Senators
+452;Der Herr Etatsrat;Theodor Storm;Storm_DerHerrEtatsrat_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Der+Herr+Etatsrat
+453;Hans und Heinz Kirch;Theodor Storm;Storm_HansundHeinzKirch_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Hans+und+Heinz+Kirch
+454;Schweigen;Theodor Storm;Storm_Schweigen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Schweigen
+455;Zur Chronik von Grieshuus;Theodor Storm;Storm_ZurChronikvonGrieshuus_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Zur+Chronik+von+Grieshuus
+456;Ein Fest auf Haderslevhuus;Theodor Storm;Storm_EinFestaufHaderslevhuus_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Ein+Fest+auf+Haderslevhuus
+457;Es waren zwei Königskinder;Theodor Storm;Storm_EswarenzweiKönigskinder_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Es+waren+zwei+K%C3%B6nigskinder
+458;John Riew';Theodor Storm;Storm_JohnRiew'_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/John+Riew%27
+459;Bötjer Basch;Theodor Storm;Storm_BötjerBasch_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/B%C3%B6tjer+Basch
+460;Ein Doppelgänger;Theodor Storm;Storm_EinDoppelgänger_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Ein+Doppelg%C3%A4nger
+461;Ein Bekenntnis;Theodor Storm;Storm_EinBekenntnis_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Ein+Bekenntnis
+462;Der Schimmelreiter;Theodor Storm;Storm_DerSchimmelreiter_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Der+Schimmelreiter
+463;Geschichten aus der Tonne;Theodor Storm;Storm_GeschichtenausderTonne_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Storm,+Theodor/Erz%C3%A4hlungen/Geschichten+aus+der+Tonne
+464;Lichtenstein;Wilhelm Hauff;Hauff_Lichtenstein_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Hauff,+Wilhelm/Romane/Lichtenstein
+465;Mitteilungen aus den Memoiren des Satan;Wilhelm Hauff;Hauff_MitteilungenausdenMemoirendesSatan_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Hauff,+Wilhelm/Romane/Mitteilungen+aus+den+Memoiren+des+Satan
+466;Phantasien im Bremer Ratskeller;Wilhelm Hauff;Hauff_PhantasienimBremerRatskeller_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hauff,+Wilhelm/Erz%C3%A4hlungen/Phantasien+im+Bremer+Ratskeller
+467;Jud Süss;Wilhelm Hauff;Hauff_JudSüss_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hauff,+Wilhelm/Erz%C3%A4hlungen/Jud+S%C3%BCss
+468;Die Bettlerin vom Pont des Arts;Wilhelm Hauff;Hauff_DieBettlerinvomPontdesArts_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hauff,+Wilhelm/Erz%C3%A4hlungen/Die+Bettlerin+vom+Pont+des+Arts
+469;Das Bild des Kaisers;Wilhelm Hauff;Hauff_DasBilddesKaisers_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Hauff,+Wilhelm/Erz%C3%A4hlungen/Das+Bild+des+Kaisers
+470;Kulturgeschichtliche Novellen;Wilhelm Heinrich Riehl;Riehl_KulturgeschichtlicheNovellen_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Riehl,+Wilhelm+Heinrich+von/Erz%C3%A4hlungen/Kulturgeschichtliche+Novellen
+471;Die Bernsteinhexe;Wilhelm Meinhold;Meinhold_DieBernsteinhexe_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Meinhold,+Wilhelm/Roman/Die+Bernsteinhexe
+472;Die Chronik der Sperlingsgasse;Wilhelm Raabe;Raabe_DieChronikderSperlingsgasse_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Romane/Die+Chronik+der+Sperlingsgasse
+473;Die Leute aus dem Walde, ihre Sterne, Wege und Schicksale;Wilhelm Raabe;Raabe_DieLeuteausdemWalde,ihreSterne,WegeundSchicksale_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Romane/Die+Leute+aus+dem+Walde,+ihre+Sterne,+Wege+und+Schicksale
+474;Der Hungerpastor;Wilhelm Raabe;Raabe_DerHungerpastor_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Romane/Der+Hungerpastor
+475;Abu Telfan oder Die Heimkehr vom Mondgebirge;Wilhelm Raabe;Raabe_AbuTelfanoderDieHeimkehrvomMondgebirge_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Romane/Abu+Telfan+oder+Die+Heimkehr+vom+Mondgebirge
+476;Der Schüdderump;Wilhelm Raabe;Raabe_DerSchüdderump_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Romane/Der+Sch%C3%BCdderump
+477;Alte Nester;Wilhelm Raabe;Raabe_AlteNester_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Romane/Alte+Nester
+478;Im alten Eisen;Wilhelm Raabe;Raabe_ImaltenEisen_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Romane/Im+alten+Eisen
+479;Stopfkuchen. Eine See- und Mordgeschichte;Wilhelm Raabe;Raabe_StopfkuchenEineSee-undMordgeschichte_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Romane/Stopfkuchen.+Eine+See-+und+Mordgeschichte
+480;Die Akten des Vogelsangs;Wilhelm Raabe;Raabe_DieAktendesVogelsangs_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Romane/Die+Akten+des+Vogelsangs
+481;Die schwarze Galeere;Wilhelm Raabe;Raabe_DieschwarzeGaleere_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Erz%C3%A4hlungen/Die+schwarze+Galeere
+482;Else von der Tanne;Wilhelm Raabe;Raabe_ElsevonderTanne_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Erz%C3%A4hlungen/Else+von+der+Tanne
+483;Die Gänse von Bützow;Wilhelm Raabe;Raabe_DieGänsevonBützow_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Erz%C3%A4hlungen/Die+G%C3%A4nse+von+B%C3%BCtzow
+484;Frau Salome;Wilhelm Raabe;Raabe_FrauSalome_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Erz%C3%A4hlungen/Frau+Salome
+485;Das Odfeld;Wilhelm Raabe;Raabe_DasOdfeld_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Erz%C3%A4hlungen/Das+Odfeld
+486;Hastenbeck;Wilhelm Raabe;Raabe_Hastenbeck_zeno.txt;Erzählung;http://www.zeno.org/Literatur/M/Raabe,+Wilhelm/Erz%C3%A4hlungen/Hastenbeck
+487;Der Büttnerbauer;Wilhelm von Polenz;Polenz_DerBüttnerbauer_zeno.txt;Roman;http://www.zeno.org/Literatur/M/Polenz,+Wilhelm+von/Roman/Der+B%C3%BCttnerbauer

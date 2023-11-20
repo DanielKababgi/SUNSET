@@ -1,0 +1,1169 @@
+	title	author	filename	genre	sources
+0	Der Kinderball	Abraham Emanuel Fröhlich	Fröhlich_DerKinderball_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/froehlia/kinderba/kinderba.html
+1	Die Verschüttung im Hauenstein	Abraham Emanuel Fröhlich	Fröhlich_DieVerschüttungimHauenstein_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/froehlia/hauenste/hauenste.html
+2	Erzählungen	Achim von Arnim	Arnim_Erzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/arnim/erzaehlg/erzaehlg.html
+3	verschiedene Novellen	Achim von Arnim	Arnim_verschiedeneNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/arnim/novellen/arnimnov.html
+4	Bunte Steine	Adalbert Stifter	Stifter_BunteSteine_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/stifter/buntestn/buntestn.html
+5	Der heilige Abend	Adalbert Stifter	Stifter_DerheiligeAbend_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/stifter/hlabend/hlabend.html
+6	Der Kuss von Sentze	Adalbert Stifter	Stifter_DerKussvonSentze_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/stifter/sentze/sentze.html
+7	Der Nachsommer	Adalbert Stifter	Stifter_DerNachsommer_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/stifter/nachsomm/nachsomm.html
+8	Nachkommenschaften	Adalbert Stifter	Stifter_Nachkommenschaften_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/stifter/nachkomm/nachkomm.html
+9	Prokopus	Adalbert Stifter	Stifter_Prokopus_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/stifter/prokopus/prokopus.html
+10	Witiko	Adalbert Stifter	Stifter_Witiko_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stifter/witiko/witiko.html
+11	Bauerngeselchtes	Adam Karrillon	Karrillon_Bauerngeselchtes_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/karrillo/geselcht/geselcht.html
+12	Die Mühle zu Husterloh	Adam Karrillon	Karrillon_DieMühlezuHusterloh_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/karrillo/huster/huster.html
+13	Michael Hely	Adam Karrillon	Karrillon_MichaelHely_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/karrillo/michhely/michhely.html
+14	O Domina mea	Adam Karrillon	Karrillon_ODominamea_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/karrillo/odomina/odomina.html
+15	Der große Schwabenzug	Adam Müller-Guttenbrunn	Müller-Guttenbrunn_DergroßeSchwabenzug_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/muellera/schwaben/schwaben.html
+16	Die Glocken der Heimat	Adam Müller-Guttenbrunn	Müller-Guttenbrunn_DieGlockenderHeimat_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/muellera/glocken/glocken.html
+17	Meister Jakob und seine Kinder	Adam Müller-Guttenbrunn	Müller-Guttenbrunn_MeisterJakobundseineKinder_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/muellera/jakob/jakob.html
+18	Schlitzwang	Adolf Glaser, Pseudonym Rainald Reimar	Reimar_Schlitzwang_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/glaser/schlitzw/schlitzw.html
+19	Wulfhilde	Adolf Glaser, Pseudonym Rainald Reimar	Reimar_Wulfhilde_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/glaser/wulfhild/wulfhild.html
+20	Der jung Münch Ylsan	Adolf Pichler	Pichler_DerjungMünchYlsan_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/pichler/ylsan/ylsan.html
+21	Der lateinische Bauer	Adolf Pichler	Pichler_DerlateinischeBauer_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/pichler/latbauer/latbauer.html
+22	Die Brautnacht	Adolf Pichler	Pichler_DieBrautnacht_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/pichler/brautnac/brautnac.html
+23	Frau Elsa	Adolf Pichler	Pichler_FrauElsa_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/pichler/elsa/elsa.html
+24	Herr Rochus	Adolf Pichler	Pichler_HerrRochus_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/pichler/rochus/rochus.html
+25	Janos und Jonas	Adolf Pichler	Pichler_JanosundJonas_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/pichler/janos/janos.html
+26	Letzte Alpenrosen	Adolf Pichler	Pichler_LetzteAlpenrosen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/pichler/alpenros/alpenros.html
+27	Der Wille zum Leben/Untrennbar	Adolf Wilbrandt	Wilbrandt_DerWillezumLebenUntrennbar_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/wilbrand/untrenn/untrenn.html
+28	Hermann Ifinger	Adolf Wilbrandt	Wilbrandt_HermannIfinger_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wilbrand/hermann/hermann.html
+29	Benjamin Noldmanns Geschichte der Aufklärung in Abyssinien	Adolph Freiherr Knigge	Knigge_BenjaminNoldmannsGeschichtederAufklärunginAbyssinien_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/knigge/noldmann/noldmann.html
+30	Die Schwingen des Lebens	Agnes Franz	Franz_DieSchwingendesLebens_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/franz/schwinge/schwinge.html
+31	Die Heilige und ihr Narr, Band 1	Agnes Günther	Günther_DieHeiligeundihrNarrBand1_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/guenthea/heilige1/heilige1.html
+32	Die Heilige und ihr Narr, Band 2	Agnes Günther	Günther_DieHeiligeundihrNarrBand2_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/guenthea/heilige2/heilige2.html
+33	Das kleine Dummerle und andere Erzählungen	Agnes Sapper	Sapper_DaskleineDummerleundandereErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/sapper/dummerle/dummerle.html
+34	Für kleine Mädchen	Agnes Sapper	Sapper_FürkleineMädchen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/sapper/kleimaed/kleimaed.html
+35	Friedemann Bach	Albert Emil Brachvogel	Brachvogel_FriedemannBach_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/brachvog/bach/bach.html
+36	Oberst von Steuben – des großen Königs Adjutant	Albert Emil Brachvogel	Brachvogel_OberstvonSteuben–desgroßenKönigsAdjutant_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/brachvog/steuben/steuben.html
+37	Vater Milon und andere Erzählungen	Alexander von Oppeln-Bronikowski	Oppeln-Bronikowski_VaterMilonundandereErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/maupassa/milon/milon.html
+38	Vierter Theil: Elf Novellen	Alexander von Ungern-Sternberg	Ungern-Sternberg_VierterTheilElfNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/ungern/novelle4/novelle4.html
+39	Der Flurschütz	Alfred Bock	Bock_DerFlurschütz_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bock/flursch/flursch.html
+40	Die Prinzessin von Portugal	Alfred Meißner	Meißner_DiePrinzessinvonPortugal_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/meissner/portugal/portugal.html
+41	Lord Byron	Alfred Schirokauer	Schirokauer_LordByron_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schiroka/byron/byron.html
+42	Die Bräutigame der Babette Bomberling	Alice Berend	Berend_DieBräutigamederBabetteBomberling_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/berend/bomberlg/bomberlg.html
+43	Frau Hempels Tochter	Alice Berend	Berend_FrauHempelsTochter_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/berend/hempelst/hempelst.html
+44	Bei uns zu Lande auf dem Lande	Annette von Droste-Hülshoff	Droste-Hülshoff_BeiunszuLandeaufdemLande_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/droste/zulande/zulande.html
+45	Der Familienschild	Annette von Droste-Hülshoff	Droste-Hülshoff_DerFamilienschild_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schueckg/familien/familien.html
+46	Die Finsternis und ihr Eigentum	Anton von Perfall	Perfall_DieFinsternisundihrEigentum_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/perfall/finstern/finstern.html
+47	Klippen	Anton von Perfall	Perfall_Klippen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/perfall/klippen/klippen.html
+48	Das Schloß im Moor	Arthur Achleitner	Achleitner_DasSchloßimMoor_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/achleitn/moor/moor.html
+49	Der Finanzer	Arthur Achleitner	Achleitner_DerFinanzer_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/achleitn/finanzer/finanzer.html
+50	Die Dobratschrose	Arthur Achleitner	Achleitner_DieDobratschrose_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/achleitn/dobratsc/dobratsc.html
+51	Familie Lugmüller	Arthur Achleitner	Achleitner_FamilieLugmüller_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/achleitn/lugmuell/lugmuell.html
+52	Clemens und seine Mädchen	Arthur Kahane	Kahane_ClemensundseineMädchen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/kahane/clemens/clemens.html
+53	Der Schauspieler	Arthur Kahane	Kahane_DerSchauspieler_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/kahane/schauspi/schauspi.html
+54	Die Thimigs	Arthur Kahane	Kahane_DieThimigs_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/kahane/thimig/thimig.html
+55	Casanovas Heimfahrt	Arthur Schnitzler	Schnitzler_CasanovasHeimfahrt_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/casaheim/casaheim.html
+56	Das neue Lied	Arthur Schnitzler	Schnitzler_DasneueLied_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/neuelied/neuelied.html
+57	Der Ehrentag	Arthur Schnitzler	Schnitzler_DerEhrentag_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/ehrentag/ehrentag.html
+58	Der Mörder	Arthur Schnitzler	Schnitzler_DerMörder_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/moerder/moerder.html
+59	Der Sohn	Arthur Schnitzler	Schnitzler_DerSohn_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/sohn/sohn.html
+60	Der Weg ins Freie	Arthur Schnitzler	Schnitzler_DerWeginsFreie_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schnitzl/wegfreie/wegfreie.html
+61	Der Witwer	Arthur Schnitzler	Schnitzler_DerWitwer_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/witwer/witwer.html
+62	Die dreifache Warnung	Arthur Schnitzler	Schnitzler_DiedreifacheWarnung_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/3warnung/3warnung.html
+63	Die Frau des Richters	Arthur Schnitzler	Schnitzler_DieFraudesRichters_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/frichter/frichter.html
+64	Die Fremde	Arthur Schnitzler	Schnitzler_DieFremde_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schnitzl/fremde/fremde.html
+65	Die griechische Tänzerin	Arthur Schnitzler	Schnitzler_DiegriechischeTänzerin_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/grtaenze/grtaenze.html
+66	Die Hirtenflöte	Arthur Schnitzler	Schnitzler_DieHirtenflöte_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/hirtenfl/hirtenfl.html
+67	Die Weissagung	Arthur Schnitzler	Schnitzler_DieWeissagung_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/weissagu/weissagu.html
+68	Doktor Gräsler, Badearzt	Arthur Schnitzler	Schnitzler_DoktorGräslerBadearzt_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/graesler/graesler.html
+69	Ein Abschied	Arthur Schnitzler	Schnitzler_EinAbschied_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/abschied/abschied.html
+70	Flucht in die Finsternis	Arthur Schnitzler	Schnitzler_FluchtindieFinsternis_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schnitzl/flucht/flucht.html
+71	Fräulein Else	Arthur Schnitzler	Schnitzler_FräuleinElse_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schnitzl/else/else.html
+72	Frau Beate und ihr Sohn	Arthur Schnitzler	Schnitzler_FrauBeateundihrSohn_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/fraubeat/fraubeat.html
+73	Frau Berta Garlan	Arthur Schnitzler	Schnitzler_FrauBertaGarlan_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/bertagar/bertagar.html
+74	Spiel im Morgengrauen	Arthur Schnitzler	Schnitzler_SpielimMorgengrauen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schnitzl/spielmor/spielmor.html
+75	Sterben	Arthur Schnitzler	Schnitzler_Sterben_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schnitzl/sterben/sterben.html
+76	Therese	Arthur Schnitzler	Schnitzler_Therese_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schnitzl/therese/therese.html
+77	Der Doppelgänger. Neun neue Beethoven-Novellen	Arthur Schurig	Schurig_DerDoppelgängerNeunneueBeethoven-Novellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schurig/doppelga/doppelga.html
+78	Der Roman von Tristan und Isolde	Arthur Schurig	Schurig_DerRomanvonTristanundIsolde_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schurig/tristan/tristan.html
+79	Carmen	Arthur Schurig	Schurig_Carmen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/merimee/carmen/carmen.html
+80	Ehrlos?	Arthur Zapp	Zapp_Ehrlos_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/zapp/ehrlos/ehrlos.html
+81	Bankhaus Reichenbach	Artur Landsberger	Landsberger_BankhausReichenbach_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/landsbrg/reichenb/reichenb.html
+82	Das Blut	Artur Landsberger	Landsberger_DasBlut_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/landsbrg/dasblut/dasblut.html
+83	Emil	Artur Landsberger	Landsberger_Emil_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/landsbrg/emil/emil.html
+84	Haß	Artur Landsberger	Landsberger_Haß_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/landsbrg/hass/hass.html
+85	Liebe und Bananen	Artur Landsberger	Landsberger_LiebeundBananen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/landsbrg/bananen/bananen.html
+86	Mensch und Richter	Artur Landsberger	Landsberger_MenschundRichter_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/landsbrg/menschri/menschri.html
+87	Raffke & Cie.	Artur Landsberger	Landsberger_Raffke&Cie_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/landsbrg/raffke/raffke.html
+88	Um den Sohn	Artur Landsberger	Landsberger_UmdenSohn_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/landsbrg/umsohn/umsohn.html
+89	Villa im Tiergarten	Artur Landsberger	Landsberger_VillaimTiergarten_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/landsbrg/villtier/villtier.html
+90	Der Beinbruch	August Friedrich Ernst Langbein	Langbein_DerBeinbruch_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/langbein/beinbruc/beinbruc.html
+91	Norika	August Hagen	Hagen_Norika_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/hagen/norika/norika.html
+92	Allerlei Geister	August Kopisch	Kopisch_AllerleiGeister_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kopisch/allgeist/allgeist.html
+93	Wenn die Sonne sinkt	August Trinius	Trinius_WenndieSonnesinkt_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/trinius/sonnesin/sonnesin.html
+94	Warenhaus Groß & Comp.	Auguste Groner	Groner_WarenhausGroß&Comp_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/groner/warenhau/warenhau.html
+95	Die Tochter des Regiments und andere Novellen	Balduin Groller	Groller_DieTochterdesRegimentsundandereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/groller/regiment/regiment.html
+96	Eine Panik und andre humoristische Erzählungen	Balduin Groller	Groller_EinePanikundandrehumoristischeErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/groller/panik/panik.html
+97	Ganz zufällig und andere humoristische Novellen	Balduin Groller	Groller_GanzzufälligundanderehumoristischeNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/groller/zufaell/zufaell.html
+98	In schlechter Form und andere Novellen	Balduin Groller	Groller_InschlechterFormundandereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/groller/form/form.html
+99	Töte sie!	Balduin Groller	Groller_Tötesie_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/groller/toetesie/toetesie.html
+100	Das Monogramm	Balduin Möllhausen	Möllhausen_DasMonogramm_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/moellhsn/monogram/monogram.html
+101	Der Fährmann am Kanadian	Balduin Möllhausen	Möllhausen_DerFährmannamKanadian_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/moellhsn/faehrman/faehrman.html
+102	Der Majordomo	Balduin Möllhausen	Möllhausen_DerMajordomo_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/moellhsn/majordom/majordom.html
+103	Der Vaquero	Balduin Möllhausen	Möllhausen_DerVaquero_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/moellhsn/vaquero/vaquero.html
+104	Die beiden Jachten	Balduin Möllhausen	Möllhausen_DiebeidenJachten_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/moellhsn/jachten/jachten.html
+105	Die Familie Melville	Balduin Möllhausen	Möllhausen_DieFamilieMelville_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/moellhsn/fammelvi/fammelvi.html
+106	Die Hyänen des Kapitals	Balduin Möllhausen	Möllhausen_DieHyänendesKapitals_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/moellhsn/hyaenen/hyaenen.html
+107	Die Mandanen - Waise	Balduin Möllhausen	Möllhausen_DieMandanen-Waise_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/moellhsn/mandanen/mandanen.html
+108	Das Mormonenmädchen - Band 1	Balduin Möllhausen	Möllhausen_DasMormonenmädchen-Band1_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/moellhsn/mormone1/mormone1.html
+109	Das Mormonenmädchen - Band 2	Balduin Möllhausen	Möllhausen_DasMormonenmädchen-Band2_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/moellhsn/mormone2/mormone2.html
+110	Conrad und Siegfried von Feuchtwangen, Großmeister des deutschen Ordens	Benedikte Naubert	Naubert_ConradundSiegfriedvonFeuchtwangenGroßmeisterdesdeutschenOrdens_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/naubert/feuchtwa/feuchtwa.html
+111	In Moor und Marsch	Bernhardine Schulze-Smidt	Schulze-Smidt_InMoorundMarsch_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schulzsm/moormars/moormars.html
+112	Pfadfinder	Bernhardine Schulze-Smidt	Schulze-Smidt_Pfadfinder_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schulzsm/pfadfind/pfadfind.html
+113	Alte Liebe	Bertha Behrens	Behrens_AlteLiebe_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heimburg/altelieb/altelieb.html
+114	Aus dem Leben meiner alten Freundin	Bertha Behrens	Behrens_AusdemLebenmeineraltenFreundin_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heimburg/altfreun/altfreun.html
+115	Erzählungen	Bertha Behrens	Behrens_Erzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heimburg/erzaehlg/erzaehlg.html
+116	Mamsell Unnütz	Bertha Behrens	Behrens_MamsellUnnütz_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heimburg/mamsell/mamsell.html
+117	Trudchens Heirat	Bertha Behrens	Behrens_TrudchensHeirat_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heimburg/trudchen/trudchen.html
+118	Wie auch wir vergeben ...	Bertha Behrens	Behrens_Wieauchwirvergeben_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heimburg/wieauchw/wieauchw.html
+119	Die Waffen nieder!	Bertha von Suttner	Suttner_DieWaffennieder_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/suttner/waffenni/waffenni.html
+120	Ermenegildens Flucht	Bertha von Suttner	Suttner_ErmenegildensFlucht_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/suttner/ermenegi/ermenegi.html
+121	Franzl und Mirzl	Bertha von Suttner	Suttner_FranzlundMirzl_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/suttner/franzl/franzl.html
+122	Langeweile	Bertha von Suttner	Suttner_Langeweile_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/suttner/langewei/langewei.html
+123	Barfüßele	Berthold Auerbach	Auerbach_Barfüßele_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/auerbach/barfuess/barfuess.html
+124	Landolin von Reutershöfen	Berthold Auerbach	Auerbach_LandolinvonReutershöfen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/auerbach/landolin/landolin.html
+125	Bürgerziel	Carl Albrecht Bernoulli	Bernoulli_Bürgerziel_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bernoull/buergerz/buergerz.html
+126	Ull	Carl Albrecht Bernoulli	Bernoulli_Ull_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bernoull/ull/ull.html
+127	Das Liebhaber-Theater	Carl Franz van der Velde	Velde_DasLiebhaber-Theater_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/velde/liebhab/liebhab.html
+128	Drei Frauen	Carl Hauptmann	Hauptmann_DreiFrauen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hauptmac/3frauen/3frauen.html
+129	Mathilde. Zeichnungen aus dem Leben einer armen Frau	Carl Hauptmann	Hauptmann_MathildeZeichnungenausdemLebeneinerarmenFrau_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hauptmac/mathilde/mathilde.html
+130	Nächte	Carl Hauptmann	Hauptmann_Nächte_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/hauptmac/naechte/naechte.html
+131	Von Verbrechen und Abenteuern	Carl Hauptmann	Hauptmann_VonVerbrechenundAbenteuern_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hauptmac/verbrech/verbrech.html
+132	Die häßliche Wikta	Carl Hermann Busse	Busse_DiehäßlicheWikta_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/busse/wikta/wikta.html
+133	Jugendstürme	Carl Hermann Busse	Busse_Jugendstürme_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/busse/jugendst/jugendst.html
+134	Düsseldorfer Anfänge	Carl Leberecht Immermann	Immermann_DüsseldorferAnfänge_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/immerman/duesseld/duesseld.html
+135	Geknechteter Wille	Carola von Eynatten	Eynatten_GeknechteterWille_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/eynatten/geknecht/geknecht.html
+136	Krauskopf und Goldlöckchen	Caroline Auguste Fischer	Fischer_KrauskopfundGoldlöckchen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/fischerc/krauskop/krauskop.html
+137	Selim und Zoraïde	Caroline Auguste Fischer	Fischer_SelimundZoraïde_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/fischerc/selimzor/selimzor.html
+138	Die Erzählung des Obersten Morse	Charles Sealsfield, eigentlich Karl Anton Postl	Postl_DieErzählungdesOberstenMorse_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/sealsfld/morse/morse.html
+139	Als der Mond in Dorothees Zimmer schien	Charlotte Niese	Niese_AlsderMondinDorotheesZimmerschien_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/niese/monddoro/monddoro.html
+140	Die falschen Weihnachtsbäume	Charlotte Niese	Niese_DiefalschenWeihnachtsbäume_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/niese/weihbaum/weihbaum.html
+141	Die Geschichte von einem, der nichts durfte	Charlotte Niese	Niese_DieGeschichtevoneinemdernichtsdurfte_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/niese/nidurfte/nidurfte.html
+142	Er und Sie	Charlotte Niese	Niese_ErundSie_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/niese/erundsie/erundsie.html
+143	Es war gut so	Charlotte Niese	Niese_Eswargutso_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/niese/wargutso/wargutso.html
+144	Geschichten aus Holstein	Charlotte Niese	Niese_GeschichtenausHolstein_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/niese/holstein/holstein.html
+145	Kajus Rungholt	Charlotte Niese	Niese_KajusRungholt_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/niese/rungholt/rungholt.html
+146	Mamsell van Ehren	Charlotte Niese	Niese_MamsellvanEhren_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/niese/vanehren/vanehren.html
+147	Mein Freund Kaspar und andere Erzählungen	Charlotte Niese	Niese_MeinFreundKasparundandereErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/niese/erzaehlg/erzaehlg.html
+148	Reifezeit	Charlotte Niese	Niese_Reifezeit_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/niese/reifezei/reifezei.html
+149	Ausführliche Erzählung wie Ernst Haberfeld aus einem Bauer ein Freiherr geworden ist	Christian Gotthilf Salzmann	Salzmann_AusführlicheErzählungwieErnstHaberfeldauseinemBauereinFreiherrgewordenist_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/salzmann/haberfel/haberfel.html
+150	Erzählungen	Christoph Martin Wieland	Wieland_Erzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wieland/erzaehl/erzaehl.html
+151	Koxkox und Kikequetzel	Christoph Martin Wieland	Wieland_KoxkoxundKikequetzel_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wieland/koxkox/koxkox.html
+152	190 kleine Erzählungen für die Jugend	Christoph von Schmid	Schmid_190kleineErzählungenfürdieJugend_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schmid/erzjugen/erzjugen.html
+153	Erzählungen	Christoph von Schmid	Schmid_Erzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schmid/erzaehl/erzaehl.html
+154	Gesühnt	Claire von Glümer	Glümer_Gesühnt_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gluemer/gesuehnt/gesuehnt.html
+155	Auf der Austernfischerjagd	Detlev von Liliencron	Liliencron_AufderAusternfischerjagd_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/austern/austern.html
+156	Das Ehepaar Quint	Detlev von Liliencron	Liliencron_DasEhepaarQuint_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/erzaehlg/quint.html
+157	Der letzte Gruß	Detlev von Liliencron	Liliencron_DerletzteGruß_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/letztgru/letztgru.html
+158	Der Maecen	Detlev von Liliencron	Liliencron_DerMaecen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/liliencr/maecen/maecen.html
+159	Die Dithmarschen	Detlev von Liliencron	Liliencron_DieDithmarschen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/dithmars/dithmars.html
+160	Die Könige von Norderoog und Süderoog	Detlev von Liliencron	Liliencron_DieKönigevonNorderoogundSüderoog_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/nordroog/nordroog.html
+161	Die Schlacht bei Stellau. 1201	Detlev von Liliencron	Liliencron_DieSchlachtbeiStellau1201_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/stellau/stellau.html
+162	Die Spieluhr	Detlev von Liliencron	Liliencron_DieSpieluhr_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/spieluhr/spieluhr.html
+163	Eine Sommerschlacht	Detlev von Liliencron	Liliencron_EineSommerschlacht_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/sommschl/sommschl.html
+164	Geert der Große von Holstein	Detlev von Liliencron	Liliencron_GeertderGroßevonHolstein_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/geert/geert.html
+165	Greggert Meinstorff	Detlev von Liliencron	Liliencron_GreggertMeinstorff_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/liliencr/meinstor/meinstor.html
+166	Hetzjagd	Detlev von Liliencron	Liliencron_Hetzjagd_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/hetzjagd/hetzjagd.html
+167	Kriegsnovellen	Detlev von Liliencron	Liliencron_Kriegsnovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/krnovell/krnovell.html
+168	Letzte Ernte	Detlev von Liliencron	Liliencron_LetzteErnte_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/lernte/lernte.html
+169	Nächtlicher Angriff	Detlev von Liliencron	Liliencron_NächtlicherAngriff_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/angriff/angriff.html
+170	Roggen und Weizen	Detlev von Liliencron	Liliencron_RoggenundWeizen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/liliencr/roggen/roggen.html
+171	Das goldene Tor	Diedrich Speckmann	Speckmann_DasgoldeneTor_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/speckman/goldtor/goldtor.html
+172	Heidehof Lohe	Diedrich Speckmann	Speckmann_HeidehofLohe_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/speckman/heidehof/heidehof.html
+173	Heidjers Heimkehr	Diedrich Speckmann	Speckmann_HeidjersHeimkehr_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/speckman/heidjers/heidjers.html
+174	Der Advokatenbauer	Dietrich Theden	Theden_DerAdvokatenbauer_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/theden/advokate/advokate.html
+175	Die zweite Buße	Dietrich Theden	Theden_DiezweiteBuße_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/theden/2busse/2busse.html
+176	Die Graue Gasse	Dora Duncker	Duncker_DieGraueGasse_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/duncker/graugass/graugass.html
+177	Gross-Berlin	Dora Duncker	Duncker_Gross-Berlin_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/duncker/grossber/grossber.html
+178	Grossstadt	Dora Duncker	Duncker_Grossstadt_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/duncker/grosstad/grosstad.html
+179	Lottes Glück / Totgelacht	Dora Duncker	Duncker_LottesGlückTotgelacht_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/duncker/lottes/lottes.html
+180	Marquise von Pompadour	Dora Duncker	Duncker_MarquisevonPompadour_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/duncker/pompadur/pompadur.html
+181	Florentin	Dorothea Schlegel	Schlegel_Florentin_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schlegld/florenti/florenti.html
+182	Das Eulenhaus	E. Marlitt	Marlitt_DasEulenhaus_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/marlitt/eulenhau/eulenhau.html
+183	Das Geheimnis der alten Mamsell	E. Marlitt	Marlitt_DasGeheimnisderaltenMamsell_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/marlitt/mamsell/mamsell.html
+184	Das Heideprinzeßchen	E. Marlitt	Marlitt_DasHeideprinzeßchen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/marlitt/heide/heide.html
+185	Die Frau mit den Karfunkelsteinen	E. Marlitt	Marlitt_DieFraumitdenKarfunkelsteinen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/marlitt/karfunke/karfunke.html
+186	Die zweite Frau	E. Marlitt	Marlitt_DiezweiteFrau_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/marlitt/2tefrau/2tefrau.html
+187	Die zwölf Apostel	E. Marlitt	Marlitt_DiezwölfApostel_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/marlitt/12apostl/12apostl.html
+188	Goldelse	E. Marlitt	Marlitt_Goldelse_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/marlitt/goldelse/goldelse.html
+189	Im Schillingshof	E. Marlitt	Marlitt_ImSchillingshof_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/marlitt/schillin/schillin.html
+190	Reichsgräfin Gisela	E. Marlitt	Marlitt_ReichsgräfinGisela_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/marlitt/gisela/gisela.html
+191	Schulmeisters Marie	E. Marlitt	Marlitt_SchulmeistersMarie_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/marlitt/schulmst/schulmst.html
+192	Thüringer Erzählungen	E. Marlitt	Marlitt_ThüringerErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/marlitt/thuererz/thuererz.html
+193	Adlerflug	E. Werner, eigentlich Elisabeth Bürstenbinder	Bürstenbinder_Adlerflug_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wernere/adlerflu/adlerflu.html
+194	Ein Gottesurteil	E. Werner, eigentlich Elisabeth Bürstenbinder	Bürstenbinder_EinGottesurteil_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wernere/gottesur/gottesur.html
+195	Fata Morgana	E. Werner, eigentlich Elisabeth Bürstenbinder	Bürstenbinder_FataMorgana_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wernere/fatamorg/fatamorg.html
+196	Gebannt und erlöst	E. Werner, eigentlich Elisabeth Bürstenbinder	Bürstenbinder_Gebanntunderlöst_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wernere/gebannt/gebannt.html
+197	Gesprengte Fesseln/Verdächtig	E. Werner, eigentlich Elisabeth Bürstenbinder	Bürstenbinder_GesprengteFesselnVerdächtig_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/wernere/gespreng/gespreng.html
+198	Glück auf!	E. Werner, eigentlich Elisabeth Bürstenbinder	Bürstenbinder_Glückauf_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wernere/glueckau/glueckau.html
+199	Hexengold	E. Werner, eigentlich Elisabeth Bürstenbinder	Bürstenbinder_Hexengold_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wernere/hexengol/hexengol.html
+200	Siegwart	E. Werner, eigentlich Elisabeth Bürstenbinder	Bürstenbinder_Siegwart_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wernere/siegwart/siegwart.html
+201	"Das Wyler Schlößchen. Die rothen Nelken. Ein Schrei
+"	Edmund Hoefer	Hoefer_DasWylerSchlößchenDierothenNelkenEinSchrei_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hoefer/wyler/wyler.html
+202	Bruchstücke eines Romans	Eduard Mörike	Mörike_BruchstückeeinesRomans_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/moerike/bruchrom/bruchrom.html
+203	Die weißen Götter - Erster Band	Eduard Stucken	Stucken_DieweißenGötter-ErsterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stucken/weissgo1/weissgo1.html
+204	Bürgerlich und Romantisch	Eduard von Bauernfeld	Bauernfeld_BürgerlichundRomantisch_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bauernf/romant/romant.html
+205	Feiertagskinder	Eduard von Keyserling	Keyserling_Feiertagskinder_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/keyserlg/feiertag/feiertag.html
+206	Zwei Novellen	Eduard von Keyserling	Keyserling_ZweiNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/keyserlg/novellen/novellen.html
+207	Bürgerin Louise	Edward Stilgebauer	Stilgebauer_BürgerinLouise_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stilgeba/luise/luise.html
+208	Das vollkommene Glück	Elisabeth von Heyking	Heyking_DasvollkommeneGlück_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heyking/vollkomm/vollkomm.html
+209	Der Tag Anderer	Elisabeth von Heyking	Heyking_DerTagAnderer_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heyking/tagander/tagander.html
+210	Weberin Schuld	Elisabeth von Heyking	Heyking_WeberinSchuld_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyking/weberin/weberin.html
+211	Papillon	Elise Polko	Polko_Papillon_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/polko/papillon/papillon.html
+212	Aus dem Elend	Emerenz Meier	Meier_AusdemElend_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/meier/elend/elend.html
+213	Der Brechelbrei	Emerenz Meier	Meier_DerBrechelbrei_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/meier/brechelb/brechelb.html
+214	Der Juhschroa	Emerenz Meier	Meier_DerJuhschroa_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/meier/juhschro/juhschro.html
+215	Die Madlhüttler	Emerenz Meier	Meier_DieMadlhüttler_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/meier/madlhuet/madlhuet.html
+216	Irrgarten des Lebens	Emil Ertl	Ertl_IrrgartendesLebens_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/ertl/irrgarte/irrgarte.html
+217	Nachtschmetterlinge	Emil Frommel	Frommel_Nachtschmetterlinge_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/frommel/nachtsch/nachtsch.html
+218	Die Wallfahrt	Emil Gött	Gött_DieWallfahrt_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/goett/wallfahr/wallfahr.html
+219	Die Schmiede	Emil Sandt	Sandt_DieSchmiede_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/sandt/schmiede/schmiede.html
+220	Heckenrosen	Emilie Giehrl	Giehrl_Heckenrosen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/giehrl/heckenro/heckenro.html
+221	Erzählungen eines Wattenschiffers	Ernst Adolf Willkomm	Willkomm_ErzählungeneinesWattenschiffers_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/willkomm/watten/watten.html
+222	Rheder und Matrose	Ernst Adolf Willkomm	Willkomm_RhederundMatrose_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/willkomm/reederma/reederma.html
+223	Verirrte Seelen	Ernst Adolf Willkomm	Willkomm_VerirrteSeelen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/willkomm/verirrte/verirrte.html
+224	Der gestohlene Mond	Ernst Barlach	Barlach_DergestohleneMond_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/barlach/gestmond/gestmond.html
+225	Fürst Arno	Ernst Eckstein	Eckstein_FürstArno_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/eckstein/arno/arno.html
+226	Nero	Ernst Eckstein	Eckstein_Nero_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/eckstein/nero/nero.html
+227	Preisgekrönt	Ernst Eckstein	Eckstein_Preisgekrönt_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/eckstein/preisgek/preisgek.html
+228	Vielliebchen	Ernst Eckstein	Eckstein_Vielliebchen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/eckstein/viellieb/viellieb.html
+229	Archambauld	Ernst von Wildenbruch	Wildenbruch_Archambauld_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/wildenbr/archamba/archamba.html
+230	Neid	Ernst von Wildenbruch	Wildenbruch_Neid_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildenbr/neid/neid.html
+231	Das dritte Geschlecht	Ernst von Wolzogen	Wolzogen_DasdritteGeschlecht_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wolzogen/3geschle/3geschle.html
+232	Der Bibelhase	Ernst von Wolzogen	Wolzogen_DerBibelhase_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wolzogen/bibelhas/bibelhas.html
+233	Der Kraft-Mayr	Ernst von Wolzogen	Wolzogen_DerKraft-Mayr_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wolzogen/kraftmay/kraftmay.html
+234	Die Gloria-Hose	Ernst von Wolzogen	Wolzogen_DieGloria-Hose_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wolzogen/gloriahs/gloriahs.html
+235	Die Gloria-Hose und andere Novellen	Ernst von Wolzogen	Wolzogen_DieGloria-HoseundandereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/wolzogen/gloriaho/gloriaho.html
+236	Drei Geschichten	Ernst von Wolzogen	Wolzogen_DreiGeschichten_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wolzogen/schwaene/schwaene.html
+237	's Meikatel und der Sexack	Ernst von Wolzogen	Wolzogen_sMeikatelundderSexack_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wolzogen/meikatel/meikatel.html
+238	Ansas und Grita	Ernst Wichert	Wichert_AnsasundGrita_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wichert/ansas/ansas.html
+239	Das Duell	Ernst Wichert	Wichert_DasDuell_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wichert/duell/duell.html
+240	Das Grundstück	Ernst Wichert	Wichert_DasGrundstück_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wichert/grundstk/grundstk.html
+241	Der Bürgermeister von Thorn	Ernst Wichert	Wichert_DerBürgermeistervonThorn_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wichert/buergerm/buergerm.html
+242	Der Schaktarp	Ernst Wichert	Wichert_DerSchaktarp_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wichert/schakt/schakt.html
+243	Der Wilddieb	Ernst Wichert	Wichert_DerWilddieb_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wichert/wilddieb/wilddieb.html
+244	Der Väter Sünden	Ernst Wichert	Wichert_DerVäterSünden_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wichert/vaetersu/vaetersu.html
+245	Die Schwestern	Ernst Wichert	Wichert_DieSchwestern_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wichert/schwest/schwest.html
+246	Endrik Kraupatis	Ernst Wichert	Wichert_EndrikKraupatis_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wichert/kraupati/kraupati.html
+247	Ewe	Ernst Wichert	Wichert_Ewe_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wichert/ewe/ewe.html
+248	Schuster Lange	Ernst Wichert	Wichert_SchusterLange_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/wichert/schuster/schuster.html
+249	Adele	Fanny Lewald	Lewald_Adele_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/lewald/adele/adele.html
+250	Auf Rother Erde	Fanny Lewald	Lewald_AufRotherErde_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lewald/rotherde/rotherde.html
+251	Wandlungen. Erster Band	Fanny Lewald	Lewald_WandlungenErsterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/lewald/wandlun1/wandlun1.html
+252	Der Beutezug der Liebe	Fedor von Zobeltitz	Zobeltitz_DerBeutezugderLiebe_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/zobeltit/beutezug/beutezug.html
+253	Das Heiratsjahr	Fedor von Zobeltitz	Zobeltitz_DasHeiratsjahr_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/zobeltit/heiratsj/heiratsj.html
+254	Der Kurier des Kaisers	Fedor von Zobeltitz	Zobeltitz_DerKurierdesKaisers_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/zobeltit/kurierka/kurierka.html
+255	Der Telamone	Fedor von Zobeltitz	Zobeltitz_DerTelamone_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/zobeltit/telamone/telamone.html
+256	Bis zum Tode getreu	Felix Dahn	Dahn_BiszumTodegetreu_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/dahn/bistod/bistod.html
+257	Odhin's Trost	Felix Dahn	Dahn_OdhinsTrost_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/dahn/odhintro/odhintro.html
+258	Das Schiff der Abenteuer	Felix Hollaender	Hollaender_DasSchiffderAbenteuer_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hollaend/schiff/schiff.html
+259	Der Weg des Thomas Truck	Felix Hollaender	Hollaender_DerWegdesThomasTruck_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hollaend/truck/truck.html
+260	Die Briefe des Fräulein Brandt	Felix Hollaender	Hollaender_DieBriefedesFräuleinBrandt_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hollaend/frlbrand/frlbrand.html
+261	Salomons Schwiegertochter	Felix Hollaender	Hollaender_SalomonsSchwiegertochter_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hollaend/salomons/salomons.html
+262	Sturmwind im Westen	Felix Hollaender	Hollaender_SturmwindimWesten_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hollaend/sturmwin/sturmwin.html
+263	Bansai!	Ferdinand Grautoff, Pseudonym Seestern	Seestern_Bansai_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/parabell/bansai/bansai.html
+264	»1906«	Ferdinand Grautoff, Pseudonym Seestern	Seestern_»1906«_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/parabell/1906/1906.html
+265	Die Steinklopfer	Ferdinand von Saar	Saar_DieSteinklopfer_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/saar/steinklp/steinklp.html
+266	Innocens	Ferdinand von Saar	Saar_Innocens_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/saar/innocens/innocens.html
+267	Marianne	Ferdinand von Saar	Saar_Marianne_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/saar/marianne/marianne.html
+268	Schloß Kostenitz	Ferdinand von Saar	Saar_SchloßKostenitz_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/saar/kosteniz/kosteniz.html
+269	Tambi	Ferdinand von Saar	Saar_Tambi_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/saar/tambi/tambi.html
+270	Daniella	Ferdinande von Brackel	Brackel_Daniella_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/brackel/daniella/daniella.html
+271	Die Tochter des Kunstreiters	Ferdinande von Brackel	Brackel_DieTochterdesKunstreiters_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/brackel/tochter/tochter.html
+272	Kinder der Liebe	Frances Külpe	Külpe_KinderderLiebe_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/kuelpe/kinderli/kinderli.html
+273	Rote Tage	Frances Külpe	Külpe_RoteTage_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/kuelpe/rotetage/rotetage.html
+274	Erzählungen	Frank Wedekind	Wedekind_Erzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wedekind/erzaehlg/erzaehlg.html
+275	Rabbi Esra	Frank Wedekind	Wedekind_RabbiEsra_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wedekind/esra/esra.html
+276	Moschele	Franz Friedrich Alexander Hoffmann	Hoffmann_Moschele_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hoffmanf/moschele/moschele.html
+277	Grenzenlos!	Franz Josef Zlatnik	Zlatnik_Grenzenlos_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/zlatnik/grenzenl/grenzenl.html
+278	Sieben Erzählungen	Franz Stelzhamer	Stelzhamer_SiebenErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/stelzham/erzaehlg/erzaehlg.html
+279	Der Held von Trenton	Franz Treller	Treller_DerHeldvonTrenton_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/treller/trenton/trenton.html
+280	Unter dem Römerhelm	Franz Treller	Treller_UnterdemRömerhelm_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/treller/roemerhe/roemerhe.html
+281	Die neuen Argonauten	Franz von Dingelstedt	Dingelstedt_DieneuenArgonauten_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/dingelst/argonaut/argonaut.html
+282	Novellen und Erzählungen 1	Franz von Gaudy	Gaudy_NovellenundErzählungen1_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gaudy/werke3/book.html
+283	Novellen und Erzählungen 1	Franz von Gaudy	Gaudy_NovellenundErzählungen1_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gaudy/werke3/book.html
+284	Novellen und Erzählungen 2	Franz von Gaudy	Gaudy_NovellenundErzählungen2_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gaudy/werke4/book.html
+285	Novellen und Erzählungen 2	Franz von Gaudy	Gaudy_NovellenundErzählungen2_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gaudy/werke4/book.html
+286	Venetianische Novellen	Franz von Gaudy	Gaudy_VenetianischeNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gaudy/werke5/book.html
+287	Die Brenta-Blume	Franz von Gaudy	Gaudy_DieBrenta-Blume_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gaudy/brenta/brenta.html
+288	Wildanger	Franz von Kobell	Kobell_Wildanger_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kobell/wildangr/wildangr.html
+289	Ein Mönchsleben aus der empfindsamen Zeit, Band 1	Franz Xaver Bronner	Bronner_EinMönchslebenausderempfindsamenZeitBand1_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bronner/moenchs1/moenchs1.html
+290	Ein Mönchsleben aus der empfindsamen Zeit, Band 2	Franz Xaver Bronner	Bronner_EinMönchslebenausderempfindsamenZeitBand2_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bronner/moenchs2/moenchs2.html
+291	Die belohnte Wohlthat	Franz Xaver Bronner	Bronner_DiebelohnteWohlthat_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/bronner/wohlthat/wohlthat.html
+292	Aus Nacht zum Licht	Frida von Kronoff	Kronoff_AusNachtzumLicht_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kronoff/nachtlic/nachtlic.html
+293	Amey	Friederike Henriette Kraze	Kraze_Amey_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/kraze/amey/amey.html
+294	Jahr der Wandlung	Friederike Henriette Kraze	Kraze_JahrderWandlung_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/kraze/wandlung/wandlung.html
+295	Maria am Meer	Friederike Henriette Kraze	Kraze_MariaamMeer_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/kraze/marimeer/marimeer.html
+296	Alte und neue Heimat	Friedrich Armand Strubberg, Pseudonym Armand	Armand_AlteundneueHeimat_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/armand/altheim/altheim.html
+297	Die Rache des Mestizen	Friedrich Armand Strubberg, Pseudonym Armand	Armand_DieRachedesMestizen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/armand/rache/rache.html
+298	Saat und Ernte	Friedrich Armand Strubberg, Pseudonym Armand	Armand_SaatundErnte_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/armand/saat/saat.html
+299	Sintram und seine Gefährten	Friedrich de la Motte Fouqué	Fouqué_SintramundseineGefährten_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/fouque/sintram/sintram.html
+300	Alle jagen John Mulligan	Friedrich Gerstäcker	Gerstäcker_AllejagenJohnMulligan_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/mulligan/mulligan.html
+301	Blau Wasser	Friedrich Gerstäcker	Gerstäcker_BlauWasser_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/blauwass/blauwass.html
+302	Das Wrack	Friedrich Gerstäcker	Gerstäcker_DasWrack_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/wrack/wrack.html
+303	Der erkaufte Henker	Friedrich Gerstäcker	Gerstäcker_DererkaufteHenker_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/henker/henker.html
+304	Der Fischfang am Mississippi	Friedrich Gerstäcker	Gerstäcker_DerFischfangamMississippi_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/fischmis/fischmis.html
+305	Der Flatbootmann	Friedrich Gerstäcker	Gerstäcker_DerFlatbootmann_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/flatboot/flatboot.html
+306	Der kleine Walfischfänger	Friedrich Gerstäcker	Gerstäcker_DerkleineWalfischfänger_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/klwalfi/klwalfi.html
+307	Der Osage	Friedrich Gerstäcker	Gerstäcker_DerOsage_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/osage/osage.html
+308	Der Schiffszimmermann	Friedrich Gerstäcker	Gerstäcker_DerSchiffszimmermann_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/zimmermn/zimmermn.html
+309	Der Walfischfänger	Friedrich Gerstäcker	Gerstäcker_DerWalfischfänger_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/walfisch/walfisch.html
+310	Die Backwoodsmen Nordamerikas	Friedrich Gerstäcker	Gerstäcker_DieBackwoodsmenNordamerikas_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/blackwoo/blackwoo.html
+311	Die Blauen und Gelben	Friedrich Gerstäcker	Gerstäcker_DieBlauenundGelben_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/blaugelb/blaugelb.html
+312	Die Colonie	Friedrich Gerstäcker	Gerstäcker_DieColonie_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/colonie/colonie.html
+313	Die Flucht über die Kordilleren	Friedrich Gerstäcker	Gerstäcker_DieFluchtüberdieKordilleren_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/kordill/kordill.html
+314	Die Moderatoren	Friedrich Gerstäcker	Gerstäcker_DieModeratoren_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/moderato/moderato.html
+315	Die Flußpiraten des Mississippi	Friedrich Gerstäcker	Gerstäcker_DieFlußpiratendesMississippi_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/missi/miss01.html
+316	Die Nacht auf dem Walfisch	Friedrich Gerstäcker	Gerstäcker_DieNachtaufdemWalfisch_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/nachtwal/nachtwal.html
+317	Die Regulatoren in Arkansas	Friedrich Gerstäcker	Gerstäcker_DieRegulatoreninArkansas_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/arkansas/arkansas.html
+318	Die Silbermine in den Ozarkgebirgen	Friedrich Gerstäcker	Gerstäcker_DieSilbermineindenOzarkgebirgen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/silbmine/silbmine.html
+319	Die Sklavin	Friedrich Gerstäcker	Gerstäcker_DieSklavin_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/sklavin/sklavin.html
+320	Die Vertreibung der Mormonen aus Missouri	Friedrich Gerstäcker	Gerstäcker_DieVertreibungderMormonenausMissouri_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/mormonen/mormonen.html
+321	Die Wolfsglocke	Friedrich Gerstäcker	Gerstäcker_DieWolfsglocke_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/wolfsglk/wolfsglk.html
+322	General Franco	Friedrich Gerstäcker	Gerstäcker_GeneralFranco_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/franco/franco.html
+323	Gold	Friedrich Gerstäcker	Gerstäcker_Gold_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/gold/gold.html
+324	Im Busch	Friedrich Gerstäcker	Gerstäcker_ImBusch_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/im_busch/im_busch.html
+325	In der Südsee	Friedrich Gerstäcker	Gerstäcker_InderSüdsee_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/suedsee/suedsee.html
+326	In Mexiko. Erster Band	Friedrich Gerstäcker	Gerstäcker_InMexikoErsterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/mexiko1/mexiko1.html
+327	Jack und Bill	Friedrich Gerstäcker	Gerstäcker_JackundBill_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/jackbill/jackbill.html
+328	John Wells	Friedrich Gerstäcker	Gerstäcker_JohnWells_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/wells/wells.html
+329	Pech!	Friedrich Gerstäcker	Gerstäcker_Pech_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/pech/pech.html
+330	Schwarz und Weiß	Friedrich Gerstäcker	Gerstäcker_SchwarzundWeiß_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/sw/sw.html
+331	Señor Aguila	Friedrich Gerstäcker	Gerstäcker_SeñorAguila_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/aguila/aguila.html
+332	Sträflinge	Friedrich Gerstäcker	Gerstäcker_Sträflinge_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/straefli/straefli.html
+333	Tahiti	Friedrich Gerstäcker	Gerstäcker_Tahiti_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/tahiti/tahiti.html
+334	Unter dem Äquator	Friedrich Gerstäcker	Gerstäcker_UnterdemÄquator_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/aequator/aequator.html
+335	Unter den Pehuenchen	Friedrich Gerstäcker	Gerstäcker_UnterdenPehuenchen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/pehu/pehu.html
+336	Das alte Haus	Friedrich Gerstäcker	Gerstäcker_DasalteHaus_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/altehaus/altehaus.html
+337	Der Erbe	Friedrich Gerstäcker	Gerstäcker_DerErbe_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/dererbe/dererbe.html
+338	Der Freischütz	Friedrich Gerstäcker	Gerstäcker_DerFreischütz_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/freisch/freisch.html
+339	Der Kunstreiter	Friedrich Gerstäcker	Gerstäcker_DerKunstreiter_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/kunstrei/kunstrei.html
+340	Der tote Zimmermann	Friedrich Gerstäcker	Gerstäcker_DertoteZimmermann_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/totezimm/totezimm.html
+341	Der Wilddieb	Friedrich Gerstäcker	Gerstäcker_DerWilddieb_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/wilddieb/wilddieb.html
+342	Die Ahnung	Friedrich Gerstäcker	Gerstäcker_DieAhnung_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/ahnung/ahnung.html
+343	Germelshausen	Friedrich Gerstäcker	Gerstäcker_Germelshausen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/germelsh/germelsh.html
+344	Hell und Dunkel	Friedrich Gerstäcker	Gerstäcker_HellundDunkel_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/helldunk/helldunk.html
+345	Herr Schultze	Friedrich Gerstäcker	Gerstäcker_HerrSchultze_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/schultze/schultze.html
+346	Herrn Mahlhuber's Reiseabenteuer	Friedrich Gerstäcker	Gerstäcker_HerrnMahlhubersReiseabenteuer_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gerstaec/mahlhube/mahlhube.html
+347	Im Eckfenster	Friedrich Gerstäcker	Gerstäcker_ImEckfenster_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gerstaec/eckfenst/eckfenst.html
+348	Irrfahrten	Friedrich Gerstäcker	Gerstäcker_Irrfahrten_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gerstaec/irrfahrt/irrfahrt.html
+349	So du mir, so ich dir	Friedrich Gerstäcker	Gerstäcker_Sodumirsoichdir_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/wiedumir/wiedumir.html
+350	Verhängnisse	Friedrich Gerstäcker	Gerstäcker_Verhängnisse_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gerstaec/verhaeng/verhaeng.html
+351	Die Marzipan-Lise	Friedrich Halm, eigentlich Eligius von Münch-Bellinghausen	Münch-Bellinghausen_DieMarzipan-Lise_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/halm/marzipan/marzipan.html
+352	Aus meiner Jugend	Friedrich Hebbel	Hebbel_AusmeinerJugend_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hebbel/jugend/jugend.html
+353	Anna	Friedrich Hebbel	Hebbel_Anna_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hebbel/anna/anna.html
+354	Barbier Zitterlein	Friedrich Hebbel	Hebbel_BarbierZitterlein_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/hebbel/zitterln/zitterln.html
+355	Der Schneidermeister Nepomuk Schlägel auf der Freudenjagd	Friedrich Hebbel	Hebbel_DerSchneidermeisterNepomukSchlägelaufderFreudenjagd_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hebbel/schlaegl/schlaegl.html
+356	Die Kuh	Friedrich Hebbel	Hebbel_DieKuh_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hebbel/kuh/kuh.html
+357	Die Obermedizinalrätin	Friedrich Hebbel	Hebbel_DieObermedizinalrätin_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hebbel/obermed/obermed.html
+358	Eine Nacht im Jägerhause	Friedrich Hebbel	Hebbel_EineNachtimJägerhause_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/hebbel/1nacht/1nacht.html
+359	Herr Haidvogel und seine Familie	Friedrich Hebbel	Hebbel_HerrHaidvogelundseineFamilie_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hebbel/haidvogl/haidvogl.html
+360	Matteo	Friedrich Hebbel	Hebbel_Matteo_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hebbel/matteo/matteo.html
+361	Pauls merkwürdigste Nacht	Friedrich Hebbel	Hebbel_PaulsmerkwürdigsteNacht_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hebbel/paulsnt/paulsnt.html
+362	Treue Liebe	Friedrich Hebbel	Hebbel_TreueLiebe_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hebbel/treulieb/treulieb.html
+363	Fausts Leben, Thaten und Höllenfahrt	Friedrich Maximilian Klinger	Klinger_FaustsLebenThatenundHöllenfahrt_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/klinger/fstkling/fstkling.html
+364	Alles fließt	Friedrich Spielhagen	Spielhagen_Allesfließt_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/spielhag/allesfli/allesfli.html
+365	Allzeit voran	Friedrich Spielhagen	Spielhagen_Allzeitvoran_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/allzeit/allzeit.html
+366	An der Heilquelle	Friedrich Spielhagen	Spielhagen_AnderHeilquelle_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/heilquel/heilquel.html
+367	Angela	Friedrich Spielhagen	Spielhagen_Angela_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/angela/angela.html
+368	Clara Vere	Friedrich Spielhagen	Spielhagen_ClaraVere_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/spielhag/claraver/claraver.html
+369	Das Skelet im Hause	Friedrich Spielhagen	Spielhagen_DasSkeletimHause_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/spielhag/skelet/skelet.html
+370	Deutsche Pioniere	Friedrich Spielhagen	Spielhagen_DeutschePioniere_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/spielhag/pioniere/pioniere.html
+371	Die Dorfcoquette	Friedrich Spielhagen	Spielhagen_DieDorfcoquette_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/spielhag/dorfcoqu/dorfcoqu.html
+372	Die von Hohenstein. Erster Band	Friedrich Spielhagen	Spielhagen_DievonHohensteinErsterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/hohenst1/hohenst1.html
+373	Ein neuer Pharao	Friedrich Spielhagen	Spielhagen_EinneuerPharao_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/neuphara/neuphara.html
+374	Frei geboren	Friedrich Spielhagen	Spielhagen_Freigeboren_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/frgebor/frgebor.html
+375	Hans und Grete	Friedrich Spielhagen	Spielhagen_HansundGrete_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/spielhag/hansgret/hansgret.html
+376	Herrin	Friedrich Spielhagen	Spielhagen_Herrin_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/spielhag/herrin/herrin.html
+377	In der zwölften Stunde	Friedrich Spielhagen	Spielhagen_InderzwölftenStunde_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/12stunde/12stunde.html
+378	In Reih' und Glied. Erster Theil	Friedrich Spielhagen	Spielhagen_InReihundGliedErsterTheil_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/inreih1/inreih1.html
+379	Opfer	Friedrich Spielhagen	Spielhagen_Opfer_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/opfer/opfer.html
+380	Röschen vom Hofe	Friedrich Spielhagen	Spielhagen_RöschenvomHofe_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/spielhag/roeschen/roeschen.html
+381	Selbstgerecht	Friedrich Spielhagen	Spielhagen_Selbstgerecht_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/spielhag/selbstge/selbstge.html
+382	Stumme des Himmels	Friedrich Spielhagen	Spielhagen_StummedesHimmels_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/stumme/stumme.html
+383	Sturmflut	Friedrich Spielhagen	Spielhagen_Sturmflut_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/sturmflt/sturmflt.html
+384	Uhlenhans	Friedrich Spielhagen	Spielhagen_Uhlenhans_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/uhlenhns/uhlenhns.html
+385	Ultimo	Friedrich Spielhagen	Spielhagen_Ultimo_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/spielhag/ultimo/ultimo.html
+386	Was will das werden? Erster Theil	Friedrich Spielhagen	Spielhagen_WaswilldaswerdenErsterTheil_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/waswill1/waswill1.html
+387	Unter Tannen	Friedrich Spielhagen	Spielhagen_UnterTannen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/spielhag/tannen/tannen.html
+388	Beiträge zur Theorie und Technik des Romans	Friedrich Spielhagen	Spielhagen_BeiträgezurTheorieundTechnikdesRomans_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spielhag/roman/roman.html
+389	Gräfin Helene	Friedrich von Bodenstedt	Bodenstedt_GräfinHelene_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/bodenst/grhelene/grhelene.html
+390	Faust: Erzählung in neun Briefen	Friedrich von Bodenstedt	Bodenstedt_FaustErzählunginneunBriefen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/turgenev/faust/faust.html
+391	Am Kamin	Friedrich Wilhelm Hackländer	Hackländer_AmKamin_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/hacklaen/amkamin/amkamin.html
+392	Humoristische Erzählungen	Friedrich Wilhelm Hackländer	Hackländer_HumoristischeErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hacklaen/humorerz/humorerz.html
+393	Vier Könige / Bilder aus dem Soldatenleben	Friedrich Wilhelm Hackländer	Hackländer_VierKönigeBilderausdemSoldatenleben_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/hacklaen/4koenige/4koenige.html
+394	Böhmische Novellen	Fritz Mauthner	Mauthner_BöhmischeNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/mauthner/boehmnov/boehmnov.html
+395	Das Durchhaus	Fritz Stüber-Gunther	Stüber-Gunther_DasDurchhaus_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/stueber/durchhau/durchhau.html
+396	Stürme	Georg Asmussen	Asmussen_Stürme_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/asmussen/stuerme/stuerme.html
+397	Die Gred	Georg Ebers	Ebers_DieGred_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ebers/gred/gred.html
+398	Im Schmiedefeuer	Georg Ebers	Ebers_ImSchmiedefeuer_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ebers/schmiede/schmiede.html
+399	Kleopatra	Georg Ebers	Ebers_Kleopatra_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ebers/kleopatr/kleopatr.html
+400	Claus Störtebecker	Georg Engel	Engel_ClausStörtebecker_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/engel/stoerteb/stoerteb.html
+401	Der verbotene Rausch	Georg Engel	Engel_DerverboteneRausch_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/engel/verboten/verboten.html
+402	Die Last	Georg Engel	Engel_DieLast_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/engel/last/last.html
+403	Hann Klüth	Georg Engel	Engel_HannKlüth_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/engel/hannklue/hannklue.html
+404	Der Dieb	Georg Heym	Heym_DerDieb_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heym/dieb/dieb.html
+405	Eine Fratze	Georg Heym	Heym_EineFratze_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heym/fratze/fratze.html
+406	Der Kapuziner	Georg Queri	Queri_DerKapuziner_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/queri/kapuzine/kapuzine.html
+407	Aus großen Höhen	Georg von Ompteda	Ompteda_AusgroßenHöhen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ompteda/ausgross/ausgross.html
+408	Denise de Montmidi	Georg von Ompteda	Ompteda_DenisedeMontmidi_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ompteda/denise/denise.html
+409	Die Tafelrunde	Georg von Ompteda	Ompteda_DieTafelrunde_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ompteda/tafelrun/tafelrun.html
+410	Ernst III.	Georg von Ompteda	Ompteda_ErnstIII_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ompteda/ernst3/ernst3.html
+411	Margret und Ossana	Georg von Ompteda	Ompteda_MargretundOssana_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ompteda/margreto/margreto.html
+412	Maria da Caza	Georg von Ompteda	Ompteda_MariadaCaza_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ompteda/maria/maria.html
+413	Fräulein Fifi	Georg von Ompteda	Ompteda_FräuleinFifi_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/fifi/fifi.html
+414	Die Schwestern Rondoli	Georg von Ompteda	Ompteda_DieSchwesternRondoli_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/rondoli/rondoli.html
+415	Miß Harriet	Georg von Ompteda	Ompteda_MißHarriet_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/harriet/harriet.html
+416	Das Haus	Georg von Ompteda	Ompteda_DasHaus_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/haus/haus.html
+417	Mondschein	Georg von Ompteda	Ompteda_Mondschein_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/mondsche/mondsche.html
+418	Herr Parent	Georg von Ompteda	Ompteda_HerrParent_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/parent/parent.html
+419	Der Horla	Georg von Ompteda	Ompteda_DerHorla_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/horla/horla.html
+420	Die Schnepfe	Georg von Ompteda	Ompteda_DieSchnepfe_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/schnepfe/schnepfe.html
+421	Der Liebling	Georg von Ompteda	Ompteda_DerLiebling_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/maupassa/liebling/liebling.html
+422	Ein Menschenleben	Georg von Ompteda	Ompteda_EinMenschenleben_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/maupassa/menschle/menschle.html
+423	Stark wie der Tod	Georg von Ompteda	Ompteda_StarkwiederTod_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/maupassa/starktod/starktod.html
+424	Dickchen	Georg von Ompteda	Ompteda_Dickchen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/dickchen/dickchen.html
+425	Hans und Peter	Georg von Ompteda	Ompteda_HansundPeter_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/maupassa/hanspete/hanspete.html
+426	Die kleine Roque	Georg von Ompteda	Ompteda_DiekleineRoque_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/roque/roque.html
+427	Nutzlose Schönheit	Georg von Ompteda	Ompteda_NutzloseSchönheit_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/nutzlos/nutzlos.html
+428	Tugendpreis	Georg von Ompteda	Ompteda_Tugendpreis_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/tugendpr/tugendpr.html
+429	Schnaps-Anton	Georg von Ompteda	Ompteda_Schnaps-Anton_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/schnaps/schnaps.html
+430	Unser Herz	Georg von Ompteda	Ompteda_UnserHerz_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/maupassa/unsherz/unsherz.html
+431	Tag- und Nachtgeschichten	Georg von Ompteda	Ompteda_Tag-undNachtgeschichten_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/maupassa/tagnacht/tagnacht.html
+432	Mont Oriol	Georg von Ompteda	Ompteda_MontOriol_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/maupassa/oriol/oriol.html
+433	Don Juan	Gerrit Engelke	Engelke_DonJuan_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/engelke/donjuan/donjuan.html
+434	Das schnellste Schiff der Flotte	Gorch Fock, eigentlich Johann Kinau	Kinau_DasschnellsteSchiffderFlotte_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/fock/schnells/schnells.html
+435	Nach dem Sturm	Gorch Fock, eigentlich Johann Kinau	Kinau_NachdemSturm_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/fock/nachstur/nachstur.html
+436	Seefahrt ist not!	Gorch Fock, eigentlich Johann Kinau	Kinau_Seefahrtistnot_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/fock/seefahrt/seefahrt.html
+437	Nachgelassene Erzählungen	Gottfried Keller	Keller_NachgelasseneErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/keller/nachgela/nachgela.html
+438	Züricher Novellen	Gottfried Keller	Keller_ZüricherNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/keller/zuercher/zuercher.html
+439	Kreuz und Schwert	Gregor Samarow, eigentlich Johann Ferdinand Martin Oskar Meding	Meding_KreuzundSchwert_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/meding/kreuzsch/kreuzsch.html
+440	Ritter oder Dame	Gregor Samarow, eigentlich Johann Ferdinand Martin Oskar Meding	Meding_RitteroderDame_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/meding/ritterda/ritterda.html
+441	Der Mann im Nebel	Gustav Falke	Falke_DerMannimNebel_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/falke/mannebel/mannebel.html
+442	Aus dem Durchschnitt	Gustav Falke	Falke_AusdemDurchschnitt_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/falke/durchsch/durchsch.html
+443	Die Kinder aus Ohlsens Gang	Gustav Falke	Falke_DieKinderausOhlsensGang_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/falke/ohlsensg/ohlsensg.html
+444	Herr Purtaller und seine Tochter	Gustav Falke	Falke_HerrPurtallerundseineTochter_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/falke/purtalle/purtalle.html
+445	Landen und Stranden	Gustav Falke	Falke_LandenundStranden_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/falke/landen/landen.html
+446	Die verlorene Handschrift	Gustav Freytag	Freytag_DieverloreneHandschrift_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/freytag/handschr/handschr.html
+447	Soll und Haben	Gustav Freytag	Freytag_SollundHaben_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/freytag/sollhabn/sollhabn.html
+448	Das grüne Gesicht	Gustav Meyrink, eigentlich Gustav Meyer	Meyer_DasgrüneGesicht_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/meyrink/gruenges/gruenges.html
+449	Der Löwe Alois und andere Geschichten	Gustav Meyrink, eigentlich Gustav Meyer	Meyer_DerLöweAloisundandereGeschichten_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/meyrink/alois/alois.html
+450	Der seltsame Gast	Gustav Meyrink, eigentlich Gustav Meyer	Meyer_DerseltsameGast_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/meyrink/gast/gast.html
+451	Der Engel vom westlichen Fenster	Gustav Meyrink, eigentlich Gustav Meyer	Meyer_DerEngelvomwestlichenFenster_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/meyrink/engelfen/engelfen.html
+452	Der Golem	Gustav Meyrink, eigentlich Gustav Meyer	Meyer_DerGolem_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/meyrink/golem/golem.html
+453	Der weiße Dominikaner	Gustav Meyrink, eigentlich Gustav Meyer	Meyer_DerweißeDominikaner_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/meyrink/dominika/dominika.html
+454	Die Abenteuer des Polen Sendivogius	Gustav Meyrink, eigentlich Gustav Meyer	Meyer_DieAbenteuerdesPolenSendivogius_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/meyrink/sendivog/sendivog.html
+455	Walpurgisnacht	Gustav Meyrink, eigentlich Gustav Meyer	Meyer_Walpurgisnacht_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/meyrink/walpurgi/walpurgi.html
+456	Des deutschen Spießers Wunderhorn	Gustav Meyrink, eigentlich Gustav Meyer	Meyer_DesdeutschenSpießersWunderhorn_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/meyrink/wunderho/inhalt.html
+457	Ein Namenloser	Gustav Sack	Sack_EinNamenloser_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/sack/namenlos/namenlos.html
+458	Ein verbummelter Student	Gustav Sack	Sack_EinverbummelterStudent_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/sack/verbstud/verbstud.html
+459	Erzählungen aus den alten Volksbüchern	Gustav Schwab	Schwab_ErzählungenausdenaltenVolksbüchern_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schwab/erzvolks/erzvolks.html
+460	Arge Sitten	Hans von Hopfen, eigentlich Hans Mayer	Mayer_ArgeSitten_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hopfen/argesitt/argesitt.html
+461	Der alte Praktikant	Hans von Hopfen, eigentlich Hans Mayer	Mayer_DeraltePraktikant_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hopfen/praktik/praktik.html
+462	Die Geschichten des Majors	Hans von Hopfen, eigentlich Hans Mayer	Mayer_DieGeschichtendesMajors_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hopfen/major/major.html
+463	Die Heirath des Herrn von Waldenbergt	Hans von Hopfen, eigentlich Hans Mayer	Mayer_DieHeirathdesHerrnvonWaldenbergt_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hopfen/waldberg/waldberg.html
+464	Peregretta	Hans von Hopfen, eigentlich Hans Mayer	Mayer_Peregretta_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hopfen/peregret/peregret.html
+465	Robert Leichtfuß	Hans von Hopfen, eigentlich Hans Mayer	Mayer_RobertLeichtfuß_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hopfen/leichtfu/leichtfu.html
+466	Verdorben zu Paris	Hans von Hopfen, eigentlich Hans Mayer	Mayer_VerdorbenzuParis_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hopfen/verdorb/verdorb.html
+467	Miß Lydia	Hans Wachenhusen	Wachenhusen_MißLydia_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wachenhu/lydia/lydia.html
+468	Was die Straße verschlingt. Erster Band	Hans Wachenhusen	Wachenhusen_WasdieStraßeverschlingtErsterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wachenhu/strasse1/strasse1.html
+469	Flitter und Schein	Hedwig Dransfeld	Dransfeld_FlitterundSchein_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/dransfel/flitter/flitter.html
+470	Das Dijon-Röschen	Heinrich Clauren, eigentlich Karl Gottlieb Samuel Heun	Heun_DasDijon-Röschen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heun/dijonros/dijonros.html
+471	Das Raubschloß	Heinrich Clauren, eigentlich Karl Gottlieb Samuel Heun	Heun_DasRaubschloß_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heun/raubschl/raubschl.html
+472	Der Blutschatz	Heinrich Clauren, eigentlich Karl Gottlieb Samuel Heun	Heun_DerBlutschatz_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heun/blutschz/blutschz.html
+473	Der selige Papier-Müller	Heinrich Clauren, eigentlich Karl Gottlieb Samuel Heun	Heun_DerseligePapier-Müller_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heun/papierml/papierml.html
+474	Die Gräfin Cherubim	Heinrich Clauren, eigentlich Karl Gottlieb Samuel Heun	Heun_DieGräfinCherubim_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heun/cherubim/cherubim.html
+475	Die Gränz-Kommission	Heinrich Clauren, eigentlich Karl Gottlieb Samuel Heun	Heun_DieGränz-Kommission_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heun/graenzko/graenzko.html
+476	Die Großmutter	Heinrich Clauren, eigentlich Karl Gottlieb Samuel Heun	Heun_DieGroßmutter_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heun/grossmtr/grossmtr.html
+477	Die Versuchung	Heinrich Clauren, eigentlich Karl Gottlieb Samuel Heun	Heun_DieVersuchung_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heun/versuchu/versuchu.html
+478	Makk	Heinrich Clauren, eigentlich Karl Gottlieb Samuel Heun	Heun_Makk_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heun/makk/makk.html
+479	Mimili	Heinrich Clauren, eigentlich Karl Gottlieb Samuel Heun	Heun_Mimili_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heun/mimili/mimili.html
+480	Berge und Menschen	Heinrich Federer	Federer_BergeundMenschen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/federer/bergmens/bergmens.html
+481	Das letzte Stündlein des Papstes	Heinrich Federer	Federer_DasletzteStündleindesPapstes_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/federer/stuendle/stuendle.html
+482	Das Wunder in Holzschuhen	Heinrich Federer	Federer_DasWunderinHolzschuhen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/federer/wunder/wunder.html
+483	Der Fürchtemacher	Heinrich Federer	Federer_DerFürchtemacher_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/federer/fuerchte/fuerchte.html
+484	Gebt mir meine Wildnis wieder	Heinrich Federer	Federer_GebtmirmeineWildniswieder_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/federer/wildnis/wildnis.html
+485	Jungfer Therese	Heinrich Federer	Federer_JungferTherese_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/federer/therese/therese.html
+486	Lachweiler Geschichten	Heinrich Federer	Federer_LachweilerGeschichten_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/federer/lachweil/lachweil.html
+487	Regina Lob	Heinrich Federer	Federer_ReginaLob_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/federer/lob/lob.html
+488	Sisto e Sesto (Erzählung)	Heinrich Federer	Federer_SistoeSesto(Erzählung)_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/federer/sisto/sisto.html
+489	Spitzbube über Spitzbube	Heinrich Federer	Federer_SpitzbubeüberSpitzbube_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/federer/spitzbub/spitzbub.html
+490	Unter südlichen Sonnen und Menschen	Heinrich Federer	Federer_UntersüdlichenSonnenundMenschen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/federer/suedsonn/suedsonn.html
+491	Wander- und Wundergeschichten aus dem Süden	Heinrich Federer	Federer_Wander-undWundergeschichtenausdemSüden_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/federer/wandwund/wandwund.html
+492	Zwei Skizzenblätter	Heinrich Hart	Hart_ZweiSkizzenblätter_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/harth/2skizzen/2skizzen.html
+493	Romanzero	Heinrich Heine	Heine_Romanzero_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heine/romanzro/romanzro.html
+494	Das Glück	Heinrich Laube	Laube_DasGlück_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/laube/glueck/glueck.html
+495	Der deutsche Krieg. I. Buch, Junker Hans. 1. Theil	Heinrich Laube	Laube_DerdeutscheKriegIBuchJunkerHans1Theil_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/laube/dkrieg1/dkrieg1.html
+496	Die Schauspielerin	Heinrich Laube	Laube_DieSchauspielerin_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/laube/schausp/schausp.html
+497	Liebesbriefe	Heinrich Laube	Laube_Liebesbriefe_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/laube/liebbrie/liebbrie.html
+498	Novellen	Heinrich Laube	Laube_Novellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/laube/novellen/novellen.html
+499	Im Hirtenhaus	Heinrich Schaumberger	Schaumberger_ImHirtenhaus_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schaumbe/hirthaus/hirthaus.html
+500	Fritz Reinhardt	Heinrich Schaumberger	Schaumberger_FritzReinhardt_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schaumbe/reinhard/reinhard.html
+501	Gesalzene Krapfen	Heinrich Schaumberger	Schaumberger_GesalzeneKrapfen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schaumbe/krapfen/krapfen.html
+502	Umsingen	Heinrich Schaumberger	Schaumberger_Umsingen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schaumbe/umsingen/umsingen.html
+503	Das Brautschiff	Heinrich Smidt	Smidt_DasBrautschiff_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/smidt/brautsch/brautsch.html
+504	Ein Seelenverkauf oder Was zahlt Ostindien? Dritter Theil	Heinrich Smidt	Smidt_EinSeelenverkaufoderWaszahltOstindienDritterTheil_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/smidt/seelenve/seelenve.html
+505	Jan Blaufink oder See und Theater	Heinrich Smidt	Smidt_JanBlaufinkoderSeeundTheater_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/smidt/janblauf/janblauf.html
+506	Meeresstille und hohe See	Heinrich Smidt	Smidt_MeeresstilleundhoheSee_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/smidt/meeresst/meeresst.html
+507	Seegeschichten und Marinebilder	Heinrich Smidt	Smidt_SeegeschichtenundMarinebilder_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/smidt/seegesch/seegesch.html
+508	Irmela	Heinrich Steinhausen	Steinhausen_Irmela_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/steinhau/irmela/irmela.html
+509	Addrich im Moos	Heinrich Zschokke	Zschokke_AddrichimMoos_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/zschokke/addrich/addrich.html
+510	Der Flüchtling im Jura	Heinrich Zschokke	Zschokke_DerFlüchtlingimJura_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/zschokke/jura/jura.html
+511	Der Freihof von Aarau	Heinrich Zschokke	Zschokke_DerFreihofvonAarau_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/zschokke/aarau/aarau.html
+512	Die Rose von Disentis	Heinrich Zschokke	Zschokke_DieRosevonDisentis_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/zschokke/disentis/disentis.html
+513	Hans Dampf in allen Gassen	Heinrich Zschokke	Zschokke_HansDampfinallenGassen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/zschokke/hansdmpf/hansdmpf.html
+514	Frau Doktor Breuer	Helene von Mühlau, eigentlich Hedwig von Mühlenfels, geb. Rathgeber	Rathgeber_FrauDoktorBreuer_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/muehlau/drbreuer/drbreuer.html
+515	Erzählungen. Aus den Papieren der Herzogin von Nottingham	Henriette von Paalzow	Paalzow_ErzählungenAusdenPapierenderHerzoginvonNottingham_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/paalzow/erzaehlg/erzaehlg.html
+516	Die schöne Frau	Hermann Bahr	Bahr_DieschöneFrau_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/bahr/schofrau/schofrau.html
+517	Der inwendige Garten	Hermann Bahr	Bahr_DerinwendigeGarten_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bahr/ingarten/ingarten.html
+518	Leander	Hermann Bahr	Bahr_Leander_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/bahr/leander/leander.html
+519	12 Novellen	Hermann Essig	Essig_12Novellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/essig/12novell/12novell.html
+520	Aus allen Winkeln	Hermann Heiberg	Heiberg_AusallenWinkeln_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/heiberg/erzaehlg/erzaehlg.html
+521	Das Schicksal auf Moorheide	Hermann Heiberg	Heiberg_DasSchicksalaufMoorheide_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heiberg/moorheid/moorheid.html
+522	Fluch der Schönheit	Hermann Heiberg	Heiberg_FluchderSchönheit_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heiberg/fluchsch/fluchsch.html
+523	Gesammelte kleinere Erzählungen - Band 2	Hermann Kurz	Kurz_GesammeltekleinereErzählungen-Band2_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kurz/erzaehl2/erzaehl2.html
+524	Gesammelte kleinere Erzählungen - Band 3	Hermann Kurz	Kurz_GesammeltekleinereErzählungen-Band3_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kurz/erzaehl3/erzaehl3.html
+525	Gesammelte kleinere Erzählungen - Band 4	Hermann Kurz	Kurz_GesammeltekleinereErzählungen-Band4_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kurz/erzaehl4/erzaehl4.html
+526	Byzantinische Novellen	Hermann Lingg	Lingg_ByzantinischeNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lingg/byzanti/byzanti.html
+527	Kleine Erzählungen	Hermann Löns	Löns_KleineErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/loens/gw-07/gw-07.html
+528	Fritz Beutel	Hermann Marggraff	Marggraff_FritzBeutel_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/marggraf/beutel/beutel.html
+529	Der verwandelte Fächer und zwei andere Novellen	Hermann Sudermann	Sudermann_DerverwandelteFächerundzweiandereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/suderman/faecher/faecher.html
+530	Der tolle Professor	Hermann Sudermann	Sudermann_DertolleProfessor_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/suderman/tollprof/tollprof.html
+531	Es war	Hermann Sudermann	Sudermann_Eswar_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/suderman/eswar/eswar.html
+532	Frau Sorge	Hermann Sudermann	Sudermann_FrauSorge_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/suderman/sorge/sorge.html
+533	Geschwister	Hermann Sudermann	Sudermann_Geschwister_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/suderman/geschw/geschw.html
+534	Im Zwielicht	Hermann Sudermann	Sudermann_ImZwielicht_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/suderman/zwielich/zwielich.html
+535	Aus dem Badener Land	Hermine Villinger	Villinger_AusdemBadenerLand_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/villinge/badener/badener.html
+536	Aus meiner Heimat	Hermine Villinger	Villinger_AusmeinerHeimat_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/villinge/heimat/heimat.html
+537	Das blaue Mal	Hugo Bettauer	Bettauer_DasblaueMal_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bettauer/blauemal/blauemal.html
+538	Der Kampf um Wien	Hugo Bettauer	Bettauer_DerKampfumWien_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bettauer/kampfwie/kampfwie.html
+539	Die Freudlose Gasse	Hugo Bettauer	Bettauer_DieFreudloseGasse_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bettauer/gasse/gasse.html
+540	Die Stadt ohne Juden	Hugo Bettauer	Bettauer_DieStadtohneJuden_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bettauer/stadtjud/stadtjud.html
+541	Faustrecht	Hugo Bettauer	Bettauer_Faustrecht_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bettauer/faustrec/faustrec.html
+542	Vergangenheit	Hugo Salus	Salus_Vergangenheit_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/salus/vergange/vergange.html
+543	Die Frau ohne Schatten	Hugo von Hofmannsthal	Hofmannsthal_DieFrauohneSchatten_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hofmanns/frauscht/frauscht.html
+544	Annas Ehe	Ida Boy-Ed	Boy-Ed_AnnasEhe_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/boy-ed/annasehe/annasehe.html
+545	Die Opferschale	Ida Boy-Ed	Boy-Ed_DieOpferschale_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/boy-ed/opfersch/opfersch.html
+546	Ein königlicher Kaufmann	Ida Boy-Ed	Boy-Ed_EinköniglicherKaufmann_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/boy-ed/koenkauf/koenkauf.html
+547	Empor!	Ida Boy-Ed	Boy-Ed_Empor_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/boy-ed/empor/empor.html
+548	Um ein Weib	Ida Boy-Ed	Boy-Ed_UmeinWeib_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/boy-ed/um1weib/um1weib.html
+549	Vor der Ehe	Ida Boy-Ed	Boy-Ed_VorderEhe_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/boy-ed/vordereh/vordereh.html
+550	Zwei Männer	Ida Boy-Ed	Boy-Ed_ZweiMänner_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/boy-ed/2maenner/2maenner.html
+551	Gräfin Faustine	Ida Hahn-Hahn	Hahn-Hahn_GräfinFaustine_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hahnhahn/faustine/faustine.html
+552	Maria Regina - Band 1	Ida Hahn-Hahn	Hahn-Hahn_MariaRegina-Band1_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hahnhahn/mariare1/mariare1.html
+553	Maria Regina - Band 2	Ida Hahn-Hahn	Hahn-Hahn_MariaRegina-Band2_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hahnhahn/mariare2/mariare2.html
+554	Tobias Guarnerius	Ignaz Franz Castelli, Pseudonym Bruder Fatalis	Fatalis_TobiasGuarnerius_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/castelli/tobias/tobias.html
+555	Arbeit	Ilse Frapan	Frapan_Arbeit_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/frapan/arbeit/arbeit.html
+556	Querköpfe	Ilse Frapan	Frapan_Querköpfe_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/frapan/querkoep/querkoep.html
+557	Schreie. Novellen und Skizzen	Ilse Frapan	Frapan_SchreieNovellenundSkizzen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/frapan/schreie/schreie.html
+558	Was der Alltag dichtet	Ilse Frapan	Frapan_WasderAlltagdichtet_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/frapan/alltag/alltag.html
+559	Wir Frauen haben kein Vaterland	Ilse Frapan	Frapan_WirFrauenhabenkeinVaterland_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/frapan/vaterlan/vaterlan.html
+560	Zu Wasser und zu Lande	Ilse Frapan	Frapan_ZuWasserundzuLande_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/frapan/wassland/wassland.html
+561	Zwischen Elbe und Alster	Ilse Frapan	Frapan_ZwischenElbeundAlster_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/frapan/elbealst/elbealst.html
+562	Guten Abend!	Isabella Braun	Braun_GutenAbend_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/braunisa/gutabend/gutabend.html
+563	An heiligen Wassern	Jakob Christoph Heer	Heer_AnheiligenWassern_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heer/heilwass/heilwass.html
+564	Der König der Bernina	Jakob Christoph Heer	Heer_DerKönigderBernina_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heer/bernina/bernina.html
+565	Der lange Balthasar	Jakob Christoph Heer	Heer_DerlangeBalthasar_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heer/balthasa/balthasa.html
+566	Der Wetterwart	Jakob Christoph Heer	Heer_DerWetterwart_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heer/wetterwa/wetterwa.html
+567	Felix Notvest	Jakob Christoph Heer	Heer_FelixNotvest_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heer/notvest/notvest.html
+568	Laubgewind	Jakob Christoph Heer	Heer_Laubgewind_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heer/laubgewi/laubgewi.html
+569	Tobias Heider	Jakob Christoph Heer	Heer_TobiasHeider_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heer/heider/heider.html
+570	Das königliche Spiel	Jakob Julius David	David_DasköniglicheSpiel_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/david/spiel/spiel.html
+571	Das Totenlied	Jakob Julius David	David_DasTotenlied_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/david/totenlie/totenlie.html
+572	Der Bettelvogt	Jakob Julius David	David_DerBettelvogt_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/david/bettelvo/bettelvo.html
+573	Die Hanna	Jakob Julius David	David_DieHanna_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/david/hanna/hanna.html
+574	Die Hanna	Jakob Julius David	David_DieHanna_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/david/hanna1/hanna1.html
+575	Die Tochter Fortunats	Jakob Julius David	David_DieTochterFortunats_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/david/fortunat/fortunat.html
+576	Die Troika	Jakob Julius David	David_DieTroika_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/david/troika/troika.html
+577	Ein Poet?	Jakob Julius David	David_EinPoet_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/david/poet/poet.html
+578	Halluzinationen	Jakob Julius David	David_Halluzinationen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/david/halluzin/halluzin.html
+579	Schuß in der Nacht	Jakob Julius David	David_SchußinderNacht_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/david/schuss/schuss.html
+580	Verstörte Zeit	Jakob Julius David	David_VerstörteZeit_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/david/verstoer/verstoer.html
+581	Empfindsamster aller Romane	Jakob Michael Reinhold Lenz	Lenz_EmpfindsamsterallerRomane_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/lenz/empfinds/empfinds.html
+582	Alexander in Babylon	Jakob Wassermann	Wassermann_AlexanderinBabylon_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/babylon/babylon.html
+583	Alexander in Babylon	Jakob Wassermann	Wassermann_AlexanderinBabylon_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/alexandr/alexandr.html
+584	Caspar Hauser oder Die Trägheit des Herzens	Jakob Wassermann	Wassermann_CasparHauseroderDieTrägheitdesHerzens_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/caspar/caspar.html
+585	Christian Wahnschaffe	Jakob Wassermann	Wassermann_ChristianWahnschaffe_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/wahnscha/wahnscha.html
+586	Das Gänsemännchen	Jakob Wassermann	Wassermann_DasGänsemännchen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/gaensemn/gaensemn.html
+587	Das Gold von Caxamalca	Jakob Wassermann	Wassermann_DasGoldvonCaxamalca_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/caxamal/caxamal.html
+588	Der Aufruhr um den Junker Ernst	Jakob Wassermann	Wassermann_DerAufruhrumdenJunkerErnst_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wasserma/ernst/ernst.html
+589	Der Fall Maurizius	Jakob Wassermann	Wassermann_DerFallMaurizius_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/mauriz/mauriz.html
+590	Der niegeküßte Mund und andere Erzählungen	Jakob Wassermann	Wassermann_DerniegeküßteMundundandereErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wasserma/niegekue/niegekue.html
+591	Die Geschichte der jungen Renate Fuchs	Jakob Wassermann	Wassermann_DieGeschichtederjungenRenateFuchs_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/renate/renate.html
+592	Die Juden von Zirndorf	Jakob Wassermann	Wassermann_DieJudenvonZirndorf_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/zirndorf/zirndorf.html
+593	Die Masken Erwin Reiners	Jakob Wassermann	Wassermann_DieMaskenErwinReiners_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/reiners/reiners.html
+594	Die Pest im Vintschgau	Jakob Wassermann	Wassermann_DiePestimVintschgau_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wasserma/pestvint/pestvint.html
+595	Die Schwestern	Jakob Wassermann	Wassermann_DieSchwestern_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/wasserma/schwestr/schwestr.html
+596	Donna Johanna von Castilien	Jakob Wassermann	Wassermann_DonnaJohannavonCastilien_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wasserma/donnajoh/donnajoh.html
+597	Joseph Kerkhovens dritte Existenz	Jakob Wassermann	Wassermann_JosephKerkhovensdritteExistenz_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/kerkhove/kerkhove.html
+598	Laudin und die Seinen	Jakob Wassermann	Wassermann_LaudinunddieSeinen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/laudin/laudin.html
+599	Lukardis	Jakob Wassermann	Wassermann_Lukardis_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wasserma/lukardis/lukardis.html
+600	Melusine	Jakob Wassermann	Wassermann_Melusine_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/melusin/melusin.html
+601	Schläfst du, Mutter?	Jakob Wassermann	Wassermann_SchläfstduMutter_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wasserma/schlaefs/schlaefs.html
+602	Ulrike	Jakob Wassermann	Wassermann_Ulrike_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wasserma/ulrike/ulrike.html
+603	Des Geburtshelfers Walther Vierneissel Nachtgedanken über seine verlorenen Fötus-Ideale	Jean Paul, eigentlich Johann Paul Friedrich Richter	Richter_DesGeburtshelfersWaltherVierneisselNachtgedankenüberseineverlorenenFötus-Ideale_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/jeanpaul/vierneis/vierneis.html
+604	Michels Brautschau	Jeremias Gotthelf, eigentlich Albert Bitzius	Bitzius_MichelsBrautschau_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gotthelf/michels/michels.html
+605	Wie fünf Mädchen im Branntwein jämmerlich umkommen	Jeremias Gotthelf, eigentlich Albert Bitzius	Bitzius_WiefünfMädchenimBranntweinjämmerlichumkommen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gotthelf/branntwe/branntwe.html
+606	Arabella von Byrnswack	Johann Gabriel Seidl	Seidl_ArabellavonByrnswack_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/seidl/arabella/arabella.html
+607	Cornelia Fieramonti	Johann Gabriel Seidl	Seidl_CorneliaFieramonti_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/seidl/fieramon/fieramon.html
+608	Das goldene Ringlein	Johann Gabriel Seidl	Seidl_DasgoldeneRinglein_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/seidl/ringlein/ringlein.html
+609	Der Leiermann	Johann Gabriel Seidl	Seidl_DerLeiermann_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/seidl/leierman/leierman.html
+610	Der tödliche Knopf	Johann Gabriel Seidl	Seidl_DertödlicheKnopf_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/seidl/knopf/knopf.html
+611	Die Blaue	Johann Gabriel Seidl	Seidl_DieBlaue_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/seidl/dieblaue/dieblaue.html
+612	Die Schweden vor Olmütz	Johann Gabriel Seidl	Seidl_DieSchwedenvorOlmütz_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/seidl/olmuetz/olmuetz.html
+613	Juana	Johann Gabriel Seidl	Seidl_Juana_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/seidl/juana/juana.html
+614	Sie ist versorgt!	Johann Gabriel Seidl	Seidl_Sieistversorgt_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/seidl/versorgt/versorgt.html
+615	Stumme Rache	Johann Gabriel Seidl	Seidl_StummeRache_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/seidl/stumrach/stumrach.html
+616	Die ewige Bürde/Der afrikanische Rechtsspruch	Johann Gottfried Herder	Herder_DieewigeBürdeDerafrikanischeRechtsspruch_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/herder/erzaehlg/erzaehlg.html
+617	Rheinische Erzählungen	Johann Gottfried Kinkel	Kinkel_RheinischeErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kinkel/domschat/domschat.html
+618	Die Sühne durchs Leben	Johann Gottfried Kinkel	Kinkel_DieSühnedurchsLeben_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kinkel/suehne/suehne.html
+619	Erzählungen	Johann Gottfried Kinkel	Kinkel_Erzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kinkel/erzaehlg/erzaehlg.html
+620	Herr Lorenz Stark	Johann Jakob Engel	Engel_HerrLorenzStark_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/engeljj/herrlore/herrlore.html
+621	Ardinghello und die glückseeligen Inseln	Johann Jakob Wilhelm Heinse	Heinse_ArdinghellounddieglückseeligenInseln_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heinse/ardinghe/ardinghe.html
+622	Der Ochsenhansl	Johann Peter	Peter_DerOchsenhansl_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/peter/ochsenha/ochsenha.html
+623	Wie mir die Lust zum Tanzen verging	Johann Peter	Peter_WiemirdieLustzumTanzenverging_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/peter/tanzlust/tanzlust.html
+624	Und dann rennen wir!	Johann Peter	Peter_Unddannrennenwir_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/peter/rennen/rennen.html
+625	Bassompierres Geschichte von der schönen Krämerin	Johann Wolfgang von Goethe	Goethe_BassompierresGeschichtevonderschönenKrämerin_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/goethe/bassompi/bassompi.html
+626	Der Mann von funfzig Jahren	Johann Wolfgang von Goethe	Goethe_DerMannvonfunfzigJahren_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/goethe/funfzig/funfzig.html
+627	Der Prokurator	Johann Wolfgang von Goethe	Goethe_DerProkurator_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/goethe/prokurat/prokurat.html
+628	Die Geschichte von Mignons Eltern	Johann Wolfgang von Goethe	Goethe_DieGeschichtevonMignonsEltern_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/goethe/migeltrn/migeltrn.html
+629	Die wunderlichen Nachbarskinder	Johann Wolfgang von Goethe	Goethe_DiewunderlichenNachbarskinder_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/goethe/nachbars/nachbars.html
+630	Die pilgernde Törin	Johann Wolfgang von Goethe	Goethe_DiepilgerndeTörin_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/goethe/toerin/toerin.html
+631	Die gefährliche Wette	Johann Wolfgang von Goethe	Goethe_DiegefährlicheWette_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/goethe/gefwette/gefwette.html
+632	Die neue Melusine	Johann Wolfgang von Goethe	Goethe_DieneueMelusine_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/goethe/melusine/melusine.html
+633	Ferdinands Schuld und Wandlung	Johann Wolfgang von Goethe	Goethe_FerdinandsSchuldundWandlung_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/goethe/ferdinan/ferdinan.html
+634	Kleinere Novellen	Johann Wolfgang von Goethe	Goethe_KleinereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/goethe/klnovell/klnovell.html
+635	Nicht zu weit	Johann Wolfgang von Goethe	Goethe_Nichtzuweit_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/goethe/nzuweit/nzuweit.html
+636	Novelle	Johann Wolfgang von Goethe	Goethe_Novelle_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/goethe/novelle/novel001.html
+637	Sankt Joseph der Zweite	Johann Wolfgang von Goethe	Goethe_SanktJosephderZweite_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/goethe/joseph2/joseph2.html
+638	Wer ist der Verräter?	Johann Wolfgang von Goethe	Goethe_WeristderVerräter_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/goethe/verraetr/verraetr.html
+639	Erzählungen	Johanna Kinkel	Kinkel_Erzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kinkel/erzaehlg/erzaehlg.html
+640	Erzählungen	Johanna Schopenhauer	Schopenhauer_Erzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schopenj/erzaehlg/erzaehlg.html
+641	Gabriele	Johanna Schopenhauer	Schopenhauer_Gabriele_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schopenj/gabriele/gabriele.html
+642	Leontine und Natalie	Johanna Schopenhauer	Schopenhauer_LeontineundNatalie_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schopenj/natalie/natalie.html
+643	Sina	Johanna Spyri	Spyri_Sina_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/spyri/sina/sina.html
+644	Der Überkater, Band 1	Johannes Richard zur Megede	Megede_DerÜberkaterBand1_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/megede/ueberka1/ueberka1.html
+645	Der Überkater, Band 2	Johannes Richard zur Megede	Megede_DerÜberkaterBand2_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/megede/ueberka2/ueberka2.html
+646	Novellenbuch. Erster Band	Johannes Scherr	Scherr_NovellenbuchErsterBand_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/scherr/schiller/schiller.html
+647	Altdeutsch - Erster Band	Josef Eduard Konrad Bischoff	Bischoff_Altdeutsch-ErsterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bolanden/altdeut1/altdeut1.html
+648	Bankrott	Josef Eduard Konrad Bischoff	Bischoff_Bankrott_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bolanden/bankrott/bankrott.html
+649	Franz von Sickingen. Erster Theil	Josef Eduard Konrad Bischoff	Bischoff_FranzvonSickingenErsterTheil_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bolanden/sicking1/sicking1.html
+650	Neudeutsch	Josef Eduard Konrad Bischoff	Bischoff_Neudeutsch_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/bolanden/neudeuts/neudeuts.html
+651	Achtspännig. Erster Theil	Josef Rank	Rank_AchtspännigErsterTheil_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/rankjo/8spann1/8spann1.html
+652	Ein Dorfbrutus. Erster Teil	Josef Rank	Rank_EinDorfbrutusErsterTeil_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/rankjo/dorfbru1/dorfbru1.html
+653	Schön-Minnele. Erster Band	Josef Rank	Rank_Schön-MinneleErsterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/rankjo/minnele1/minnele1.html
+654	Der Adel und die Revolution	Joseph Freiherr von Eichendorff	Eichendorff_DerAdelunddieRevolution_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/eichndrf/adelrevo/adelrevo.html
+655	Das Hünengrab	Julius Hart	Hart_DasHünengrab_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hartj/huenengr/huenengr.html
+656	Das Heimweh	Julius Mosen, eigentlich Julius Moses	Moses_DasHeimweh_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/mosen/heimweh/heimweh.html
+657	Meines Großvaters Brautwerbung / Ismael	Julius Mosen, eigentlich Julius Moses	Moses_MeinesGroßvatersBrautwerbungIsmael_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/mosen/brautwer/brautwer.html
+658	Die Grandidiers	Julius Rodenberg, eigentlich Levy	Levy_DieGrandidiers_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/rodenber/grandidi/grandidi.html
+659	Das schwarze Weib	Julius Wolff	Wolff_DasschwarzeWeib_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wolff/schwweib/schwweib.html
+660	Das Wildfangrecht	Julius Wolff	Wolff_DasWildfangrecht_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wolff/wildfang/wildfang.html
+661	Der Sülfmeister	Julius Wolff	Wolff_DerSülfmeister_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wolff/suelfmst/suelfmst.html
+662	Lurlei	Julius Wolff	Wolff_Lurlei_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/wolff/lurlei/lurlei.html
+663	Töchter	Karl Adolph	Adolph_Töchter_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/adolph/toechter/toechter.html
+664	Der Pojaz	Karl Emil Franzos	Franzos_DerPojaz_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/franzos/pojaz/pojaz.html
+665	Ein Kampf ums Recht	Karl Emil Franzos	Franzos_EinKampfumsRecht_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/franzos/kampfrec/kampfrec.html
+666	Judith Trachtenberg	Karl Emil Franzos	Franzos_JudithTrachtenberg_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/franzos/trachten/trachten.html
+667	Leib Weihnachtskuchen und sein Kind	Karl Emil Franzos	Franzos_LeibWeihnachtskuchenundseinKind_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/franzos/leibweih/leibweih.html
+668	Novellen um Liebe und Ehe	Karl Emil Franzos	Franzos_NovellenumLiebeundEhe_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/franzos/liebehe/liebehe.html
+669	Blasedow und seine Söhne. Erster Theil	Karl Gutzkow	Gutzkow_BlasedowundseineSöhneErsterTheil_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gutzkow/blasedo1/blasedo1.html
+670	Der Sadducäer von Amsterdam	Karl Gutzkow	Gutzkow_DerSadducäervonAmsterdam_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gutzkow/sadduc/sadduc.html
+671	Der Zauberer von Rom, 1. Buch	Karl Gutzkow	Gutzkow_DerZauberervonRom1Buch_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gutzkow/zauber1/zauber1.html
+672	Die Kurstauben	Karl Gutzkow	Gutzkow_DieKurstauben_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gutzkow/kurstaub/kurstaub.html
+673	Die Nihilisten	Karl Gutzkow	Gutzkow_DieNihilisten_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gutzkow/nihilist/nihilist.html
+674	Die Selbsttaufe	Karl Gutzkow	Gutzkow_DieSelbsttaufe_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gutzkow/selbsttf/selbsttf.html
+675	Eine Phantasieliebe	Karl Gutzkow	Gutzkow_EinePhantasieliebe_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gutzkow/phanlieb/phanlieb.html
+676	Imagina Unruh	Karl Gutzkow	Gutzkow_ImaginaUnruh_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gutzkow/imagina/imagina.html
+677	Jean-Jacques	Karl Gutzkow	Gutzkow_Jean-Jacques_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gutzkow/jean-jac/jean-jac.html
+678	Seraphine	Karl Gutzkow	Gutzkow_Seraphine_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gutzkow/seraphin/seraphin.html
+679	Wally, die Zweiflerin	Karl Gutzkow	Gutzkow_WallydieZweiflerin_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gutzkow/wally/wally.html
+680	Halbblut und andere Erzählungen	Karl May	May_HalbblutundandereErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/may/halbblut/halbblut.html
+681	Das Zauberwasser und andere Erzählungen	Karl May	May_DasZauberwasserundandereErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/may/zauberwa/zauberwa.html
+682	Kapitän Kaiman und andere Erzählungen	Karl May	May_KapitänKaimanundandereErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/may/kaiman/kaiman.html
+683	Fortunat und seine Söhne	Karl Simrock	Simrock_FortunatundseineSöhne_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/simrock/fortunat/fortunat.html
+684	Der Jesuit	Karl Spindler	Spindler_DerJesuit_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spindler/jesuit/jesuit.html
+685	Der Jude	Karl Spindler	Spindler_DerJude_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spindler/jude/jude.html
+686	Der Vogelhändler von Imst	Karl Spindler	Spindler_DerVogelhändlervonImst_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spindler/imst/imst.html
+687	Herbstviolen	Karl Spindler	Spindler_Herbstviolen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/spindler/herbstvi/herbstvi.html
+688	Putsch & Comp. Erster Band	Karl Spindler	Spindler_Putsch&CompErsterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spindler/putsch1/putsch1.html
+689	Putsch & Comp. Zweiter Band	Karl Spindler	Spindler_Putsch&CompZweiterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spindler/putsch2/putsch2.html
+690	Putsch & Comp. Dritter Band	Karl Spindler	Spindler_Putsch&CompDritterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spindler/putsch3/putsch3.html
+691	Putsch & Comp. Vierter Band	Karl Spindler	Spindler_Putsch&CompVierterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/spindler/putsch4/putsch4.html
+692	Regenbogenstrahlen. Erster Band	Karl Spindler	Spindler_RegenbogenstrahlenErsterBand_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/spindler/regenbo1/regenbo1.html
+693	Tag und Nacht. Erster Band	Karl Spindler	Spindler_TagundNachtErsterBand_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/spindler/tagnach1/tagnach1.html
+694	Tag und Nacht. Zweiter Band	Karl Spindler	Spindler_TagundNachtZweiterBand_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/spindler/tagnach2/tagnach2.html
+695	Mien Jungsparadies	Klaus Groth	Groth_MienJungsparadies_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/groth/jungspar/jungspar.html
+696	Ruggiero, der Brigant	Konrad Telman, eigentlich Konrad Zitelmann	Zitelmann_RuggieroderBrigant_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/telmann/ruggiero/ruggiero.html
+697	Aspira. Der Roman einer Wolke	Kurd Laßwitz	Laßwitz_AspiraDerRomaneinerWolke_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/lasswitz/aspira/aspira.html
+698	Auf zwei Planeten. Erstes Buch	Kurd Laßwitz	Laßwitz_AufzweiPlanetenErstesBuch_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/lasswitz/auf2pl-1/auf2pl-1.html
+699	Bis zum Nullpunkt des Seins und andere Science-Fiction-Erzählungen	Kurd Laßwitz	Laßwitz_BiszumNullpunktdesSeinsundandereScience-Fiction-Erzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/lasswitz/nullpunk/nullpunk.html
+700	Gegen das Weltgesetz	Kurd Laßwitz	Laßwitz_GegendasWeltgesetz_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/lasswitz/weltges/weltges.html
+701	Familie Dungs	Kurt Aram, eigentlich Hans Fischer	Fischer_FamilieDungs_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/aram/dungs/dungs.html
+702	Leda	Kurt Aram, eigentlich Hans Fischer	Fischer_Leda_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/aram/leda/leda.html
+703	Oh Ali!	Kurt Aram, eigentlich Hans Fischer	Fischer_OhAli_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/aram/ohali/ohali.html
+704	Lausdirndlgeschichten	Lena Christ	Christ_Lausdirndlgeschichten_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/christ/lausdirn/lausdirn.html
+705	Altdeutsche Novellen, Band 1	Leo Greiner	Greiner_AltdeutscheNovellenBand1_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/greiner/altdnov1/altdnov1.html
+706	Altdeutsche Novellen, Band 2	Leo Greiner	Greiner_AltdeutscheNovellenBand2_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/greiner/altdnov2/altdnov2.html
+707	Der Rettungsball	Leo Leipziger	Leipziger_DerRettungsball_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/leipzige/rettball/rettball.html
+708	Die neuen Linden	Leo Leipziger	Leipziger_DieneuenLinden_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/leipzige/neulind/neulind.html
+709	Am Pflug	Leopold Kompert	Kompert_AmPflug_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/kompert/ampflug/ampflug.html
+710	Judith die Zweite	Leopold Kompert	Kompert_JudithdieZweite_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kompert/judith/judith.html
+711	Ohne Bewilligung	Leopold Kompert	Kompert_OhneBewilligung_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kompert/bewill/bewill.html
+712	Die Düvecke, oder die Leiden einer Königin	Leopold Schefer	Schefer_DieDüveckeoderdieLeideneinerKönigin_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schefer/dueveck/dueveck.html
+713	Die Gräfin Ulfeld. Erster Band	Leopold Schefer	Schefer_DieGräfinUlfeldErsterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schefer/ulfeld1/ulfeld1.html
+714	Génévion von Toulouse	Leopold Schefer	Schefer_GénévionvonToulouse_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schefer/genevion/genevion.html
+715	Das Erntefest	Leopold von Sacher-Masoch	Sacher-Masoch_DasErntefest_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/sacher-m/ernte/ernte.html
+716	Lola	Leopold von Sacher-Masoch	Sacher-Masoch_Lola_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/sacher-m/lola/lola.html
+717	Matrena	Leopold von Sacher-Masoch	Sacher-Masoch_Matrena_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/sacher-m/matrena/matrena.html
+718	Neue Erzählungen	Leopold von Sacher-Masoch	Sacher-Masoch_NeueErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/sacher-m/neuerz/neuerz.html
+719	Zur Ehre Gottes!	Leopold von Sacher-Masoch	Sacher-Masoch_ZurEhreGottes_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/sacher-m/zurehre/zurehre.html
+720	Der Familienschild	Levin Schücking	Schücking_DerFamilienschild_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schueckg/familien/familien.html
+721	Der Kampf im Spessart	Levin Schücking	Schücking_DerKampfimSpessart_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schueckg/kampfspe/kampfspe.html
+722	Deutsche Eroberungen	Levin Schücking	Schücking_DeutscheEroberungen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schueckg/dterob/dterob.html
+723	Hart am Rande	Levin Schücking	Schücking_HartamRande_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schueckg/hartamra/hartamra.html
+724	Der hinkende Teufel	Levin Schücking	Schücking_DerhinkendeTeufel_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/lesage/hinkteuf/hinkteuf.html
+725	Gesammelte Erzählungen und Novellen. Erster und zweiter Theil	Levin Schücking	Schücking_GesammelteErzählungenundNovellenErsterundzweiterTheil_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schueckg/geserz1-2/geserz1-2.html
+726	Gesammelte Erzählungen und Novellen. Erster und zweiter Theil	Levin Schücking	Schücking_GesammelteErzählungenundNovellenErsterundzweiterTheil_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schueckg/geserz1-2/geserz1-2.html
+727	Gesammelte Erzählungen und Novellen. Dritter und vierter Theil	Levin Schücking	Schücking_GesammelteErzählungenundNovellenDritterundvierterTheil_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schueckg/geserz3-4/geserz3-4.html
+728	Gesammelte Erzählungen und Novellen. Dritter und vierter Theil	Levin Schücking	Schücking_GesammelteErzählungenundNovellenDritterundvierterTheil_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schueckg/geserz3-4/geserz3-4.html
+729	Gesammelte Erzählungen und Novellen. Fünfter und sechster Theil	Levin Schücking	Schücking_GesammelteErzählungenundNovellenFünfterundsechsterTheil_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schueckg/geserz5-6/geserz5-6.html
+730	Gesammelte Erzählungen und Novellen. Fünfter und sechster Theil	Levin Schücking	Schücking_GesammelteErzählungenundNovellenFünfterundsechsterTheil_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schueckg/geserz5-6/geserz5-6.html
+731	Novellen (1846). Erster Band	Levin Schücking	Schücking_Novellen(1846)ErsterBand_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schueckg/novell-1/novell-1.html
+732	Novellen (1846). Zweiter Band	Levin Schücking	Schücking_Novellen(1846)ZweiterBand_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schueckg/novell-2/novell-2.html
+733	Lebenssucher	Lily Braun	Braun_Lebenssucher_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/braun/lebenssu/lebenssu.html
+734	Das Haus	Lou Andreas-Salomé	Andreas-Salomé_DasHaus_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/salome/dashaus/dashaus.html
+735	Fenitschka / Eine Ausschweifung	Lou Andreas-Salomé	Andreas-Salomé_FenitschkaEineAusschweifung_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/salome/fenitsch/fenitsch.html
+736	Ruth	Lou Andreas-Salomé	Andreas-Salomé_Ruth_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/salome/ruth/ruth.html
+737	Aus dem Leben einer Frau	Louise Aston	Aston_AusdemLebeneinerFrau_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/aston/lebefrau/lebefrau.html
+738	Lydia	Louise Aston	Aston_Lydia_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/aston/lydia/lydia.html
+739	Ausgewählte Novellen. Erster Band	Louise von François	François_AusgewählteNovellenErsterBand_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/francois/ausnove1/ausnove1.html
+740	Ausgewählte Novellen. Zweiter Band	Louise von François	François_AusgewählteNovellenZweiterBand_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/francois/ausnove2/ausnove2.html
+741	Erzählungen	Louise von François	François_Erzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/francois/erzaehlg/erzaehlg.html
+742	Hellstädt und andere Erzählungen	Louise von François	François_HellstädtundandereErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/francois/hellstae/hellstae.html
+743	Natur und Gnade nebst anderen Erzählungen	Louise von François	François_NaturundGnadenebstanderenErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/francois/naturgna/naturgna.html
+744	Allerseelen	Ludwig Anzengruber	Anzengruber_Allerseelen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/anzengru/allersee/allersee.html
+745	Drei Kleinere Erzählungen	Ludwig Anzengruber	Anzengruber_DreiKleinereErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/anzengru/erzaehlg/erzaehlg.html
+746	Dorfgänge	Ludwig Anzengruber	Anzengruber_Dorfgänge_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/anzengru/dorfgaen/dorfgaen.html
+747	Hartingers alte Sixtin	Ludwig Anzengruber	Anzengruber_HartingersalteSixtin_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/anzengru/hartinge/hartinge.html
+748	Jaggernaut	Ludwig Anzengruber	Anzengruber_Jaggernaut_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/anzengru/jaggerna/jaggerna.html
+749	Sein Spielzeug	Ludwig Anzengruber	Anzengruber_SeinSpielzeug_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/anzengru/spielzeu/spielzeu.html
+750	Vereinsamt	Ludwig Anzengruber	Anzengruber_Vereinsamt_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/anzengru/vereinsa/vereinsa.html
+751	Aus dem Leben und den Schriften des Magisters Herle und seines Freundes Mänle	Ludwig Aurbacher	Aurbacher_AusdemLebenunddenSchriftendesMagistersHerleundseinesFreundesMänle_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/aurbache/herle/herle.html
+752	Die schwäbische Bauernhochzeit	Ludwig Aurbacher	Aurbacher_DieschwäbischeBauernhochzeit_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/aurbache/schwhoch/schwhoch.html
+753	Erzählungen, Lieder und Sprüche aus dem »Allerley«	Ludwig Aurbacher	Aurbacher_ErzählungenLiederundSprücheausdem»Allerley«_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/aurbache/allerley/allerley.html
+754	Bergheimat	Ludwig Ganghofer	Ganghofer_Bergheimat_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/ganghofe/bergheim/bergheim.html
+755	Das neue Wesen	Ludwig Ganghofer	Ganghofer_DasneueWesen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ganghofe/neuwesen/neuwesen.html
+756	Der Ochsenkrieg	Ludwig Ganghofer	Ganghofer_DerOchsenkrieg_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ganghofe/ochsenkr/ochsenkr.html
+757	Fliegender Sommer	Ludwig Ganghofer	Ganghofer_FliegenderSommer_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/ganghofe/fliegsom/fliegsom.html
+758	1812	Ludwig Rellstab	Rellstab_1812_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/rellstab/1812/1812.html
+759	Der Diplomat	Ludwig Storch	Storch_DerDiplomat_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storch/diplomat/diplomat.html
+760	Orestes in Paris	Ludwig Storch	Storch_OrestesinParis_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storch/orestes/orestes.html
+761	Kaspar Lorinser	Ludwig Thoma	Thoma_KasparLorinser_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/thoma/kasparlo/kasparlo.html
+762	Weitere Erzählungen	Ludwig Thoma	Thoma_WeitereErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/thoma/erzaehl2/erzaehl2.html
+763	Abdallah	Ludwig Tieck	Tieck_Abdallah_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/tieck/abdallah/abdallah.html
+764	Almansur	Ludwig Tieck	Tieck_Almansur_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/tieck/almansur/almansur.html
+765	Das grüne Band	Ludwig Tieck	Tieck_DasgrüneBand_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/tieck/grueband/grueband.html
+766	Der Jahrmarkt	Ludwig Tieck	Tieck_DerJahrmarkt_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tieck/jahrmark/jahrmark.html
+767	Der Roman in Briefen	Ludwig Tieck	Tieck_DerRomaninBriefen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/tieck/briefrom/briefrom.html
+768	Die Brüder	Ludwig Tieck	Tieck_DieBrüder_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/tieck/brueder/brueder.html
+769	Die Reisenden	Ludwig Tieck	Tieck_DieReisenden_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tieck/reisende/reisende.html
+770	Die sieben Weiber des Blaubart	Ludwig Tieck	Tieck_DiesiebenWeiberdesBlaubart_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/tieck/blaubart/blaubart.html
+771	Die Verlobung	Ludwig Tieck	Tieck_DieVerlobung_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tieck/verlob/verlob.html
+772	Die Vogelscheuche	Ludwig Tieck	Tieck_DieVogelscheuche_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tieck/vogelsch/vogelsch.html
+773	Eine Sommerreise	Ludwig Tieck	Tieck_EineSommerreise_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tieck/sommerre/sommerre.html
+774	Glück giebt Verstand	Ludwig Tieck	Tieck_GlückgiebtVerstand_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tieck/gluevers/gluevers.html
+775	Victoria Accorombona	Ludwig Tieck	Tieck_VictoriaAccorombona_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/tieck/accoromb/accoromb.html
+776	Waldeinsamkeit	Ludwig Tieck	Tieck_Waldeinsamkeit_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tieck/waldeins/waldeins.html
+777	William Lovell	Ludwig Tieck	Tieck_WilliamLovell_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/tieck/lovell/lovell.html
+778	Wunderlichkeiten	Ludwig Tieck	Tieck_Wunderlichkeiten_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/tieck/wunderli/wunderli.html
+779	Der Aufzug der Romanze	Ludwig Tieck	Tieck_DerAufzugderRomanze_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/tieck/aufroman/aufroman.html
+780	Der panische Schrecken	Luise Glaß	Glaß_DerpanischeSchrecken_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/glass/panisch/panisch.html
+781	Nach der Hochzeit	Luise Mühlbach	Mühlbach_NachderHochzeit_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/muehlbac/nachhoch/nachhoc1.html
+782	Der Major	Luise Reinhardt	Reinhardt_DerMajor_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/reinhard/major/major.html
+783	Novellen. Erster Band	Luise Reinhardt	Reinhardt_NovellenErsterBand_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/reinhard/novelle1/novelle1.html
+784	Novellen. Zweiter Band	Luise Reinhardt	Reinhardt_NovellenZweiterBand_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/reinhard/novelle2/novelle2.html
+785	Novellen. Dritter Band	Luise Reinhardt	Reinhardt_NovellenDritterBand_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/reinhard/novelle3/novelle3.html
+786	Novellen. Vierter Band	Luise Reinhardt	Reinhardt_NovellenVierterBand_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/reinhard/novelle4/novelle4.html
+787	Der neue Kreuzritter	Luise von Gall	Gall_DerneueKreuzritter_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gall/neukreuz/neukreuz.html
+788	Frauenleben. Erster Theil	Luise von Gall	Gall_FrauenlebenErsterTheil_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gall/frauenl1/frauenl1.html
+789	Gegen den Strom. Erster Band	Luise von Gall	Gall_GegendenStromErsterBand_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gall/gegenst1/gegenst1.html
+790	Atlas	Maria Janitschek	Janitschek_Atlas_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/janitsch/atlas/atlas.html
+791	Despotische Liebe	Maria Janitschek	Janitschek_DespotischeLiebe_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/janitsch/desplieb/desplieb.html
+792	Der rote Teufel	Maria Janitschek	Janitschek_DerroteTeufel_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/janitsch/roteteuf/roteteuf.html
+793	Es geistert	Maria Janitschek	Janitschek_Esgeistert_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/janitsch/esgeist/esgeist.html
+794	Klare Rechnung	Maria Janitschek	Janitschek_KlareRechnung_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/janitsch/klarrech/klarrech.html
+795	Poverino	Maria Janitschek	Janitschek_Poverino_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/janitsch/poverino/poverino.html
+796	Das Buch der Liebe	Marie Eugenie Delle Grazie	Grazie_DasBuchderLiebe_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/grazie/buchlieb/buchlieb.html
+797	Heilige und Menschen	Marie Eugenie Delle Grazie	Grazie_HeiligeundMenschen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/grazie/heilige/heilige.html
+798	Wunder der Seele	Marie Eugenie Delle Grazie	Grazie_WunderderSeele_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/grazie/wundseel/wundseel.html
+799	Dorf- und Stadtgeschichten	Marie Nathusius	Nathusius_Dorf-undStadtgeschichten_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/nathusiu/dorfstad/dorfstad.html
+800	Die schönsten Erzählungen	Marie von Ebner-Eschenbach	Ebner-Eschenbach_DieschönstenErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/ebnresch/erzaehlg/erzaehlg.html
+801	Erzählungen, Autobiographisches	Marie von Ebner-Eschenbach	Ebner-Eschenbach_ErzählungenAutobiographisches_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/ebnresch/erzauto/erzauto.html
+802	Eigenthum	Marie von Olfers	Olfers_Eigenthum_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/olfers/eigenthu/eigenthu.html
+803	Frost in Blüthen	Marie von Olfers	Olfers_FrostinBlüthen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/olfers/frost/frost.html
+804	Jungfer Modeste	Marie von Olfers	Olfers_JungferModeste_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/olfers/modeste/modeste.html
+805	Ob er wohl Fiekchen heirathen kann?	Marie von Olfers	Olfers_OberwohlFiekchenheirathenkann_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/olfers/fiekchen/fiekchen.html
+806	Scala santa	Max Burckhard	Burckhard_Scalasanta_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/burckhm/scala/scala.html
+807	Die acht Gesichter am Biwasee	Max Dauthendey	Dauthendey_DieachtGesichteramBiwasee_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/dauthend/biwasee/biwasee.html
+808	Geschichten aus den vier Winden	Max Dauthendey	Dauthendey_GeschichtenausdenvierWinden_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/dauthend/4winde/4winde.html
+809	Josa Gerth	Max Dauthendey	Dauthendey_JosaGerth_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/dauthend/josa/josa.html
+810	Lingam	Max Dauthendey	Dauthendey_Lingam_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/dauthend/lingam/lingam.html
+811	Novellen und Erzählungen	Max Dauthendey	Dauthendey_NovellenundErzählungen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/dauthend/novellen/novellen.html
+812	Novellen und Erzählungen	Max Dauthendey	Dauthendey_NovellenundErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/dauthend/novellen/novellen.html
+813	Raubmenschen	Max Dauthendey	Dauthendey_Raubmenschen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/dauthend/raubmens/raubmens.html
+814	Vorwort	Max Eyth	Eyth_Vorwort_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/eyth/fst-vorw/fst-vorw.html
+815	Die ersten Tanzschuhe	Max Eyth	Eyth_DieerstenTanzschuhe_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/eyth/fst-tanz/fst-tanz.html
+816	Der Invalide	Max Eyth	Eyth_DerInvalide_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/eyth/fst-inva/fst-inva.html
+817	Madonna	Max Eyth	Eyth_Madonna_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/eyth/fst-mado/fst-mado.html
+818	Mönch und Landsknecht	Max Eyth	Eyth_MönchundLandsknecht_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/eyth/fst-moen/fst-moen.html
+819	Mönch und Landsknecht	Max Eyth	Eyth_MönchundLandsknecht_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/eyth/landskn/landskn.html
+820	Frauenherzen	Max Ring	Ring_Frauenherzen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/ring/frauherz/frauherz.html
+821	Irrwege/Ein Staatsgeheimnis	Max Ring	Ring_IrrwegeEinStaatsgeheimnis_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/ring/irrwege/irrwege.html
+822	Lose Vögel	Max Ring	Ring_LoseVögel_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/ring/losevoeg/losevoeg.html
+823	John Milton und seine Zeit	Max Ring	Ring_JohnMiltonundseineZeit_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ring/milton/milton.html
+824	Julie Eberhard	Max Ring	Ring_JulieEberhard_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/ring/julie/julie.html
+825	Aus der Junkerwelt	Max Waldau	Waldau_AusderJunkerwelt_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/waldau/junkerwe/junkerwe.html
+826	Der Zuggeist oder die erste Zugspitzbesteigung	Maximilian Schmidt	Schmidt_DerZuggeistoderdieersteZugspitzbesteigung_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schmidtm/zuggeist/zuggeist.html
+827	Der Bubenrichter von Mittenwald	Maximilian Schmidt	Schmidt_DerBubenrichtervonMittenwald_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schmidtm/bubricht/bubricht.html
+828	Die Ameisenhexe	Maximilian Schmidt	Schmidt_DieAmeisenhexe_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schmidtm/ameishex/ameishex.html
+829	Die Jachenauer in Griechenland	Maximilian Schmidt	Schmidt_DieJachenauerinGriechenland_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schmidtm/jachgrie/jachgrie.html
+830	Maria Pettenpeck	Maximilian Schmidt	Schmidt_MariaPettenpeck_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schmidtm/pettenpk/pettenpk.html
+831	Meister Martin	Maximilian Schmidt	Schmidt_MeisterMartin_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schmidtm/martin/martin.html
+832	's Almstummerl	Maximilian Schmidt	Schmidt_sAlmstummerl_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schmidtm/almstumm/almstumm.html
+833	Der König von Euland	Meinrad Lienert	Lienert_DerKönigvonEuland_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/lienert/euland/euland.html
+834	Das Glöcklein auf Rain	Meinrad Lienert	Lienert_DasGlöckleinaufRain_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/lienert/rain/rain.html
+835	Der Pfeiferkönig. Eine Zürchergeschichte	Meinrad Lienert	Lienert_DerPfeiferkönigEineZürchergeschichte_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/lienert/pfeiferk/pfeiferk.html
+836	Mein Weg zur Kunst	Monika Hunnius	Hunnius_MeinWegzurKunst_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hunnius/wegkunst/wegkunst.html
+837	Wilhelmine's Werdegang	Moritz August von Thümmel	Thümmel_WilhelminesWerdegang_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/thuemmel/wilhwerd/wilhwerd.html
+838	Der Krieg um den Wald	Moritz Hartmann	Hartmann_DerKriegumdenWald_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hartmann/kriegwld/kriegwld.html
+839	Die Tobias-Vase	Moritz Heimann	Heimann_DieTobias-Vase_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heimann/tobiasvs/tobiasvs.html
+840	Dr. Wislizenus	Moritz Heimann	Heimann_DrWislizenus_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heimann/wislizen/wislizen.html
+841	Wintergespinst	Moritz Heimann	Heimann_Wintergespinst_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heimann/wintergs/wintergs.html
+842	Der Sterngucker und die Pensionsmama	Oskar Höcker	Höcker_DerSternguckerunddiePensionsmama_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hoecker/sternguc/sternguc.html
+843	Die Sonne von St. Moritz	Oskar Höcker	Höcker_DieSonnevonStMoritz_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hoecker/stmoritz/stmoritz.html
+844	Die verbotene Frucht	Oskar Höcker	Höcker_DieverboteneFrucht_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hoecker/verfruch/verfruch.html
+845	Deutsche Treue, welsche Tücke	Oskar Höcker	Höcker_DeutscheTreuewelscheTücke_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hoecker/ahnens4/ahnens4.html
+846	Erfindung der Buchdruckerkunst	Oskar Höcker	Höcker_ErfindungderBuchdruckerkunst_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hoecker/buchdruc/buchdruc.html
+847	Lebendig begraben	Oskar Höcker	Höcker_Lebendigbegraben_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/hoecker/lebendig/lebendig.html
+848	Närrische Käuze	Oskar Höcker	Höcker_NärrischeKäuze_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/hoecker/narrkauz/narrkauz.html
+849	Der Rosenkavalier	Ossip Schubin, eigentlich Lola Kirschner	Kirschner_DerRosenkavalier_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schubin/rosenkav/rosenkav.html
+850	Es fiel ein Reif in der Frühlingsnacht	Ossip Schubin, eigentlich Lola Kirschner	Kirschner_EsfieleinReifinderFrühlingsnacht_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schubin/reif/reif.html
+851	Gräfin Erikas Lehr- und Wanderjahre	Ossip Schubin, eigentlich Lola Kirschner	Kirschner_GräfinErikasLehr-undWanderjahre_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schubin/erika/erika.html
+852	Marška	Ossip Schubin, eigentlich Lola Kirschner	Kirschner_Marška_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schubin/marska/marska.html
+853	Maximum	Ossip Schubin, eigentlich Lola Kirschner	Kirschner_Maximum_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schubin/maximum/maximum.html
+854	Peterl	Ossip Schubin, eigentlich Lola Kirschner	Kirschner_Peterl_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schubin/peterl/peterl.html
+855	Schatten	Ossip Schubin, eigentlich Lola Kirschner	Kirschner_Schatten_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/schubin/schatt/schatt.html
+856	Cherubino und Zephirine	Ottilie Wildermuth	Wildermuth_CherubinoundZephirine_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/cherubin/cherubin.html
+857	Das Bäumlein im Walde	Ottilie Wildermuth	Wildermuth_DasBäumleinimWalde_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/baeumlei/baeumlei.html
+858	Das Feental	Ottilie Wildermuth	Wildermuth_DasFeental_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/feental/feental.html
+859	Der Peterli von Emmental	Ottilie Wildermuth	Wildermuth_DerPeterlivonEmmental_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/peterli/peterli.html
+860	Die alte Freundin	Ottilie Wildermuth	Wildermuth_DiealteFreundin_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/altefreu/altefreu.html
+861	Die Lehrjahre der zwei Schwestern	Ottilie Wildermuth	Wildermuth_DieLehrjahrederzweiSchwestern_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/2schwest/2schwest.html
+862	Die Verschmähte	Ottilie Wildermuth	Wildermuth_DieVerschmähte_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/verschma/verschma.html
+863	Ein Herbsttag bei Weinsberg	Ottilie Wildermuth	Wildermuth_EinHerbsttagbeiWeinsberg_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/herbstta/herbstta.html
+864	Ein sonnenloses Leben	Ottilie Wildermuth	Wildermuth_EinsonnenlosesLeben_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/sonnenlo/sonnenlo.html
+865	Eine Königin	Ottilie Wildermuth	Wildermuth_EineKönigin_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/koenigin/koenigin.html
+866	Frau Luna	Ottilie Wildermuth	Wildermuth_FrauLuna_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/frauluna/frauluna.html
+867	Krieg und Frieden	Ottilie Wildermuth	Wildermuth_KriegundFrieden_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/kriegfri/kriegfri.html
+868	Jugendgabe	Ottilie Wildermuth	Wildermuth_Jugendgabe_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/jugendga/jugendga.html
+869	Mädchenbriefe	Ottilie Wildermuth	Wildermuth_Mädchenbriefe_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/maedbrie/maedbrie.html
+870	Morgen, Mittag und Abend	Ottilie Wildermuth	Wildermuth_MorgenMittagundAbend_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/morgmitt/morgmitt.html
+871	Perlen aus dem Sande	Ottilie Wildermuth	Wildermuth_PerlenausdemSande_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/perlen/perlen.html
+872	Todte Treue	Ottilie Wildermuth	Wildermuth_TodteTreue_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/todttreu/todttreu.html
+873	Unabhängigkeit	Ottilie Wildermuth	Wildermuth_Unabhängigkeit_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/wildermt/unabhaen/unabhaen.html
+874	Die Serényi	Otto Erich Hartleben	Hartleben_DieSerényi_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hartlebe/serenyi/serenyi.html
+875	Der bunte Vogel	Otto Erich Hartleben	Hartleben_DerbunteVogel_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hartlebe/buntvoge/buntvoge.html
+876	Appelschnut	Otto Ernst, eigentlich Otto Ernst Schmidt	Schmidt_Appelschnut_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/ernst/appelsch/appelsch.html
+877	Asmus Sempers Jugendland	Otto Ernst, eigentlich Otto Ernst Schmidt	Schmidt_AsmusSempersJugendland_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ernst/semper1/semper1.html
+878	Der süße Willy	Otto Ernst, eigentlich Otto Ernst Schmidt	Schmidt_DersüßeWilly_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/ernst/willy/willy.html
+879	Die Kunstreise nach Hümpeldorf	Otto Ernst, eigentlich Otto Ernst Schmidt	Schmidt_DieKunstreisenachHümpeldorf_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/ernst/huempeld/huempeld.html
+880	Ein frohes Farbenspiel	Otto Ernst, eigentlich Otto Ernst Schmidt	Schmidt_EinfrohesFarbenspiel_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/ernst/farbensp/farbensp.html
+881	Himmel voller Geigen	Otto Ernst, eigentlich Otto Ernst Schmidt	Schmidt_HimmelvollerGeigen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/ernst/geigen/geigen.html
+882	Semper der Jüngling	Otto Ernst, eigentlich Otto Ernst Schmidt	Schmidt_SemperderJüngling_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ernst/semper2/semper2.html
+883	Semper der Mann	Otto Ernst, eigentlich Otto Ernst Schmidt	Schmidt_SemperderMann_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ernst/semper3/semper3.html
+884	Das schöne Mädchen von Pao	Otto Julius Bierbaum	Bierbaum_DasschöneMädchenvonPao_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bierbaum/pao/pao.html
+885	Die Freiersfahrten und Freiersmeinungen des weiberfeindlichen Herrn Pankrazius Graunzer	Otto Julius Bierbaum	Bierbaum_DieFreiersfahrtenundFreiersmeinungendesweiberfeindlichenHerrnPankraziusGraunzer_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bierbaum/graunzer/graunzer.html
+886	Prinz Kuckuck	Otto Julius Bierbaum	Bierbaum_PrinzKuckuck_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bierbaum/kuckuck/kuckuck.html
+887	Stilpe. Ein Roman aus der Froschperspektive	Otto Julius Bierbaum	Bierbaum_StilpeEinRomanausderFroschperspektive_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/bierbaum/stilpe/stilpe.html
+888	Studenten-Beichten	Otto Julius Bierbaum	Bierbaum_Studenten-Beichten_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/bierbaum/student1/student1.html
+889	Studenten-Beichten	Otto Julius Bierbaum	Bierbaum_Studenten-Beichten_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/bierbaum/student2/student2.html
+890	Erzählungen	Otto Roquette	Roquette_Erzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/roquette/erzaehlg/erzaehlg.html
+891	Luginsland	Otto Roquette	Roquette_Luginsland_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/roquette/luginsla/luginsla.html
+892	Orion	Otto Roquette	Roquette_Orion_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/roquette/orion/orion.html
+893	Allerleirauh	Otto Stoessl	Stoessl_Allerleirauh_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/stoessl/allerlei/allerlei.html
+894	Die Schmiere	Otto Stoessl	Stoessl_DieSchmiere_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/stoessl/schmiere/schmiere.html
+895	Egon und Danitza	Otto Stoessl	Stoessl_EgonundDanitza_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/stoessl/egondani/egondani.html
+896	Johannes Freudensprung	Otto Stoessl	Stoessl_JohannesFreudensprung_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/stoessl/freudens/freudens.html
+897	Menschendämmerung	Otto Stoessl	Stoessl_Menschendämmerung_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/stoessl/menschdm/menschdm.html
+898	Morgenrot	Otto Stoessl	Stoessl_Morgenrot_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stoessl/morgrot/morgrot.html
+899	Nachtgeschichten	Otto Stoessl	Stoessl_Nachtgeschichten_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/stoessl/nachtges/nachtges.html
+900	Negerkönigs Tochter	Otto Stoessl	Stoessl_NegerkönigsTochter_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/stoessl/negerkng/negerkng.html
+901	Sonjas letzter Name	Otto Stoessl	Stoessl_SonjasletzterName_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stoessl/sonjas/sonjas.html
+902	Der Fremdling	Paul Enderling	Enderling_DerFremdling_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/enderlin/fremdlin/fremdlin.html
+903	Das Glück von Lautenthal	Paul Ernst	Ernst_DasGlückvonLautenthal_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ernstp/lautenth/lautenth.html
+904	Der Nobelpreis	Paul Ernst	Ernst_DerNobelpreis_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/ernstp/nobelpre/nobelpre.html
+905	Der Schatz im Morgenbrotstal	Paul Ernst	Ernst_DerSchatzimMorgenbrotstal_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ernstp/morgenbr/morgenbr.html
+906	Der schmale Weg zum Glück	Paul Ernst	Ernst_DerschmaleWegzumGlück_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/ernstp/schmalgl/schmalgl.html
+907	Der Tod des Cosimo	Paul Ernst	Ernst_DerToddesCosimo_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/ernstp/cosimo/cosimo.html
+908	Die Taufe	Paul Ernst	Ernst_DieTaufe_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/ernstp/taufe/taufe.html
+909	Geschichten von deutscher Art	Paul Ernst	Ernst_GeschichtenvondeutscherArt_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/ernstp/dart/dart.html
+910	Prinzessin des Ostens	Paul Ernst	Ernst_PrinzessindesOstens_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/ernstp/prinzess/prinzess.html
+911	Novellen [1. Sammlung]	Paul Heyse	Heyse_Novellen[1Sammlung]_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he01/nove-he01.html
+912	Neue Novellen [2. Sammlung]	Paul Heyse	Heyse_NeueNovellen[2Sammlung]_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he02/nov-he02.html
+913	Vier neue Novellen. Dritte Sammlung	Paul Heyse	Heyse_VierneueNovellenDritteSammlung_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he03/nov-he03.html
+914	Vier neue Novellen. Vierte Sammlung	Paul Heyse	Heyse_VierneueNovellenVierteSammlung_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he04/nov-he04.html
+915	Fünfte Sammlung der Novellen	Paul Heyse	Heyse_FünfteSammlungderNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he05/nov-he05.html
+916	Fünf neue Novellen. Sechste Sammlung	Paul Heyse	Heyse_FünfneueNovellenSechsteSammlung_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he06/nov-he06.html
+917	Novellen und Terzinen. Siebente Sammlung der Novellen	Paul Heyse	Heyse_NovellenundTerzinenSiebenteSammlungderNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he07/nov-he07.html
+918	Moralische Novellen. Achte Sammlung	Paul Heyse	Heyse_MoralischeNovellenAchteSammlung_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he08/nov-he08.html
+919	Neunte Sammlung der Novellen	Paul Heyse	Heyse_NeunteSammlungderNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he09/nov-he09.html
+920	Der Novellen zehnte Sammlung	Paul Heyse	Heyse_DerNovellenzehnteSammlung_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he10/nov-he10.html
+921	Elfte Sammlung der Novellen	Paul Heyse	Heyse_ElfteSammlungderNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/neumoral/neumoral.html
+922	Zwölfte Sammlung der Novellen	Paul Heyse	Heyse_ZwölfteSammlungderNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he12/nov-he12.html
+923	Dreizehnte Sammlung der Novellen	Paul Heyse	Heyse_DreizehnteSammlungderNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he13/nov-he13.html
+924	Vierzehnte Sammlung der Novellen	Paul Heyse	Heyse_VierzehnteSammlungderNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/troubado/troubado.html
+925	Fünfzehnte Sammlung der Novellen	Paul Heyse	Heyse_FünfzehnteSammlungderNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he15/nov-he15.html
+926	Sechzehnte Sammlung der Novellen	Paul Heyse	Heyse_SechzehnteSammlungderNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he16/nov-he16.html
+927	Siebenzehnte Sammlung der Novellen	Paul Heyse	Heyse_SiebenzehnteSammlungderNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he17/nov-he17.html
+928	Achtzehnte Sammlung der Novellen	Paul Heyse	Heyse_AchtzehnteSammlungderNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he18/nov-he18.html
+929	Villa Falconieri und andere Novellen	Paul Heyse	Heyse_VillaFalconieriundandereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he19/nov-he19.html
+930	Melusine und andere Novellen	Paul Heyse	Heyse_MelusineundandereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/melusine/melusine.html
+931	Der Sohn seines Vaters und andere Novellen	Paul Heyse	Heyse_DerSohnseinesVatersundandereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he23/nov-he23.html
+932	Ninon und andere Novellen	Paul Heyse	Heyse_NinonundandereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he24/nov-he24.html
+933	Novellen vom Gardasee	Paul Heyse	Heyse_NovellenvomGardasee_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/gardasee/gardasee.html
+934	Moralische Unmöglichkeiten und andere Novellen	Paul Heyse	Heyse_MoralischeUnmöglichkeitenundandereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he26/nov-he26.html
+935	Victoria regia und andere Novellen	Paul Heyse	Heyse_VictoriaregiaundandereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he27/nov-he27.html
+936	Letzte Novellen	Paul Heyse	Heyse_LetzteNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/letztnov/letztnov.html
+937	Einzelne Novellen	Paul Heyse	Heyse_EinzelneNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/nov-he31/nov-he31.html
+938	Novellen in Versen	Paul Heyse	Heyse_NovelleninVersen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/heyse/novvers/novvers.html
+939	Crone Stäudlin	Paul Heyse	Heyse_CroneStäudlin_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heyse/staeudln/staeudln.html
+940	Gegen den Strom	Paul Heyse	Heyse_GegendenStrom_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heyse/gegstrom/gegstrom.html
+941	Kinder der Welt	Paul Heyse	Heyse_KinderderWelt_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/heyse/kindwelt/kindwelt.html
+942	Altenroda	Paul Keller	Keller_Altenroda_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kellerp/altenrod/altenrod.html
+943	Das letzte Märchen	Paul Keller	Keller_DasletzteMärchen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/kellerp/letzte/letzte.html
+944	Von kleinen Leuten und großen Dingen	Paul Keller	Keller_VonkleinenLeutenundgroßenDingen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/kellerp/kleileut/kleileut.html
+945	Blondes Gift	Paul Langenscheidt	Langenscheidt_BlondesGift_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/langens/blongift/blongift.html
+946	Graf Cohn	Paul Langenscheidt	Langenscheidt_GrafCohn_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/langens/grafcohn/grafcohn.html
+947	Kanaillen	Paul Langenscheidt	Langenscheidt_Kanaillen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/langens/kanaille/kanaille.html
+948	Taumel	Paul Langenscheidt	Langenscheidt_Taumel_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/langens/taumel/taumel.html
+949	Der König von Sidon	Paul Lindau	Lindau_DerKönigvonSidon_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lindaup/sidon/sidon.html
+950	Die kleine Madonna	Paul Lindau	Lindau_DiekleineMadonna_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lindaup/madonna/madonna.html
+951	Hängendes Moos	Paul Lindau	Lindau_HängendesMoos_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/lindaup/haenmoos/haenmoos.html
+952	Im Fieber	Paul Lindau	Lindau_ImFieber_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lindaup/fieber/fieber.html
+953	Mayo	Paul Lindau	Lindau_Mayo_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lindaup/mayo/mayo.html
+954	Mein Freund Hilarius	Paul Lindau	Lindau_MeinFreundHilarius_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lindaup/hilarius/hilarius.html
+955	Toggenburg	Paul Lindau	Lindau_Toggenburg_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lindaup/toggenbu/toggenbu.html
+956	Tragische Geschichten	Paul Lindau	Lindau_TragischeGeschichten_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/lindaup/tragisch/tragisch.html
+957	Der Ruf aus dem Aether	Paul Rosenhayn	Rosenhayn_DerRufausdemAether_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/rosenhay/rufaethe/rufaethe.html
+958	Nachtanruf	Paul Rosenhayn	Rosenhayn_Nachtanruf_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/rosenhay/nachtanr/nachtanr.html
+959	Flora Mohr	Paul Scheerbart	Scheerbart_FloraMohr_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/scheerba/flora/flora.html
+960	Lesabéndio.	Paul Scheerbart	Scheerbart_Lesabéndio_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/scheerba/lesabend/lesabend.html
+961	Machtspäße.	Paul Scheerbart	Scheerbart_Machtspäße_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/scheerba/machtsp/machtsp.html
+962	Der böse Baron von Krosigk	Paul Schreckenbach	Schreckenbach_DerböseBaronvonKrosigk_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schrecke/krosigk/krosigk.html
+963	Der deutsche Herzog	Paul Schreckenbach	Schreckenbach_DerdeutscheHerzog_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schrecke/deutherz/deutherz.html
+964	Der getreue Kleist	Paul Schreckenbach	Schreckenbach_DergetreueKleist_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schrecke/kleist/kleist.html
+965	Der König von Rothenburg	Paul Schreckenbach	Schreckenbach_DerKönigvonRothenburg_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schrecke/koenig/koenig.html
+966	Die letzten Rudelsburger	Paul Schreckenbach	Schreckenbach_DieletztenRudelsburger_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schrecke/rudelsbu/rudelsbu.html
+967	Die von Wintzingerode	Paul Schreckenbach	Schreckenbach_DievonWintzingerode_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schrecke/wintzing/wintzing.html
+968	Michael Meyenburg	Paul Schreckenbach	Schreckenbach_MichaelMeyenburg_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schrecke/meyenbur/meyenbur.html
+969	Um die Wartburg	Paul Schreckenbach	Schreckenbach_UmdieWartburg_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schrecke/wartburg/wartburg.html
+970	Wildefüer	Paul Schreckenbach	Schreckenbach_Wildefüer_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schrecke/wildefue/wildefue.html
+971	Felix der Begehrte	Peter Rosegger, eigentlich Roßegger	Roßegger_FelixderBegehrte_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/rosegger/felix/felix.html
+972	Kleine Erzählungen	Peter Rosegger, eigentlich Roßegger	Roßegger_KleineErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/rosegger/texte/texte.html
+973	Zwei Menschen. Roman in Romanzen	Richard Dehmel	Dehmel_ZweiMenschenRomaninRomanzen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/dehmel/2menschn/2menschn.html
+974	Alpentragödie	Richard Voß	Voß_Alpentragödie_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/vossr/alpentra/alpentra.html
+975	Brutus, auch Du!	Richard Voß	Voß_BrutusauchDu_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/vossr/brutusdu/brutusdu.html
+976	Die Mutter der Catonen	Richard Voß	Voß_DieMutterderCatonen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/vossr/mutterca/mutterca.html
+977	Die Rächerin und andere römische Novellen	Richard Voß	Voß_DieRächerinundandererömischeNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/vossr/raecheri/raecheri.html
+978	Die Sabinerin	Richard Voß	Voß_DieSabinerin_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/vossr/sabineri/sabineri.html
+979	Felice Leste	Richard Voß	Voß_FeliceLeste_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/vossr/felicele/felicele.html
+980	Michael Cibula	Richard Voß	Voß_MichaelCibula_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/vossr/cibula/cibula.html
+981	Rolla	Richard Voß	Voß_Rolla_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/vossr/rolla/rolla.html
+982	Römisches Fieber	Richard Voß	Voß_RömischesFieber_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/vossr/roemfieb/roemfieb.html
+983	Villa Falconieri	Richard Voß	Voß_VillaFalconieri_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/vossr/falconie/falconie.html
+984	Zwei Menschen	Richard Voß	Voß_ZweiMenschen_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/vossr/2mensch/2mensch.html
+985	Der heimliche Gast	Robert Byr, eigentlich Karl Robert Emanuel von Bayer	Bayer_DerheimlicheGast_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/byr/heimgast/heimgast.html
+986	Lydia	Robert Byr, eigentlich Karl Robert Emanuel von Bayer	Bayer_Lydia_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/byr/lydia/lydia.html
+987	Das Engelchen. Erster Theil	Robert Eduard Prutz	Prutz_DasEngelchenErsterTheil_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/prutz/engel1/engel1.html
+988	Die verscherzte Himmelsmacht	Robert Fuchs-Liska	Fuchs-Liska_DieverscherzteHimmelsmacht_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/fuchs-li/verscher/verscher.html
+989	Hatzicho der Wolf	Robert Fuchs-Liska	Fuchs-Liska_HatzichoderWolf_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/fuchs-li/hatzicho/hatzicho.html
+990	Um die Freiheit	Robert Schweichel	Schweichel_UmdieFreiheit_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schweich/freiheit/freiheit.html
+991	Ums Herz	Robert Schweichel	Schweichel_UmsHerz_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schweich/umsherz/umsherz.html
+992	Trug-Gold	Rudolf Baumbach	Baumbach_Trug-Gold_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/baumbach/truggold/truggold.html
+993	Der Opfergang	Rudolf G. Binding	Binding_DerOpfergang_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/binding/opfergan/opfergan.html
+994	Die Geige	Rudolf G. Binding	Binding_DieGeige_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/binding/geige/geige.html
+995	Im Banne des Schwarzen Adlers	Rudolf Gottschall	Gottschall_ImBannedesSchwarzenAdlers_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gottscha/adler/adler.html
+996	Parasiten	Rudolf Gottschall	Gottschall_Parasiten_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/gottscha/parasite/parasite.html
+997	Romeo und Julie am Pregel	Rudolf Gottschall	Gottschall_RomeoundJulieamPregel_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/gottscha/romeojul/romeojul.html
+998	Schulröschen	Rudolf Gottschall	Gottschall_Schulröschen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/gottscha/roeschen/roeschen.html
+999	Dr. Thorns Lebensabend	Rudolf Hawel	Hawel_DrThornsLebensabend_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hawel/thorn/thorn.html
+1000	Die Einkommensteuer	Rudolf Hawel	Hawel_DieEinkommensteuer_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hawel/erzaehlg/einkomme.html
+1001	Im Reiche der Homunkuliden	Rudolf Hawel	Hawel_ImReichederHomunkuliden_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hawel/homunkul/homunkul.html
+1002	Das Glückspendel	Rudolf Lindau	Lindau_DasGlückspendel_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lindaur/glpendel/glpendel.html
+1003	Der Gast	Rudolf Lindau	Lindau_DerGast_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/lindaur/gast/gast.html
+1004	Der Hamal	Rudolf Lindau	Lindau_DerHamal_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lindaur/hamal/hamal.html
+1005	Ein ganzes Leben	Rudolf Lindau	Lindau_EinganzesLeben_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lindaur/ganzlebn/ganzlebn.html
+1006	Erzählungen aus dem Osten	Rudolf Lindau	Lindau_ErzählungenausdemOsten_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/lindaur/osten/osten.html
+1007	Liebesheiraten	Rudolf Lindau	Lindau_Liebesheiraten_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/lindaur/liebeshr/liebeshr.html
+1008	Liquidiert	Rudolf Lindau	Lindau_Liquidiert_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lindaur/liquidrt/liquidrt.html
+1009	Morgenland und Abendland	Rudolf Lindau	Lindau_MorgenlandundAbendland_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/lindaur/morgaben/morgaben.html
+1010	Schweigen	Rudolf Lindau	Lindau_Schweigen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/lindaur/schweig/schweig.html
+1011	Am Kaminfüür	Rudolf von Tavel	Tavel_AmKaminfüür_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/tavel/kaminf/kaminf.html
+1012	Bernbiet	Rudolf von Tavel	Tavel_Bernbiet_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/tavel/bernb/bernb.html
+1013	Der Stärn vo Buebebärg	Rudolf von Tavel	Tavel_DerStärnvoBuebebärg_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tavel/staern/staern.html
+1014	D' Haselmuus	Rudolf von Tavel	Tavel_DHaselmuus_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tavel/haselmuu/haselmuu.html
+1015	Unspunne. Wie’s der Haselmuus wyter ergangen isch	Rudolf von Tavel	Tavel_UnspunneWie’sderHaselmuuswyterergangenisch_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tavel/unspunne/unspunne.html
+1016	De Houpme Lombach	Rudolf von Tavel	Tavel_DeHoupmeLombach_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tavel/lombach/lombach.html
+1017	Gueti Gschpane	Rudolf von Tavel	Tavel_GuetiGschpane_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tavel/gschpane/gschpane.html
+1018	Götti und Gotteli	Rudolf von Tavel	Tavel_GöttiundGotteli_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/tavel/goetti/goetti.html
+1019	Heimgefunden	Rudolf von Tavel	Tavel_Heimgefunden_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/tavel/heimgef/heimgef.html
+1020	Heinz Tillmann	Rudolf von Tavel	Tavel_HeinzTillmann_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/tavel/tillm/tillm.html
+1021	Jä gäll, so geit's	Rudolf von Tavel	Tavel_Jägällsogeits_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/tavel/jaegaell/jaegaell.html
+1022	Meister und Ritter	Rudolf von Tavel	Tavel_MeisterundRitter_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/tavel/meister/meister.html
+1023	Veteranezyt	Rudolf von Tavel	Tavel_Veteranezyt_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/tavel/veterane/veterane.html
+1024	Der graue Herrr	Rudolph Stratz	Stratz_DergraueHerrr_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stratz/grauherr/grauherr.html
+1025	Der mysteriöse Cavalier und andere Novellen	Rudolph Stratz	Stratz_DermysteriöseCavalierundandereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/stratz/cavalier/cavalier.html
+1026	Der weiße Tod	Rudolph Stratz	Stratz_DerweißeTod_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stratz/weisstod/weisstod.html
+1027	Hexenkessel	Rudolph Stratz	Stratz_Hexenkessel_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stratz/hexenkes/hexenkes.html
+1028	Herzblut	Rudolph Stratz	Stratz_Herzblut_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stratz/herzblut/herzblut.html
+1029	Karussel Berlin	Rudolph Stratz	Stratz_KarusselBerlin_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stratz/karussel/karussel.html
+1030	König und Kärrner	Rudolph Stratz	Stratz_KönigundKärrner_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stratz/koenig/koenig.html
+1031	Madlene	Rudolph Stratz	Stratz_Madlene_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stratz/madlene/madlene.html
+1032	Montblanc	Rudolph Stratz	Stratz_Montblanc_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stratz/montblan/montblan.html
+1033	Schloß Vogelöd	Rudolph Stratz	Stratz_SchloßVogelöd_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stratz/vogeloed/vogeloed.html
+1034	Seine englische Frau	Rudolph Stratz	Stratz_SeineenglischeFrau_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stratz/englfrau/englfrau.html
+1035	Unter den Linden	Rudolph Stratz	Stratz_UnterdenLinden_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/stratz/unterlin/unterlin.html
+1036	Der Ungemütliche	Rupert Johann Hammerling	Hammerling_DerUngemütliche_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hamerlin/ungemuet/ungemuet.html
+1037	Die Waldsängerin	Rupert Johann Hammerling	Hammerling_DieWaldsängerin_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/hamerlin/waldsaen/waldsaen.html
+1038	Mährchen und Erzählungen. Erster Band	Siegfried August Mahlmann	Mahlmann_MährchenundErzählungenErsterBand_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/mahlmann/maehrch1/maehrch1.html
+1039	Mährchen und Erzählungen. Zweiter Band	Siegfried August Mahlmann	Mahlmann_MährchenundErzählungenZweiterBand_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/mahlmann/maehrch2/maehrch2.html
+1040	Mährchen und Erzählungen. Dritter Band	Siegfried August Mahlmann	Mahlmann_MährchenundErzählungenDritterBand_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/mahlmann/maehrch3/maehrch3.html
+1041	Das höfliche Gespenst	Sophie Albrecht	Albrecht_DashöflicheGespenst_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/albrechs/hoefgesp/hoefgesp.html
+1042	Marie	Sophie Mereau	Mereau_Marie_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/brentans/marie/marie.html
+1043	Rosalie und Cleberg auf dem Lande	Sophie von La Roche	Roche_RosalieundClebergaufdemLande_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/laroche/rosalie/rosalie.html
+1044	Onnen Visser - Der Schmugglersohn von Norderney	Sophie Wörishöffer	Wörishöffer_OnnenVisser-DerSchmugglersohnvonNorderney_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/woerisho/onnenvis/onnenvis.html
+1045	Robert des Schiffsjungen Fahrten und Abenteuer auf der deutschen Handels- und Kriegsflotte	Sophie Wörishöffer	Wörishöffer_RobertdesSchiffsjungenFahrtenundAbenteueraufderdeutschenHandels-undKriegsflotte_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/woerisho/robert/robert.html
+1046	Androgyne	Stanisław Przybyszewski	Przybyszewski_Androgyne_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/przybysz/androgyn/androgyn.html
+1047	De Profundis	Stanisław Przybyszewski	Przybyszewski_DeProfundis_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/przybysz/deprofun/deprofun.html
+1048	Der Schrei	Stanisław Przybyszewski	Przybyszewski_DerSchrei_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/przybysz/schrei/schrei.html
+1049	Homo sapiens	Stanisław Przybyszewski	Przybyszewski_Homosapiens_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/przybysz/homosapi/homosapi.html
+1050	Satans Kinder	Stanisław Przybyszewski	Przybyszewski_SatansKinder_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/przybysz/satanskd/satanskd.html
+1051	Totenmesse	Stanisław Przybyszewski	Przybyszewski_Totenmesse_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/przybysz/totmesse/totmesse.html
+1052	Chefredakteur Roth führt Krieg	Stefan Grossmann	Grossmann_ChefredakteurRothführtKrieg_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/grossman/chefroth/chefroth.html
+1053	Der Vorleser der Kaiserin	Stefan Grossmann	Grossmann_DerVorleserderKaiserin_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/grossman/vorleser/vorleser.html
+1054	Die Partei	Stefan Grossmann	Grossmann_DiePartei_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/grossman/partei/partei.html
+1055	Herzliche Grüße	Stefan Grossmann	Grossmann_HerzlicheGrüße_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/grossman/herzlich/herzlich.html
+1056	Lenchen Demuth und andere Novellen	Stefan Grossmann	Grossmann_LenchenDemuthundandereNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/grossman/lenchen/lenchen.html
+1057	Die Göttin mit der Fackel	Theodor Däubler	Däubler_DieGöttinmitderFackel_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/daeubler/fackel/fackel.html
+1058	L'Africana	Theodor Däubler	Däubler_LAfricana_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/daeubler/africana/africana.html
+1059	Drei frühe Erzählungen	Theodor Fontane	Fontane_DreifrüheErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/fontane/frueherz/frueherz.html
+1060	Im Gottesländchen	Theodor Hermann Pantenius	Pantenius_ImGottesländchen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/panteniu/gottesl/gottesl.html
+1061	Die von Kelles	Theodor Hermann Pantenius	Pantenius_DievonKelles_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/panteniu/kelles/kelles.html
+1062	Philosophische Erzählungen	Theodor Herzl	Herzl_PhilosophischeErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/herzl/philoerz/philoerz.html
+1063	Am Malanger Fjord	Theodor Mügge	Mügge_AmMalangerFjord_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/muegge/malanger/malanger.html
+1064	Der Vogt von Sylt	Theodor Mügge	Mügge_DerVogtvonSylt_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/muegge/vogtsylt/vogtsylt.html
+1065	Randal	Theodor Mügge	Mügge_Randal_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/muegge/randal/randal.html
+1066	Schritt für Schritt	Theodor Mügge	Mügge_SchrittfürSchritt_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/muegge/schritt/schritt.html
+1067	Weihnachtsabend	Theodor Mügge	Mügge_Weihnachtsabend_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/muegge/weihnach/weihnach.html
+1068	Romantische Studien	Theodor Mügge	Mügge_RomantischeStudien_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/muegge/01romast/01romast.html
+1069	Madelon oder die Romantiker in Paris	Theodor Mundt	Mundt_MadelonoderdieRomantikerinParis_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/mundt/madelon/madelon.html
+1070	Madelon oder die Romantiker in Paris	Theodor Mundt	Mundt_MadelonoderdieRomantikerinParis_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/mundt/madelon/madelon.html
+1071	Erster Band: Novellen	Theodor Storm	Storm_ErsterBandNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/bd1-nove/bd1-nove.html
+1072	Zweiter Band: Novellen	Theodor Storm	Storm_ZweiterBandNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/bd2/bd2.html
+1073	Dritter Band: Novellen	Theodor Storm	Storm_DritterBandNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/bd3/bd3.html
+1074	Vierter Band: Novellen	Theodor Storm	Storm_VierterBandNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/bd4/bd4.html
+1075	Fünfter Band: Novellen	Theodor Storm	Storm_FünfterBandNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/bd5/bd5.html
+1076	Sechster Band: Novellen	Theodor Storm	Storm_SechsterBandNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/bd6/bd6.html
+1077	Siebter Band: Novellen	Theodor Storm	Storm_SiebterBandNovellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/bd7/bd7.html
+1078	aquis submersus	Theodor Storm	Storm_aquissubmersus_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/aquis/aquis.html
+1079	Auf dem Staatshof	Theodor Storm	Storm_AufdemStaatshof_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/staatshf/staatshf.html
+1080	Auf der Universität	Theodor Storm	Storm_AufderUniversität_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/univers/univers.html
+1081	Die Regentrude	Theodor Storm	Storm_DieRegentrude_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/regentrd/regentrd.html
+1082	Eekenhof	Theodor Storm	Storm_Eekenhof_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/eekenhof/eekenhof.html
+1083	Ein Bekenntnis	Theodor Storm	Storm_EinBekenntnis_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/bekennt/bekennt.html
+1084	Hinzelmeier	Theodor Storm	Storm_Hinzelmeier_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/storm/hinzel/hinzelme.html
+1085	In St. Jürgen	Theodor Storm	Storm_InStJürgen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/juergen/juergen.html
+1086	Neun Novellen und Erzählungen	Theodor Storm	Storm_NeunNovellenundErzählungen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/9novell/9novell.html
+1087	Neun Novellen und Erzählungen	Theodor Storm	Storm_NeunNovellenundErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/storm/9novell/9novell.html
+1088	Sylter Novelle	Theodor Storm	Storm_SylterNovelle_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/sylterno/sylterno.html
+1089	Drei weitere kleine Erzählungen	Theodor Storm	Storm_DreiweiterekleineErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/storm/erzaehlg/erzaehlg.html
+1090	30 Novellen	Theodor Storm	Storm_30Novellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/novellen/band1.html
+1091	weitere 8 Novellen	Theodor Storm	Storm_weitere8Novellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/storm/novelle2/novelle2.html
+1092	Des Achmüllers Recht	Therese Winkler	Winkler_DesAchmüllersRecht_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/messerer/recht/recht.html
+1093	Aus alter Truhe	Timm Kröger	Kröger_AusalterTruhe_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/kroeger/alttruhe/alttruhe.html
+1094	Dem unbekannten Gott	Timm Kröger	Kröger_DemunbekanntenGott_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/kroeger/unbegott/unbegott.html
+1095	Eine stille Welt	Timm Kröger	Kröger_EinestilleWelt_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/kroeger/stillewe/stillewe.html
+1096	Das Veferl vom Eibsee	Tony Schumacher	Schumacher_DasVeferlvomEibsee_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/schumact/veferl/veferl.html
+1097	Heimatzauber	Tony Schumacher	Schumacher_Heimatzauber_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schumact/heimatza/heimatza.html
+1098	Li und Lu und andere Erzählungen für die Jugend	Tony Schumacher	Schumacher_LiundLuundandereErzählungenfürdieJugend_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schumact/liundlu/liundlu.html
+1099	Schwatzliesel und andere Erzählungen	Tony Schumacher	Schumacher_SchwatzlieselundandereErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/schumact/schwatzl/schwatzl.html
+1100	Aus dem Leben eines Geringen	Ulrich Hegner	Hegner_AusdemLebeneinesGeringen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hegner/geringen/geringen.html
+1101	Die Molkenkur	Ulrich Hegner	Hegner_DieMolkenkur_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hegner/molkenku/molkenku.html
+1102	Saly's Revolutionstage	Ulrich Hegner	Hegner_SalysRevolutionstage_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hegner/saly/saly.html
+1103	Der Kanzler Klaus von Bismarck	Walter Flex	Flex_DerKanzlerKlausvonBismarck_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/flex/kanzler/kanzler.html
+1104	Novellen	Walter Flex	Flex_Novellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/flex/novellen/novellen.html
+1106	Der Mann im Mond	Wilhelm Hauff	Hauff_DerMannimMond_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hauff/mannmond/mannmond.html
+1107	Die Bettlerin vom Pont des Arts	Wilhelm Hauff	Hauff_DieBettlerinvomPontdesArts_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hauff/bettleri/bettleri.html
+1108	Lichtenstein	Wilhelm Hauff	Hauff_Lichtenstein_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/hauff/lichtens/lichtens.html
+1109	Mitteilungen aus den Memoiren des Satans	Wilhelm Hauff	Hauff_MitteilungenausdenMemoirendesSatans_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hauff/memsatan/memsatan.html
+1110	Novellen	Wilhelm Hauff	Hauff_Novellen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/hauff/novhauff/novhauff.html
+1111	Othello	Wilhelm Hauff	Hauff_Othello_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/hauff/othello/othell01.html
+1112	Phantasien im Bremer Ratskeller	Wilhelm Hauff	Hauff_PhantasienimBremerRatskeller_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hauff/ratskell/ratskell.html
+1113	Phantasien und Skizzen	Wilhelm Hauff	Hauff_PhantasienundSkizzen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hauff/phantask/phantask.html
+1114	Die Gerechtigkeit Gottes	Wilhelm Heinrich Riehl	Riehl_DieGerechtigkeitGottes_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/riehl/gerechti/gerechti.html
+1115	Durch tausend Jahre, Band 1	Wilhelm Heinrich Riehl	Riehl_DurchtausendJahreBand1_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/riehl/kultnov1/kultnov1.html
+1116	Durch tausend Jahre, Band 2	Wilhelm Heinrich Riehl	Riehl_DurchtausendJahreBand2_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/riehl/kultnov2/kultnov2.html
+1117	Durch tausend Jahre, Band 3	Wilhelm Heinrich Riehl	Riehl_DurchtausendJahreBand3_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/riehl/kultnov3/kultnov3.html
+1118	Durch tausend Jahre, Band 4	Wilhelm Heinrich Riehl	Riehl_DurchtausendJahreBand4_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/riehl/kultnov4/kultnov4.html
+1119	Ein ganzer Mann	Wilhelm Heinrich Riehl	Riehl_EinganzerMann_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/riehl/ganzmann/ganzmann.html
+1120	Die Siegfriedsage in ihrer nordischen Gestalt	Wilhelm Hertz	Hertz_DieSiegfriedsageinihrernordischenGestalt_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hertz/erzaehlg/siegfrie.html
+1121	Bruder Rausch	Wilhelm Hertz	Hertz_BruderRausch_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/hertz/rausch/rausch.html
+1122	Poetische Erzählungen	Wilhelm Hertz	Hertz_PoetischeErzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/mariefra/poeterz/poeterz.html
+1123	Erzählungen	Wilhelm Holzamer	Holzamer_Erzählungen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/holzamer/erzaehlg/erzaehlg.html
+1124	Im Dorf und Draußen	Wilhelm Holzamer	Holzamer_ImDorfundDraußen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/holzamer/dorfdrau/dorfdrau.html
+1125	Auf dem Vestenstein	Wilhelm Jensen	Jensen_AufdemVestenstein_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/jensen/vestenst/vestenst.html
+1126	Die Juden von Cölln	Wilhelm Jensen	Jensen_DieJudenvonCölln_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/jensen/judenkoe/judenkoe.html
+1127	Eine Schachpartie	Wilhelm Jensen	Jensen_EineSchachpartie_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/jensen/schachpa/schachpa.html
+1128	Gradiva	Wilhelm Jensen	Jensen_Gradiva_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/jensen/gradiva/gradiva.html
+1129	Karin von Schweden	Wilhelm Jensen	Jensen_KarinvonSchweden_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/jensen/karinsch/karinsch.html
+1130	Lena S.	Wilhelm Meyer-Förster	Meyer-Förster_LenaS_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/meyerfoe/lenas/lenas.html
+1131	Heidenstamm	Wilhelm Meyer-Förster	Meyer-Förster_Heidenstamm_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/meyerfoe/heidenst/heidenst.html
+1132	Der Kriminalkutter	Wilhelm Poeck	Poeck_DerKriminalkutter_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/poeck/krimkutt/krimkutt.html
+1133	Auf dem Altenteil	Wilhelm Raabe	Raabe_AufdemAltenteil_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/raabe/altentl/altentl.html
+1134	Das letzte Recht	Wilhelm Raabe	Raabe_DasletzteRecht_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/raabe/lztrecht/ltzrecht.html
+1135	Der Dräumling	Wilhelm Raabe	Raabe_DerDräumling_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/raabe/draeumli/draeumli.html
+1136	Der gute Tag	Wilhelm Raabe	Raabe_DerguteTag_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/raabe/gutetag/gutetag.html
+1137	Der heilige Born	Wilhelm Raabe	Raabe_DerheiligeBorn_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/raabe/heilborn/heilborn.html
+1138	Deutscher Adel	Wilhelm Raabe	Raabe_DeutscherAdel_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/raabe/dadel/dadel.html
+1139	Deutscher Mondschein	Wilhelm Raabe	Raabe_DeutscherMondschein_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/raabe/mond/mond.html
+1140	Die Innerste	Wilhelm Raabe	Raabe_DieInnerste_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/raabe/innerste/innerste.html
+1141	Ein Besuch	Wilhelm Raabe	Raabe_EinBesuch_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/raabe/einbesuc/einbesuc.html
+1142	Eine Grabrede aus dem Jahr 1609	Wilhelm Raabe	Raabe_EineGrabredeausdemJahr1609_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/raabe/grabrede/grabrede.html
+1143	Halb Mär, halb mehr	Wilhelm Raabe	Raabe_HalbMärhalbmehr_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/raabe/halbmaer/halbmaer.html
+1144	Keltische Knochen	Wilhelm Raabe	Raabe_KeltischeKnochen_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/raabe/keltisch/keltisch.html
+1145	Nach dem großen Kriege	Wilhelm Raabe	Raabe_NachdemgroßenKriege_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/raabe/nachkrie/nachkrie.html
+1146	Prinzessin Fisch	Wilhelm Raabe	Raabe_PrinzessinFisch_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/raabe/prifisch/prifisch.html
+1147	Unruhige Gäste	Wilhelm Raabe	Raabe_UnruhigeGäste_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/raabe/ungaeste/ungaeste.html
+1148	Verworrenes Leben. Novellen und Skizzen	Wilhelm Raabe	Raabe_VerworrenesLebenNovellenundSkizzen_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/raabe/verworre/verworre.html
+1149	Wunnigel	Wilhelm Raabe	Raabe_Wunnigel_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/raabe/wunnigel/wunnigel.html
+1150	Der Grabenhäger	Wilhelm von Polenz	Polenz_DerGrabenhäger_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/polenz/grabhaeg/grabhaeg.html
+1151	Die Glocken von Krummseifenbach	Wilhelm von Polenz	Polenz_DieGlockenvonKrummseifenbach_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/polenz/glocken/glocken.html
+1152	Wald	Wilhelm von Polenz	Polenz_Wald_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/polenz/wald/wald.html
+1153	Wurzellocker, Band 1	Wilhelm von Polenz	Polenz_WurzellockerBand1_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/polenz/wurzel1/wurzel1.html
+1154	Wurzellocker, Band 2	Wilhelm von Polenz	Polenz_WurzellockerBand2_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/polenz/wurzel2/wurzel2.html
+1155	Phaeton	Wilhelm Waiblinger	Waiblinger_Phaeton_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/waibling/phaeton/phaeton.html
+1156	Im Schatten des Todes	Wilhelm Walloth	Walloth_ImSchattendesTodes_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/walloth/schatten/schatten.html
+1157	Als Kriegsfreiwilliger nach Frankreich	Willibald Alexis, eigentlich Georg Wilhelm Heinrich Häring	Häring_AlsKriegsfreiwilligernachFrankreich_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/alexis/freiwill/freiwill.html
+1158	Cabanis	Willibald Alexis, eigentlich Georg Wilhelm Heinrich Häring	Häring_Cabanis_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/alexis/cabanis/cabanis.html
+1159	Der falsche Woldemar	Willibald Alexis, eigentlich Georg Wilhelm Heinrich Häring	Häring_DerfalscheWoldemar_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/alexis/woldemar/woldemar.html
+1160	Die Geächteten	Willibald Alexis, eigentlich Georg Wilhelm Heinrich Häring	Häring_DieGeächteten_gutenberg.txt	Novelle	https://www.projekt-gutenberg.org/alexis/geaechte/geaechte.html
+1161	Die Hosen des Herrn von Bredow	Willibald Alexis, eigentlich Georg Wilhelm Heinrich Häring	Häring_DieHosendesHerrnvonBredow_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/alexis/bredow/bredow.html
+1162	Isegrimm	Willibald Alexis, eigentlich Georg Wilhelm Heinrich Häring	Häring_Isegrimm_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/alexis/isegrimm/isegrimm.html
+1163	Ja in Neapel	Willibald Alexis, eigentlich Georg Wilhelm Heinrich Häring	Häring_JainNeapel_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/alexis/jainneap/jainneap.html
+1164	Pommersche Gespenster	Willibald Alexis, eigentlich Georg Wilhelm Heinrich Häring	Häring_PommerscheGespenster_gutenberg.txt	Erzählung	https://www.projekt-gutenberg.org/alexis/gespenst/gespenst.html
+1165	Ruhe ist die erste Bürgerpflicht oder Vor Fünfzig Jahren	Willibald Alexis, eigentlich Georg Wilhelm Heinrich Häring	Häring_RuheistdieersteBürgerpflichtoderVorFünfzigJahren_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/alexis/ruhe/ruhe.html
+1166	Walladmor	Willibald Alexis, eigentlich Georg Wilhelm Heinrich Häring	Häring_Walladmor_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/alexis/walladmr/walladmr.html
+1167	Das Leben auf der Walze	Wolfgang Kirchbach	Kirchbach_DasLebenaufderWalze_gutenberg.txt	Roman	https://www.projekt-gutenberg.org/kirchbac/lebwalze/lebwalze.html
